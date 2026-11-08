@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 54/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 59/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -60,3 +60,8 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 052 | Cá hấp đậu xị | 19.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-052-7680811463170133268.mp4) | `2026-09-02_@yeucomnhanau_7680811463170133268.mp4` |
 | 053 | Thịt bò xào | 28.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-053-7680362978654326036.mp4) | `2026-09-01_@yeucomnhanau_7680362978654326036.mp4` |
 | 054 | Thịt anh đào | 48.8 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-054-7681565167666089237.mp4) | `2026-09-04_@yeucomnhanau_7681565167666089237.mp4` |
+| 055 | Ốc xào | 27.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-055-7681851313289694485.mp4) | `2026-09-05_@yeucomnhanau_7681851313289694485.mp4` |
+| 056 | Thịt bò hầm | 51.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-056-7681587477055835413.mp4) | `2026-09-04_@yeucomnhanau_7681587477055835413.mp4` |
+| 057 | Rau củ chiên giòn | 43.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-057-7683533926991875348.mp4) | `2026-09-09_@yeucomnhanau_7683533926991875348.mp4` |
+| 058 | Món mì nhà làm | 37.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-058-7683124017905143061.mp4) | `2026-09-08_@yeucomnhanau_7683124017905143061.mp4` |
+| 059 | Món rau xào | 19.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-059-7685703778812611861.mp4) | `2026-09-15_@yeucomnhanau_7685703778812611861.mp4` |
