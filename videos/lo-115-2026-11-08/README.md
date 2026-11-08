@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 59/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 65/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -65,3 +65,9 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 057 | Rau củ chiên giòn | 43.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-057-7683533926991875348.mp4) | `2026-09-09_@yeucomnhanau_7683533926991875348.mp4` |
 | 058 | Món mì nhà làm | 37.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-058-7683124017905143061.mp4) | `2026-09-08_@yeucomnhanau_7683124017905143061.mp4` |
 | 059 | Món rau xào | 19.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-059-7685703778812611861.mp4) | `2026-09-15_@yeucomnhanau_7685703778812611861.mp4` |
+| 060 | Khoai mỡ chiên | 41.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-060-7683930221799705876.mp4) | `2026-09-10_@yeucomnhanau_7683930221799705876.mp4` |
+| 061 | Trứng hấp | 70.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-061-7685680478002711829.mp4) | `2026-09-15_@yeucomnhanau_7685680478002711829.mp4` |
+| 062 | Trứng cuộn rau | 66.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-062-7686746557068217620.mp4) | `2026-09-18_@yeucomnhanau_7686746557068217620.mp4` |
+| 063 | Bì đông trong suốt | 75.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-063-7686711350764113173.mp4) | `2026-09-18_@yeucomnhanau_7686711350764113173.mp4` |
+| 064 | Món xào đậm vị | 40.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-064-7686025578973023508.mp4) | `2026-09-16_@yeucomnhanau_7686025578973023508.mp4` |
+| 065 | Cánh gà chiên | 55.1 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-065-7687486860146396437.mp4) | `2026-09-20_@yeucomnhanau_7687486860146396437.mp4` |
