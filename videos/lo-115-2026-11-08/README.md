@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 79/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 89/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -31,6 +31,7 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 023 | Món ngon nhà làm | 53.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-023-7671513840500165909.mp4) | `2026-08-08_@yeucomnhanau_7671513840500165909.mp4` |
 | 024 | Trứng xào tôm | 23.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-024-7671933485401001236.mp4) | `2026-08-09_@yeucomnhanau_7671933485401001236.mp4` |
 | 025 | Đậu phụ áp chảo | 27.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-025-7672179682812448021.mp4) | `2026-08-10_@yeucomnhanau_7672179682812448021.mp4` |
+| 026 | Món ngon nhà làm | 83.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-026-7672444693191445780.mp4) | `2026-08-10_@yeucomnhanau_7672444693191445780.mp4` |
 | 027 | Viên khoai lang sốt chua ngọt | 49.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-027-7672596010039889172.mp4) | `2026-08-11_@yeucomnhanau_7672596010039889172.mp4` |
 | 028 | Món ngon nhà làm | 53.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-028-7673516022238006549.mp4) | `2026-08-13_@yeucomnhanau_7673516022238006549.mp4` |
 | 029 | Mướp nấu mực | 15.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-029-7673688700743585045.mp4) | `2026-08-14_@yeucomnhanau_7673688700743585045.mp4` |
@@ -40,6 +41,7 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 033 | Trứng trà | 15.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-033-7675251108230614293.mp4) | `2026-08-18_@yeucomnhanau_7675251108230614293.mp4` |
 | 034 | Cánh gà chiên | 55.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-034-7673813915301711124.mp4) | `2026-08-14_@yeucomnhanau_7673813915301711124.mp4` |
 | 035 | Cơm trộn hải sản | 40.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-035-7674888862837165332.mp4) | `2026-08-17_@yeucomnhanau_7674888862837165332.mp4` |
+| 036 | Canh cá | 46.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-036-7675723701081525524.mp4) | `2026-08-19_@yeucomnhanau_7675723701081525524.mp4` |
 | 037 | Thịt bò hầm | 12.7 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-037-7675327136005213461.mp4) | `2026-08-18_@yeucomnhanau_7675327136005213461.mp4` |
 | 038 | Bánh nhà làm | 27.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-038-7677043387853327634.mp4) | `2026-08-23_@yeucomnhanau_7677043387853327634.mp4` |
 | 039 | Bánh đậu phụ chiên | 42.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-039-7676332276434750741.mp4) | `2026-08-21_@yeucomnhanau_7676332276434750741.mp4` |
@@ -51,6 +53,7 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 045 | Thịt heo nấu bia | 21.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-045-7678273364087164180.mp4) | `2026-08-26_@yeucomnhanau_7678273364087164180.mp4` |
 | 046 | Canh cá diếc | 28.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-046-7678225480381697300.mp4) | `2026-08-26_@yeucomnhanau_7678225480381697300.mp4` |
 | 047 | Bí đao nhồi thịt | 72.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-047-7677882401766296850.mp4) | `2026-08-25_@yeucomnhanau_7677882401766296850.mp4` |
+| 048 | Nước chấm lẩu | 47.7 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-048-7680181158293835029.mp4) | `2026-08-31_@yeucomnhanau_7680181158293835029.mp4` |
 | 049 | Lẩu khô cay | 43.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-049-7678871274994552085.mp4) | `2026-08-28_@yeucomnhanau_7678871274994552085.mp4` |
 | 050 | Đậu phụ nhồi thịt | 26.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-050-7680448141128256789.mp4) | `2026-09-01_@yeucomnhanau_7680448141128256789.mp4` |
 | 051 | Cánh gà chiên | 45.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-051-7680400119123938580.mp4) | `2026-09-01_@yeucomnhanau_7680400119123938580.mp4` |
@@ -71,6 +74,7 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 066 | Món ngon nhà làm | 35.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-066-7687590791748816148.mp4) | `2026-09-20_@yeucomnhanau_7687590791748816148.mp4` |
 | 067 | Bò hầm cà rốt | 56.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-067-7690175466711387393.mp4) | `2026-09-27_@yeucomnhanau_7690175466711387393.mp4` |
 | 068 | Hoành thánh ăn liền | 25.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-068-7690489357374868756.mp4) | `2026-09-28_@yeucomnhanau_7690489357374868756.mp4` |
+| 069 | Hoành thánh | 46.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-069-7690531374830193940.mp4) | `2026-09-28_@yeucomnhanau_7690531374830193940.mp4` |
 | 070 | Thịt hấp | 102.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-070-7690438272857672981.mp4) | `2026-09-28_@yeucomnhanau_7690438272857672981.mp4` |
 | 071 | Trứng bắc thảo nhà làm | 57.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-071-7690993328590097685.mp4) | `2026-09-29_@yeucomnhanau_7690993328590097685.mp4` |
 | 072 | Trứng luộc gia vị | 32.7 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-072-7691351466384051476.mp4) | `2026-09-30_@yeucomnhanau_7691351466384051476.mp4` |
@@ -85,3 +89,9 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 081 | Cà tím xào | 29.7 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-081-7692646717560311061.mp4) | `2026-10-04_@yeucomnhanau_7692646717560311061.mp4` |
 | 082 | Viên thịt ngô | 27.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-082-7693386281270758677.mp4) | `2026-10-06_@yeucomnhanau_7693386281270758677.mp4` |
 | 083 | Đậu phụ chiên | 26.8 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-083-7693198947728379156.mp4) | `2026-10-05_@yeucomnhanau_7693198947728379156.mp4` |
+| 084 | Rau muống xào tỏi | 45.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-084-7693413069694700821.mp4) | `2026-10-06_@yeucomnhanau_7693413069694700821.mp4` |
+| 085 | Rau xanh xào | 31.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-085-7693466258582310164.mp4) | `2026-10-06_@yeucomnhanau_7693466258582310164.mp4` |
+| 086 | Món om nhà làm | 32.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-086-7694245455080770836.mp4) | `2026-10-08_@yeucomnhanau_7694245455080770836.mp4` |
+| 087 | Canh cá không hóc xương | 33.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-087-7693773830849826068.mp4) | `2026-10-07_@yeucomnhanau_7693773830849826068.mp4` |
+| 088 | Bánh hấp táo đỏ | 71.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-088-7696009005855984897.mp4) | `2026-10-13_@yeucomnhanau_7696009005855984897.mp4` |
+| 089 | Thịt hấp | 32.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-089-7696344105214856449.mp4) | `2026-10-14_@yeucomnhanau_7696344105214856449.mp4` |
