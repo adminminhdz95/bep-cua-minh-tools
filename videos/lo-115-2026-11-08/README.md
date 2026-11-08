@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 107/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 113/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -113,3 +113,9 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 105 | Canh bò cà chua | 49.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-105-7701519029302758708.mp4) | `2026-10-28_@yeucomnhanau_7701519029302758708.mp4` |
 | 106 | Cá vược chiên giòn | 44.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-106-7701658173853240577.mp4) | `2026-10-28_@yeucomnhanau_7701658173853240577.mp4` |
 | 107 | Tôm tích sốt mù tạt | 58.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-107-7701890127517224210.mp4) | `2026-10-29_@yeucomnhanau_7701890127517224210.mp4` |
+| 108 | Mì bò | 32.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-108-7701936495438908680.mp4) | `2026-10-29_@yeucomnhanau_7701936495438908680.mp4` |
+| 109 | Cơm trộn vị bò | 41.9 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-109-7702029328955002120.mp4) | `2026-10-29_@yeucomnhanau_7702029328955002120.mp4` |
+| 110 | Sườn sốt mơ | 73.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-110-7701704629117029639.mp4) | `2026-10-28_@yeucomnhanau_7701704629117029639.mp4` |
+| 111 | Canh đuôi heo | 79.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-111-7702075752023362824.mp4) | `2026-10-29_@yeucomnhanau_7702075752023362824.mp4` |
+| 112 | Chè ngó sen lê tuyết | 68.8 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-112-7702261159793020168.mp4) | `2026-10-30_@yeucomnhanau_7702261159793020168.mp4` |
+| 114 | Lẩu khô cay | 26.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-114-7702632291641675016.mp4) | `2026-10-31_@yeucomnhanau_7702632291641675016.mp4` |
