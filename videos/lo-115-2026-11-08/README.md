@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 24/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 30/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -30,3 +30,9 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 022 | Gà om đậm vị | 43.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-022-7671407520900025620.mp4) | `2026-08-08_@yeucomnhanau_7671407520900025620.mp4` |
 | 023 | Món ngon nhà làm | 53.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-023-7671513840500165909.mp4) | `2026-08-08_@yeucomnhanau_7671513840500165909.mp4` |
 | 024 | Trứng xào tôm | 23.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-024-7671933485401001236.mp4) | `2026-08-09_@yeucomnhanau_7671933485401001236.mp4` |
+| 025 | Đậu phụ áp chảo | 27.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-025-7672179682812448021.mp4) | `2026-08-10_@yeucomnhanau_7672179682812448021.mp4` |
+| 026 | Món ngon từ bí đỏ | 83.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-026-7672444693191445780.mp4) | `2026-08-10_@yeucomnhanau_7672444693191445780.mp4` |
+| 027 | Viên khoai lang sốt chua ngọt | 49.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-027-7672596010039889172.mp4) | `2026-08-11_@yeucomnhanau_7672596010039889172.mp4` |
+| 028 | Món ngon nhà làm | 53.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-028-7673516022238006549.mp4) | `2026-08-13_@yeucomnhanau_7673516022238006549.mp4` |
+| 029 | Mướp nấu mực | 15.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-029-7673688700743585045.mp4) | `2026-08-14_@yeucomnhanau_7673688700743585045.mp4` |
+| 030 | Món ngon từ đậu đỏ | 44.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-030-7673452906946891029.mp4) | `2026-08-13_@yeucomnhanau_7673452906946891029.mp4` |
