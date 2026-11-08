@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 89/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 95/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -95,3 +95,9 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 087 | Canh cá không hóc xương | 33.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-087-7693773830849826068.mp4) | `2026-10-07_@yeucomnhanau_7693773830849826068.mp4` |
 | 088 | Bánh hấp táo đỏ | 71.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-088-7696009005855984897.mp4) | `2026-10-13_@yeucomnhanau_7696009005855984897.mp4` |
 | 089 | Thịt hấp | 32.0 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-089-7696344105214856449.mp4) | `2026-10-14_@yeucomnhanau_7696344105214856449.mp4` |
+| 090 | Sườn om dứa | 34.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-090-7696394515732499764.mp4) | `2026-10-14_@yeucomnhanau_7696394515732499764.mp4` |
+| 091 | Sữa tươi chiên giòn | 44.8 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-091-7696907601711516949.mp4) | `2026-10-15_@yeucomnhanau_7696907601711516949.mp4` |
+| 092 | Món gan heo | 69.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-092-7696517346793360660.mp4) | `2026-10-14_@yeucomnhanau_7696517346793360660.mp4` |
+| 093 | Ba chỉ nhà làm | 71.5 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-093-7699721259055140116.mp4) | `2026-10-23_@yeucomnhanau_7699721259055140116.mp4` |
+| 094 | Ba chỉ cuộn | 48.7 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-094-7700034682158599444.mp4) | `2026-10-24_@yeucomnhanau_7700034682158599444.mp4` |
+| 097 | Trứng hấp ngao | 37.4 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-097-7700591381135363349.mp4) | `2026-10-25_@yeucomnhanau_7700591381135363349.mp4` |
