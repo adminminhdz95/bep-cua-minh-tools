@@ -1,6 +1,6 @@
 # Bếp Của Minh — lô 115 video
 
-Đã có 113/115 video MP4 trong danh sách này. Không kèm ZIP.
+Đã có 115/115 video MP4 trong danh sách này. Không kèm ZIP.
 
 Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫn và chữ phụ đề nguồn.
 
@@ -118,4 +118,6 @@ Màu ấm, logo góc trái, bố cục nền mờ; giữ âm thanh hướng dẫ
 | 110 | Sườn sốt mơ | 73.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-110-7701704629117029639.mp4) | `2026-10-28_@yeucomnhanau_7701704629117029639.mp4` |
 | 111 | Canh đuôi heo | 79.6 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-111-7702075752023362824.mp4) | `2026-10-29_@yeucomnhanau_7702075752023362824.mp4` |
 | 112 | Chè ngó sen lê tuyết | 68.8 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-112-7702261159793020168.mp4) | `2026-10-30_@yeucomnhanau_7702261159793020168.mp4` |
+| 113 | Xúc xích nhà làm | 63.2 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-113-7702446773951810823.mp4) | `2026-10-30_@yeucomnhanau_7702446773951810823.mp4` |
 | 114 | Lẩu khô cay | 26.3 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-114-7702632291641675016.mp4) | `2026-10-31_@yeucomnhanau_7702632291641675016.mp4` |
+| 115 | Đậu phụ ky | 23.8 giây | [Tải video](https://github.com/adminminhdz95/bep-cua-minh-tools/raw/refs/heads/main/videos/lo-115-2026-11-08/Bep-Cua-Minh-115-7702678639111965959.mp4) | `2026-10-31_@yeucomnhanau_7702678639111965959.mp4` |
