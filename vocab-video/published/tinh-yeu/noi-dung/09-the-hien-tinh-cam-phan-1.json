@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 09/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.1666666666666665,
+  "topic": "Hành động thể hiện tình cảm",
+  "part": 1,
+  "questions": [
+    {
+      "word": "kiss",
+      "meaning": "hôn",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“hôn”?",
+      "narration": "Hôn.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "hug",
+      "meaning": "ôm",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“ôm”?",
+      "narration": "Ôm.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "cuddle",
+      "meaning": "ôm ấp, âu yếm",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“ôm ấp, âu yếm”?",
+      "narration": "Ôm ấp, âu yếm.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "embrace",
+      "meaning": "ôm chặt",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“ôm chặt”?",
+      "narration": "Ôm chặt.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "hold hands",
+      "meaning": "nắm tay",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“nắm tay”?",
+      "narration": "Nắm tay.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

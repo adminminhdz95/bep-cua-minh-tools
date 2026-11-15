@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 19/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.1666666666666665,
+  "topic": "Chia tay và bước tiếp",
+  "part": 1,
+  "questions": [
+    {
+      "word": "break up",
+      "meaning": "chia tay",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chia tay”?",
+      "narration": "Chia tay.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "breakup",
+      "meaning": "cuộc chia tay",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“cuộc chia tay”?",
+      "narration": "Cuộc chia tay.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ex-partner",
+      "meaning": "người yêu hoặc bạn đời cũ",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người yêu hoặc bạn đời cũ”?",
+      "narration": "Người yêu hoặc bạn đời cũ.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "separation",
+      "meaning": "sự chia xa, ly thân",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự chia xa, ly thân”?",
+      "narration": "Sự chia xa, ly thân.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "divorce",
+      "meaning": "sự ly hôn",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự ly hôn”?",
+      "narration": "Sự ly hôn.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "honeymoon",
+          "meaning": "tuần trăng mật",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

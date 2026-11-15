@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 11/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Tình yêu bền vững",
+  "part": 1,
+  "questions": [
+    {
+      "word": "trust",
+      "meaning": "lòng tin",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“lòng tin”?",
+      "narration": "Lòng tin.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "respect",
+      "meaning": "sự tôn trọng",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự tôn trọng”?",
+      "narration": "Sự tôn trọng.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "honesty",
+      "meaning": "sự trung thực",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự trung thực”?",
+      "narration": "Sự trung thực.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "loyalty",
+      "meaning": "lòng chung thủy",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“lòng chung thủy”?",
+      "narration": "Lòng chung thủy.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "commitment",
+      "meaning": "sự cam kết gắn bó",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự cam kết gắn bó”?",
+      "narration": "Sự cam kết gắn bó.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

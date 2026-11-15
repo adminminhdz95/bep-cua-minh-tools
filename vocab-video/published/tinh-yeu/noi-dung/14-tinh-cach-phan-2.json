@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 14/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.566666666666667,
+  "topic": "Tính cách và phẩm chất",
+  "part": 2,
+  "questions": [
+    {
+      "word": "faithful",
+      "meaning": "chung thủy",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chung thủy”?",
+      "narration": "Chung thủy.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "devoted",
+      "meaning": "tận tâm, hết lòng",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tận tâm, hết lòng”?",
+      "narration": "Tận tâm, hết lòng.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "sincere",
+      "meaning": "chân thành",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chân thành”?",
+      "narration": "Chân thành.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "compatible",
+      "meaning": "hòa hợp, hợp nhau",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“hòa hợp, hợp nhau”?",
+      "narration": "Hòa hợp, hợp nhau.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "considerate partner",
+      "meaning": "người yêu biết nghĩ cho đối phương",
+      "pos": "noun phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người yêu biết nghĩ cho đối phương”?",
+      "narration": "Người yêu biết nghĩ cho đối phương.",
+      "distractors": [
+        {
+          "word": "business meeting",
+          "meaning": "cuộc họp công việc",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "family dinner",
+          "meaning": "bữa tối gia đình",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "school trip",
+          "meaning": "chuyến đi của trường",
+          "pos": "noun phrase"
+        }
+      ]
+    }
+  ]
+}

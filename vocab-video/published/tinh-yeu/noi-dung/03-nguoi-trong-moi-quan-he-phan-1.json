@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 03/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.1,
+  "topic": "Người trong mối quan hệ",
+  "part": 1,
+  "questions": [
+    {
+      "word": "crush",
+      "meaning": "người mình thầm thích",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người mình thầm thích”?",
+      "narration": "Người mình thầm thích.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "boyfriend",
+      "meaning": "bạn trai",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“bạn trai”?",
+      "narration": "Bạn trai.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "girlfriend",
+      "meaning": "bạn gái",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“bạn gái”?",
+      "narration": "Bạn gái.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "partner",
+      "meaning": "người yêu hoặc bạn đời",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người yêu hoặc bạn đời”?",
+      "narration": "Người yêu hoặc bạn đời.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "lover",
+      "meaning": "người tình",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người tình”?",
+      "narration": "Người tình.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

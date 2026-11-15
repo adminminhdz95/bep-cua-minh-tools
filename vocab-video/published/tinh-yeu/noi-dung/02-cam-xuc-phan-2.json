@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 02/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Cảm xúc tình yêu",
+  "part": 2,
+  "questions": [
+    {
+      "word": "passion",
+      "meaning": "tình yêu mãnh liệt",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tình yêu mãnh liệt”?",
+      "narration": "Tình yêu mãnh liệt.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "desire",
+      "meaning": "sự khao khát",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự khao khát”?",
+      "narration": "Sự khao khát.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "longing",
+      "meaning": "nỗi mong nhớ",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“nỗi mong nhớ”?",
+      "narration": "Nỗi mong nhớ.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tenderness",
+      "meaning": "sự dịu dàng, âu yếm",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự dịu dàng, âu yếm”?",
+      "narration": "Sự dịu dàng, âu yếm.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "intimacy",
+      "meaning": "sự gần gũi, thân mật",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự gần gũi, thân mật”?",
+      "narration": "Sự gần gũi, thân mật.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

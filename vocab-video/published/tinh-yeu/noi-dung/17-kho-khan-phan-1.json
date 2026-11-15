@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 17/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.566666666666667,
+  "topic": "Khó khăn trong tình yêu",
+  "part": 1,
+  "questions": [
+    {
+      "word": "jealousy",
+      "meaning": "sự ghen tuông",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự ghen tuông”?",
+      "narration": "Sự ghen tuông.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        },
+        {
+          "word": "honeymoon",
+          "meaning": "tuần trăng mật",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "insecurity",
+      "meaning": "cảm giác bất an, thiếu tự tin",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“cảm giác bất an, thiếu tự tin”?",
+      "narration": "Cảm giác bất an, thiếu tự tin.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "misunderstanding",
+      "meaning": "sự hiểu lầm",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự hiểu lầm”?",
+      "narration": "Sự hiểu lầm.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "argument",
+      "meaning": "cuộc cãi vã",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“cuộc cãi vã”?",
+      "narration": "Cuộc cãi vã.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "conflict",
+      "meaning": "sự xung đột",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự xung đột”?",
+      "narration": "Sự xung đột.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

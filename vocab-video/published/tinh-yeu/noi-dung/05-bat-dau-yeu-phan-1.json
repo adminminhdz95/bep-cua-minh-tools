@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 05/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.3333333333333335,
+  "topic": "Bắt đầu yêu",
+  "part": 1,
+  "questions": [
+    {
+      "word": "flirt",
+      "meaning": "tán tỉnh",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tán tỉnh”?",
+      "narration": "Tán tỉnh.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "flirtation",
+      "meaning": "sự tán tỉnh",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự tán tỉnh”?",
+      "narration": "Sự tán tỉnh.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fall in love",
+      "meaning": "phải lòng, bắt đầu yêu",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“phải lòng, bắt đầu yêu”?",
+      "narration": "Phải lòng, bắt đầu yêu.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "have a crush on",
+      "meaning": "thầm thích ai",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“thầm thích ai”?",
+      "narration": "Thầm thích ai.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "be attracted to",
+      "meaning": "bị thu hút bởi ai",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“bị thu hút bởi ai”?",
+      "narration": "Bị thu hút bởi ai.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

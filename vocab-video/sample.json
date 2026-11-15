@@ -1,0 +1,52 @@
+{
+  "title": "TỪ VỰNG A1",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "questions": [
+    {
+      "word": "young", "meaning": "trẻ tuổi", "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là\n“trẻ tuổi”?",
+      "distractors": [
+        {"word": "old", "meaning": "già, lớn tuổi", "pos": "adjective"},
+        {"word": "tall", "meaning": "cao", "pos": "adjective"},
+        {"word": "short", "meaning": "thấp, ngắn", "pos": "adjective"}
+      ]
+    },
+    {
+      "word": "share", "meaning": "chia sẻ", "pos": "verb",
+      "prompt": "Động từ nào có nghĩa là\n“chia sẻ”?",
+      "distractors": [
+        {"word": "keep", "meaning": "giữ lại", "pos": "verb"},
+        {"word": "buy", "meaning": "mua", "pos": "verb"},
+        {"word": "sell", "meaning": "bán", "pos": "verb"}
+      ]
+    },
+    {
+      "word": "enough", "meaning": "đủ", "pos": "determiner",
+      "prompt": "Điền từ mang nghĩa “đủ”:\nWe have ___ food.",
+      "distractors": [
+        {"word": "some", "meaning": "một ít, một số", "pos": "determiner"},
+        {"word": "no", "meaning": "không có", "pos": "determiner"},
+        {"word": "more", "meaning": "thêm, nhiều hơn", "pos": "determiner"}
+      ]
+    },
+    {
+      "word": "fourth", "meaning": "thứ tư", "pos": "ordinal",
+      "prompt": "Số thứ tự nào có nghĩa là\n“thứ tư”?",
+      "distractors": [
+        {"word": "first", "meaning": "thứ nhất", "pos": "ordinal"},
+        {"word": "third", "meaning": "thứ ba", "pos": "ordinal"},
+        {"word": "fifth", "meaning": "thứ năm", "pos": "ordinal"}
+      ]
+    },
+    {
+      "word": "quarter", "meaning": "một phần tư", "pos": "noun",
+      "prompt": "Danh từ nào chỉ\n“một phần tư”?",
+      "distractors": [
+        {"word": "half", "meaning": "một nửa", "pos": "noun"},
+        {"word": "third", "meaning": "một phần ba", "pos": "noun"},
+        {"word": "whole", "meaning": "toàn bộ, cả phần", "pos": "noun"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 04/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.433333333333333,
+  "topic": "Người trong mối quan hệ",
+  "part": 2,
+  "questions": [
+    {
+      "word": "sweetheart",
+      "meaning": "người yêu dấu",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người yêu dấu”?",
+      "narration": "Người yêu dấu.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "soulmate",
+      "meaning": "người tâm đầu ý hợp trong tình yêu",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người tâm đầu ý hợp trong tình yêu”?",
+      "narration": "Người tâm đầu ý hợp trong tình yêu.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "significant other",
+      "meaning": "người yêu hoặc bạn đời",
+      "pos": "noun phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“người yêu hoặc bạn đời”?",
+      "narration": "Người yêu hoặc bạn đời.",
+      "distractors": [
+        {
+          "word": "business meeting",
+          "meaning": "cuộc họp công việc",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "family dinner",
+          "meaning": "bữa tối gia đình",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "school trip",
+          "meaning": "chuyến đi của trường",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "fiancé",
+      "meaning": "chồng sắp cưới",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chồng sắp cưới”?",
+      "narration": "Chồng sắp cưới.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fiancée",
+      "meaning": "vợ sắp cưới",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“vợ sắp cưới”?",
+      "narration": "Vợ sắp cưới.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

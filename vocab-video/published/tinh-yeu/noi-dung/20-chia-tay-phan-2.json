@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 20/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Chia tay và bước tiếp",
+  "part": 2,
+  "questions": [
+    {
+      "word": "reconciliation",
+      "meaning": "sự hòa giải, nối lại quan hệ",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự hòa giải, nối lại quan hệ”?",
+      "narration": "Sự hòa giải, nối lại quan hệ.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "make up",
+      "meaning": "làm hòa",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“làm hòa”?",
+      "narration": "Làm hòa.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "get back together",
+      "meaning": "quay lại với nhau",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“quay lại với nhau”?",
+      "narration": "Quay lại với nhau.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "move on",
+      "meaning": "bước tiếp sau một mối quan hệ",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“bước tiếp sau một mối quan hệ”?",
+      "narration": "Bước tiếp sau một mối quan hệ.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "let go",
+      "meaning": "buông bỏ",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“buông bỏ”?",
+      "narration": "Buông bỏ.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

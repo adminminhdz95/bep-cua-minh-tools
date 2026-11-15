@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 08/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.7333333333333334,
+  "topic": "Hẹn hò và tìm hiểu",
+  "part": 2,
+  "questions": [
+    {
+      "word": "romantic",
+      "meaning": "lãng mạn",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“lãng mạn”?",
+      "narration": "Lãng mạn.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "get to know someone",
+      "meaning": "tìm hiểu một người",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tìm hiểu một người”?",
+      "narration": "Tìm hiểu một người.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "spend time together",
+      "meaning": "dành thời gian bên nhau",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“dành thời gian bên nhau”?",
+      "narration": "Dành thời gian bên nhau.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "see someone",
+      "meaning": "đang hẹn hò với ai",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“đang hẹn hò với ai”?",
+      "narration": "Đang hẹn hò với ai.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "long-distance relationship",
+      "meaning": "mối quan hệ yêu xa",
+      "pos": "noun phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“mối quan hệ yêu xa”?",
+      "narration": "Mối quan hệ yêu xa.",
+      "distractors": [
+        {
+          "word": "business meeting",
+          "meaning": "cuộc họp công việc",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "family dinner",
+          "meaning": "bữa tối gia đình",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "school trip",
+          "meaning": "chuyến đi của trường",
+          "pos": "noun phrase"
+        }
+      ]
+    }
+  ]
+}

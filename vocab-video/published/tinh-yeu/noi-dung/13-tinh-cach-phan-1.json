@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 13/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Tính cách và phẩm chất",
+  "part": 1,
+  "questions": [
+    {
+      "word": "loving",
+      "meaning": "giàu tình yêu thương",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“giàu tình yêu thương”?",
+      "narration": "Giàu tình yêu thương.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "caring",
+      "meaning": "biết quan tâm",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“biết quan tâm”?",
+      "narration": "Biết quan tâm.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "affectionate",
+      "meaning": "hay thể hiện tình cảm",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“hay thể hiện tình cảm”?",
+      "narration": "Hay thể hiện tình cảm.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "thoughtful",
+      "meaning": "chu đáo",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chu đáo”?",
+      "narration": "Chu đáo.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "considerate",
+      "meaning": "biết nghĩ cho người khác",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“biết nghĩ cho người khác”?",
+      "narration": "Biết nghĩ cho người khác.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

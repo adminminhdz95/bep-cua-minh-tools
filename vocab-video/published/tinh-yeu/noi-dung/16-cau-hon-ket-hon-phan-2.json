@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 16/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Cầu hôn và kết hôn",
+  "part": 2,
+  "questions": [
+    {
+      "word": "bride",
+      "meaning": "cô dâu",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“cô dâu”?",
+      "narration": "Cô dâu.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "groom",
+      "meaning": "chú rể",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chú rể”?",
+      "narration": "Chú rể.",
+      "distractors": [
+        {
+          "word": "neighbor",
+          "meaning": "người hàng xóm",
+          "pos": "noun"
+        },
+        {
+          "word": "teacher",
+          "meaning": "giáo viên",
+          "pos": "noun"
+        },
+        {
+          "word": "stranger",
+          "meaning": "người xa lạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "marriage",
+      "meaning": "hôn nhân",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“hôn nhân”?",
+      "narration": "Hôn nhân.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wedding vows",
+      "meaning": "lời thề trong lễ cưới",
+      "pos": "noun phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“lời thề trong lễ cưới”?",
+      "narration": "Lời thề trong lễ cưới.",
+      "distractors": [
+        {
+          "word": "business meeting",
+          "meaning": "cuộc họp công việc",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "family dinner",
+          "meaning": "bữa tối gia đình",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "school trip",
+          "meaning": "chuyến đi của trường",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "honeymoon",
+      "meaning": "tuần trăng mật",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tuần trăng mật”?",
+      "narration": "Tuần trăng mật.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

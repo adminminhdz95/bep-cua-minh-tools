@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 18/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.6666666666666665,
+  "topic": "Khó khăn trong tình yêu",
+  "part": 2,
+  "questions": [
+    {
+      "word": "betrayal",
+      "meaning": "sự phản bội",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự phản bội”?",
+      "narration": "Sự phản bội.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "infidelity",
+      "meaning": "sự không chung thủy",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự không chung thủy”?",
+      "narration": "Sự không chung thủy.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "unrequited love",
+      "meaning": "tình yêu đơn phương không được đáp lại",
+      "pos": "noun phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tình yêu đơn phương không được đáp lại”?",
+      "narration": "Tình yêu đơn phương không được đáp lại.",
+      "distractors": [
+        {
+          "word": "business meeting",
+          "meaning": "cuộc họp công việc",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "family dinner",
+          "meaning": "bữa tối gia đình",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "school trip",
+          "meaning": "chuyến đi của trường",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "heartbreak",
+      "meaning": "nỗi đau tan vỡ trong tình yêu",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“nỗi đau tan vỡ trong tình yêu”?",
+      "narration": "Nỗi đau tan vỡ trong tình yêu.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "heartbroken",
+      "meaning": "đau khổ vì tình yêu tan vỡ",
+      "pos": "adjective",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“đau khổ vì tình yêu tan vỡ”?",
+      "narration": "Đau khổ vì tình yêu tan vỡ.",
+      "distractors": [
+        {
+          "word": "jealous",
+          "meaning": "hay ghen",
+          "pos": "adjective"
+        },
+        {
+          "word": "dishonest",
+          "meaning": "không trung thực",
+          "pos": "adjective"
+        },
+        {
+          "word": "distant",
+          "meaning": "xa cách, lạnh nhạt",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

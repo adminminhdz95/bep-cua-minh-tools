@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 10/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Hành động thể hiện tình cảm",
+  "part": 2,
+  "questions": [
+    {
+      "word": "caress",
+      "meaning": "vuốt ve",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“vuốt ve”?",
+      "narration": "Vuốt ve.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "cherish",
+      "meaning": "trân trọng, yêu thương",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“trân trọng, yêu thương”?",
+      "narration": "Trân trọng, yêu thương.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "adore",
+      "meaning": "yêu tha thiết",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“yêu tha thiết”?",
+      "narration": "Yêu tha thiết.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "comfort",
+      "meaning": "an ủi",
+      "pos": "verb",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“an ủi”?",
+      "narration": "An ủi.",
+      "distractors": [
+        {
+          "word": "betray",
+          "meaning": "phản bội",
+          "pos": "verb"
+        },
+        {
+          "word": "ignore",
+          "meaning": "phớt lờ",
+          "pos": "verb"
+        },
+        {
+          "word": "argue",
+          "meaning": "cãi nhau",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "care for",
+      "meaning": "yêu thương, chăm sóc",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“yêu thương, chăm sóc”?",
+      "narration": "Yêu thương, chăm sóc.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

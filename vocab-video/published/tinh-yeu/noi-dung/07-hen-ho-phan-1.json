@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 07/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "topic": "Hẹn hò và tìm hiểu",
+  "part": 1,
+  "questions": [
+    {
+      "word": "date",
+      "meaning": "buổi hẹn hò",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“buổi hẹn hò”?",
+      "narration": "Buổi hẹn hò.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "dating",
+      "meaning": "việc hẹn hò",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“việc hẹn hò”?",
+      "narration": "Việc hẹn hò.",
+      "distractors": [
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        },
+        {
+          "word": "argument",
+          "meaning": "cuộc cãi vã",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "relationship",
+      "meaning": "mối quan hệ",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“mối quan hệ”?",
+      "narration": "Mối quan hệ.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "courtship",
+      "meaning": "giai đoạn tìm hiểu để tiến tới hôn nhân",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“giai đoạn tìm hiểu để tiến tới hôn nhân”?",
+      "narration": "Tìm hiểu để tiến tới hôn nhân.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "romance",
+      "meaning": "chuyện tình, sự lãng mạn",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“chuyện tình, sự lãng mạn”?",
+      "narration": "Chuyện tình, sự lãng mạn.",
+      "distractors": [
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        },
+        {
+          "word": "argument",
+          "meaning": "cuộc cãi vã",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "TÌNH YÊU • 06/20",
+  "think_seconds": 4,
+  "reveal_seconds": 2.3333333333333335,
+  "topic": "Bắt đầu yêu",
+  "part": 2,
+  "questions": [
+    {
+      "word": "ask someone out",
+      "meaning": "mời ai đi hẹn hò",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“mời ai đi hẹn hò”?",
+      "narration": "Mời ai đi hẹn hò.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "go on a date",
+      "meaning": "đi hẹn hò",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“đi hẹn hò”?",
+      "narration": "Đi hẹn hò.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "confess your feelings",
+      "meaning": "thổ lộ tình cảm",
+      "pos": "verb phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“thổ lộ tình cảm”?",
+      "narration": "Thổ lộ tình cảm.",
+      "distractors": [
+        {
+          "word": "get married",
+          "meaning": "kết hôn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "argue with someone",
+          "meaning": "cãi nhau với ai",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "move to another city",
+          "meaning": "chuyển đến thành phố khác",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "love at first sight",
+      "meaning": "tình yêu từ cái nhìn đầu tiên",
+      "pos": "noun phrase",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“tình yêu từ cái nhìn đầu tiên”?",
+      "narration": "Tình yêu từ cái nhìn đầu tiên.",
+      "distractors": [
+        {
+          "word": "business meeting",
+          "meaning": "cuộc họp công việc",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "family dinner",
+          "meaning": "bữa tối gia đình",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "school trip",
+          "meaning": "chuyến đi của trường",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "chemistry",
+      "meaning": "sự hấp dẫn, ăn ý giữa hai người",
+      "pos": "noun",
+      "prompt": "Trong tình yêu, từ/cụm nào nghĩa là\n“sự hấp dẫn, ăn ý giữa hai người”?",
+      "narration": "Sự hấp dẫn, ăn ý giữa hai người.",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "jealousy",
+          "meaning": "sự ghen tuông",
+          "pos": "noun"
+        },
+        {
+          "word": "divorce",
+          "meaning": "sự ly hôn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
