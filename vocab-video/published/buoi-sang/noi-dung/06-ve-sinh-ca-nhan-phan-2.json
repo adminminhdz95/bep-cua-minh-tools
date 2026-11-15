@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 06",
+  "topic": "Vệ sinh cá nhân",
+  "part": 2,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wash your face",
+      "meaning": "rửa mặt",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “rửa mặt” tiếng Anh là gì?",
+      "narration": "Bạn có biết “rửa mặt” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "soap",
+      "meaning": "xà phòng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “xà phòng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “xà phòng”?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "towel",
+      "meaning": "khăn lau",
+      "pos": "noun",
+      "prompt": "“Khăn lau” trong tiếng Anh là gì?",
+      "narration": "“Khăn lau” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "comb your hair",
+      "meaning": "chải tóc",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “chải tóc” tiếng Anh là gì?",
+      "narration": "Bạn có biết “chải tóc” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "mirror",
+      "meaning": "gương soi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gương soi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gương soi”?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

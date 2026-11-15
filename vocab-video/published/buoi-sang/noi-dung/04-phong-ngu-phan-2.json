@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 04",
+  "topic": "Phòng ngủ và đón nắng",
+  "part": 2,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "mattress",
+      "meaning": "nệm",
+      "pos": "noun",
+      "prompt": "Bạn có biết “nệm” tiếng Anh là gì?",
+      "narration": "Bạn có biết “nệm” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "curtains",
+      "meaning": "rèm cửa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rèm cửa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rèm cửa”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sunlight",
+      "meaning": "ánh nắng mặt trời",
+      "pos": "noun",
+      "prompt": "“Ánh nắng mặt trời” trong tiếng Anh là gì?",
+      "narration": "“Ánh nắng mặt trời” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "make the bed",
+      "meaning": "dọn giường",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “dọn giường” tiếng Anh là gì?",
+      "narration": "Bạn có biết “dọn giường” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "open the curtains",
+      "meaning": "mở rèm cửa",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mở rèm cửa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mở rèm cửa”?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

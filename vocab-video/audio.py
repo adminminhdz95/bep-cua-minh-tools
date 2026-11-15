@@ -10,6 +10,23 @@ import wave
 SR = 48000
 
 
+def narration_pace(samples, rate=1.0):
+    """Slow narration locally without changing pitch or regenerating TTS."""
+    if rate == 1.0:
+        return samples
+    if not .7 <= rate <= 1.2:
+        raise ValueError('narration_rate must be between 0.7 and 1.2')
+    pcm = array.array('h', samples)
+    if sys.byteorder != 'little':
+        pcm.byteswap()
+    raw = subprocess.check_output(['ffmpeg', '-v', 'error', '-f', 's16le', '-ar', str(SR),
+        '-ac', '1', '-i', 'pipe:0', '-af', f'atempo={rate}', '-f', 's16le', 'pipe:1'], input=pcm.tobytes())
+    result = array.array('h', raw)
+    if sys.byteorder != 'little':
+        result.byteswap()
+    return result
+
+
 def tone(duration, frequencies, volume):
     return array.array('h', (
         round(32767 * volume * min(1, i/SR/.008) * (1-i/SR/duration)**2 *
@@ -62,7 +79,7 @@ def write_audio(path, data, think_frames, reveal_frames):
                     from elevenlabs_tts import speech as vietnamese_speech
                 else:
                     from fpt_tts import speech as vietnamese_speech
-                narrated = vietnamese_speech(q.get('narration', q['prompt']))
+                narrated = narration_pace(vietnamese_speech(q.get('narration', q['prompt'])), data.get('narration_rate', 1.0))
                 if len(narrated) > think_samples-round(.25*SR):
                     raise ValueError(f'Question {i+1} narration is too long. Shorten the question or increase --think; narration is never truncated.')
                 place(0, narrated, 'narration')

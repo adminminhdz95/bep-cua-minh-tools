@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 15",
+  "topic": "Vận động buổi sáng",
+  "part": 1,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "exercise",
+      "meaning": "việc tập thể dục",
+      "pos": "noun",
+      "prompt": "Bạn có biết “việc tập thể dục” tiếng Anh là gì?",
+      "narration": "Bạn có biết “việc tập thể dục” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "warm up",
+      "meaning": "khởi động cơ thể",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khởi động cơ thể”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khởi động cơ thể”?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "go for a walk",
+      "meaning": "đi dạo",
+      "pos": "verb phrase",
+      "prompt": "“Đi dạo” trong tiếng Anh là gì?",
+      "narration": "“Đi dạo” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "go jogging",
+      "meaning": "đi chạy bộ",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “đi chạy bộ” tiếng Anh là gì?",
+      "narration": "Bạn có biết “đi chạy bộ” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "do yoga",
+      "meaning": "tập yoga",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tập yoga”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tập yoga”?",
+      "distractors": [
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

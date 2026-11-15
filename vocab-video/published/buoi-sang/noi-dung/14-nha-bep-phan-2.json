@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 14",
+  "topic": "Trong nhà bếp",
+  "part": 2,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "bowl",
+      "meaning": "bát, tô",
+      "pos": "noun",
+      "prompt": "Bạn có biết “bát, tô” tiếng Anh là gì?",
+      "narration": "Bạn có biết “bát, tô” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spoon",
+      "meaning": "thìa, muỗng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thìa, muỗng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thìa, muỗng”?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fork",
+      "meaning": "nĩa",
+      "pos": "noun",
+      "prompt": "“Nĩa” trong tiếng Anh là gì?",
+      "narration": "“Nĩa” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "knife",
+      "meaning": "dao",
+      "pos": "noun",
+      "prompt": "Bạn có biết “dao” tiếng Anh là gì?",
+      "narration": "Bạn có biết “dao” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wash the dishes",
+      "meaning": "rửa bát đĩa",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rửa bát đĩa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rửa bát đĩa”?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

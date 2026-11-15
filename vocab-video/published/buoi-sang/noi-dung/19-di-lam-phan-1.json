@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 19",
+  "topic": "Đi học và đi làm",
+  "part": 1,
+  "think_seconds": 8.133333333333333,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "commute",
+      "meaning": "việc đi lại giữa nhà và nơi làm việc",
+      "pos": "noun",
+      "prompt": "Bạn có biết “việc đi lại giữa nhà và nơi làm việc” tiếng Anh là gì?",
+      "narration": "Bạn có biết “việc đi lại giữa nhà và nơi làm việc” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bus stop",
+      "meaning": "điểm dừng xe buýt",
+      "pos": "noun phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “điểm dừng xe buýt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “điểm dừng xe buýt”?",
+      "distractors": [
+        {
+          "word": "alarm clock",
+          "meaning": "đồng hồ báo thức",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "evening meal",
+          "meaning": "bữa tối",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "catch the bus",
+      "meaning": "bắt xe buýt",
+      "pos": "verb phrase",
+      "prompt": "“Bắt xe buýt” trong tiếng Anh là gì?",
+      "narration": "“Bắt xe buýt” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "train station",
+      "meaning": "nhà ga xe lửa",
+      "pos": "noun phrase",
+      "prompt": "Bạn có biết “nhà ga xe lửa” tiếng Anh là gì?",
+      "narration": "Bạn có biết “nhà ga xe lửa” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "evening meal",
+          "meaning": "bữa tối",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "alarm clock",
+          "meaning": "đồng hồ báo thức",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "ride a bike",
+      "meaning": "đi xe đạp",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đi xe đạp”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đi xe đạp”?",
+      "distractors": [
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

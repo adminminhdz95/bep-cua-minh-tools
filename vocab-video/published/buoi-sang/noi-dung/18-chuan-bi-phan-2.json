@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 18",
+  "topic": "Chuẩn bị ngày mới",
+  "part": 2,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "keys",
+      "meaning": "chìa khóa",
+      "pos": "noun",
+      "prompt": "Bạn có biết “chìa khóa” tiếng Anh là gì?",
+      "narration": "Bạn có biết “chìa khóa” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wallet",
+      "meaning": "ví tiền",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ví tiền”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ví tiền”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "phone",
+      "meaning": "điện thoại",
+      "pos": "noun",
+      "prompt": "“Điện thoại” trong tiếng Anh là gì?",
+      "narration": "“Điện thoại” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "umbrella",
+      "meaning": "ô, dù",
+      "pos": "noun",
+      "prompt": "Bạn có biết “ô, dù” tiếng Anh là gì?",
+      "narration": "Bạn có biết “ô, dù” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "leave home",
+      "meaning": "rời khỏi nhà",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rời khỏi nhà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rời khỏi nhà”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

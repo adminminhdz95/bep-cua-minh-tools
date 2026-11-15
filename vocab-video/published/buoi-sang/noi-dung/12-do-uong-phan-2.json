@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 12",
+  "topic": "Đồ uống buổi sáng",
+  "part": 2,
+  "think_seconds": 10.033333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "smoothie",
+      "meaning": "sinh tố",
+      "pos": "noun",
+      "prompt": "Bạn có biết “sinh tố” tiếng Anh là gì?",
+      "narration": "Bạn có biết “sinh tố” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "meaning": "tách uống nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tách uống nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tách uống nước”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mug",
+      "meaning": "cốc lớn có quai",
+      "pos": "noun",
+      "prompt": "“Cốc lớn có quai” trong tiếng Anh là gì?",
+      "narration": "“Cốc lớn có quai” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "kettle",
+      "meaning": "ấm đun nước",
+      "pos": "noun",
+      "prompt": "Bạn có biết “ấm đun nước” tiếng Anh là gì?",
+      "narration": "Bạn có biết “ấm đun nước” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "boil water",
+      "meaning": "đun sôi nước",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đun sôi nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đun sôi nước”?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

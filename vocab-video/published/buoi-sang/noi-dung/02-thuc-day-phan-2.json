@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 02",
+  "topic": "Thức dậy",
+  "part": 2,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "get up",
+      "meaning": "ra khỏi giường",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “ra khỏi giường” tiếng Anh là gì?",
+      "narration": "Bạn có biết “ra khỏi giường” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "snooze",
+      "meaning": "ngủ thêm một lát",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ngủ thêm một lát”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ngủ thêm một lát”?",
+      "distractors": [
+        {
+          "word": "cook",
+          "meaning": "nấu ăn",
+          "pos": "verb"
+        },
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "write",
+          "meaning": "viết",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "stretch",
+      "meaning": "vươn vai",
+      "pos": "verb",
+      "prompt": "“Vươn vai” trong tiếng Anh là gì?",
+      "narration": "“Vươn vai” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "write",
+          "meaning": "viết",
+          "pos": "verb"
+        },
+        {
+          "word": "cook",
+          "meaning": "nấu ăn",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "yawn",
+      "meaning": "ngáp",
+      "pos": "verb",
+      "prompt": "Bạn có biết “ngáp” tiếng Anh là gì?",
+      "narration": "Bạn có biết “ngáp” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "write",
+          "meaning": "viết",
+          "pos": "verb"
+        },
+        {
+          "word": "cook",
+          "meaning": "nấu ăn",
+          "pos": "verb"
+        },
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "sleepy",
+      "meaning": "buồn ngủ",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “buồn ngủ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “buồn ngủ”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "busy",
+          "meaning": "bận rộn",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

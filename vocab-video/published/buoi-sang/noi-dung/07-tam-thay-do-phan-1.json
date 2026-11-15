@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 07",
+  "topic": "Tắm và thay quần áo",
+  "part": 1,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "shower",
+      "meaning": "vòi hoa sen",
+      "pos": "noun",
+      "prompt": "Bạn có biết “vòi hoa sen” tiếng Anh là gì?",
+      "narration": "Bạn có biết “vòi hoa sen” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "take a shower",
+      "meaning": "tắm bằng vòi hoa sen",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tắm bằng vòi hoa sen”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tắm bằng vòi hoa sen”?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "shampoo",
+      "meaning": "dầu gội đầu",
+      "pos": "noun",
+      "prompt": "“Dầu gội đầu” trong tiếng Anh là gì?",
+      "narration": "“Dầu gội đầu” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "conditioner",
+      "meaning": "dầu xả tóc",
+      "pos": "noun",
+      "prompt": "Bạn có biết “dầu xả tóc” tiếng Anh là gì?",
+      "narration": "Bạn có biết “dầu xả tóc” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "deodorant",
+      "meaning": "sản phẩm khử mùi cơ thể",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sản phẩm khử mùi cơ thể”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sản phẩm khử mùi cơ thể”?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -6,10 +6,21 @@ import unittest
 from unittest.mock import patch
 import wave
 
-from audio import SR, write_audio
+from audio import SR, write_audio, narration_pace, tone
 
 
 class AudioTests(unittest.TestCase):
+    def test_slower_narration_keeps_full_signal_and_increases_duration(self):
+        original = tone(.8, (440,), .2)
+        slower = narration_pace(original, .8)
+        self.assertGreater(len(slower), len(original)*1.15)
+        self.assertLess(abs(len(slower)/SR-1.0), .08)
+        self.assertGreater(max(abs(s) for s in slower), 500)
+
+    def test_rejects_unsupported_narration_speed(self):
+        with self.assertRaisesRegex(ValueError, 'narration_rate'):
+            narration_pace(array.array('h', [1000]*1000), .2)
+
     def setUp(self):
         self.data = json.loads(Path(__file__).with_name('sample.json').read_text())
         self.data['questions'] = self.data['questions'][:1]

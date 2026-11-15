@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 05",
+  "topic": "Vệ sinh cá nhân",
+  "part": 1,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "bathroom",
+      "meaning": "phòng tắm",
+      "pos": "noun",
+      "prompt": "Bạn có biết “phòng tắm” tiếng Anh là gì?",
+      "narration": "Bạn có biết “phòng tắm” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "toothbrush",
+      "meaning": "bàn chải đánh răng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bàn chải đánh răng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bàn chải đánh răng”?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "toothpaste",
+      "meaning": "kem đánh răng",
+      "pos": "noun",
+      "prompt": "“Kem đánh răng” trong tiếng Anh là gì?",
+      "narration": "“Kem đánh răng” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "brush your teeth",
+      "meaning": "đánh răng",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “đánh răng” tiếng Anh là gì?",
+      "narration": "Bạn có biết “đánh răng” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "mouthwash",
+      "meaning": "nước súc miệng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước súc miệng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước súc miệng”?",
+      "distractors": [
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

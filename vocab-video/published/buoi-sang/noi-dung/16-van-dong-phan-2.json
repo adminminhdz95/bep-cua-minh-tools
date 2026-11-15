@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 16",
+  "topic": "Vận động buổi sáng",
+  "part": 2,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "breathe deeply",
+      "meaning": "hít thở sâu",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “hít thở sâu” tiếng Anh là gì?",
+      "narration": "Bạn có biết “hít thở sâu” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "fresh air",
+      "meaning": "không khí trong lành",
+      "pos": "noun phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “không khí trong lành”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “không khí trong lành”?",
+      "distractors": [
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "evening meal",
+          "meaning": "bữa tối",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "train station",
+          "meaning": "nhà ga xe lửa",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "meaning": "công viên",
+      "pos": "noun",
+      "prompt": "“Công viên” trong tiếng Anh là gì?",
+      "narration": "“Công viên” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "energy",
+      "meaning": "năng lượng",
+      "pos": "noun",
+      "prompt": "Bạn có biết “năng lượng” tiếng Anh là gì?",
+      "narration": "Bạn có biết “năng lượng” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "meaning": "khỏe mạnh",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khỏe mạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khỏe mạnh”?",
+      "distractors": [
+        {
+          "word": "busy",
+          "meaning": "bận rộn",
+          "pos": "adjective"
+        },
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

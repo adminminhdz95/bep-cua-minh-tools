@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 17",
+  "topic": "Chuẩn bị ngày mới",
+  "part": 1,
+  "think_seconds": 7.5,
+  "reveal_seconds": 2.5,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "daily routine",
+      "meaning": "nếp sinh hoạt hằng ngày",
+      "pos": "noun phrase",
+      "prompt": "Bạn có biết “nếp sinh hoạt hằng ngày” tiếng Anh là gì?",
+      "narration": "Bạn có biết “nếp sinh hoạt hằng ngày” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "evening meal",
+          "meaning": "bữa tối",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "train station",
+          "meaning": "nhà ga xe lửa",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "schedule",
+      "meaning": "lịch trình",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lịch trình”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lịch trình”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "to-do list",
+      "meaning": "danh sách việc cần làm",
+      "pos": "noun phrase",
+      "prompt": "“Danh sách việc cần làm” trong tiếng Anh là gì?",
+      "narration": "“Danh sách việc cần làm” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "train station",
+          "meaning": "nhà ga xe lửa",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "alarm clock",
+          "meaning": "đồng hồ báo thức",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "check the weather",
+      "meaning": "kiểm tra thời tiết",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “kiểm tra thời tiết” tiếng Anh là gì?",
+      "narration": "Bạn có biết “kiểm tra thời tiết” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "pack your bag",
+      "meaning": "sắp đồ vào túi",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sắp đồ vào túi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sắp đồ vào túi”?",
+      "distractors": [
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

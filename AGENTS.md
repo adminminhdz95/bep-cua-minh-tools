@@ -84,3 +84,7 @@ Mọi video từ vựng mới phải có logo tròn `vocab-video/assets/logo-tie
 ## Trạng thái mới nhất đã xác minh
 
 ElevenLabs hiện đã tổng hợp thành công cả tiếng Việt và tiếng Anh bằng cùng giọng đã cấu hình. Bộ 20 video tình yêu / 100 câu đã hoàn thành và qua kiểm tra. Các ghi chú 401/missing Voice ID phía trên là lịch sử, không phải trạng thái hiện tại. Tài khoản từng hết quota; nếu lỗi quota xuất hiện lại, giữ cache và tiếp tục sau khi người dùng bổ sung hạn mức, không đổi giọng âm thầm. Bản phân phối nằm tại `vocab-video/published/tinh-yeu/`, có 20 MP4, ZIP, danh sách và JSON câu hỏi. Không cần API key để tải/xem các video đã xuất; chỉ cần để tổng hợp giọng mới.
+
+## Bộ từ vựng buổi sáng: đọc hết câu hỏi rõ ràng
+
+Với yêu cầu đọc đầy đủ, đặt `narration` bằng toàn bộ `prompt` tiếng Việt, không chỉ đọc nghĩa. Dùng cùng giọng ElevenLabs cho hai ngôn ngữ. Có thể đặt `narration_rate: 0.92` để làm chậm lời Việt tại máy bằng FFmpeg atempo, giữ cao độ; không cần gọi lại TTS nếu có cache. Đặt `countdown_after_narration: true` để thanh thời gian bắt đầu giảm sau lời đọc. Tính `think_seconds` từ độ dài lời Việt đã điều chỉnh + 0.12 giây nghỉ + ít nhất 4 giây đếm ngược; làm tròn lên bội 1/30 giây. Tính `reveal_seconds` đủ cho từ/cụm tiếng Anh sau âm báo. Không cắt lời hay ép toàn bộ câu còn 6 giây khi không đủ thời gian. Người dùng đã yêu cầu hoàn thành bộ buổi sáng và đưa lên GitHub, không cần hỏi lại cho bộ này.

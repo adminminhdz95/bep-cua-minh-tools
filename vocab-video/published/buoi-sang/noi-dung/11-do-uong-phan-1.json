@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 11",
+  "topic": "Đồ uống buổi sáng",
+  "part": 1,
+  "think_seconds": 7.0,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "water",
+      "meaning": "nước",
+      "pos": "noun",
+      "prompt": "Bạn có biết “nước” tiếng Anh là gì?",
+      "narration": "Bạn có biết “nước” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "milk",
+      "meaning": "sữa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa”?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "coffee",
+      "meaning": "cà phê",
+      "pos": "noun",
+      "prompt": "“Cà phê” trong tiếng Anh là gì?",
+      "narration": "“Cà phê” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tea",
+      "meaning": "trà",
+      "pos": "noun",
+      "prompt": "Bạn có biết “trà” tiếng Anh là gì?",
+      "narration": "Bạn có biết “trà” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "orange juice",
+      "meaning": "nước cam",
+      "pos": "noun phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước cam”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước cam”?",
+      "distractors": [
+        {
+          "word": "train station",
+          "meaning": "nhà ga xe lửa",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "alarm clock",
+          "meaning": "đồng hồ báo thức",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        }
+      ]
+    }
+  ]
+}

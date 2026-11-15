@@ -228,10 +228,16 @@ def render(data, output):
                 for i, q in enumerate(data['questions']):
                     thought = card(bg, data, q, i, False)
                     answer = card(bg, data, q, i, True)
+                    timer_start = 0
+                    if data.get('countdown_after_narration'):
+                        narration = next((e for e in data.get('audio_events', []) if e['question']==i+1 and e['kind']=='narration'), None)
+                        if narration:
+                            timer_start = math.ceil((narration['duration']+.12)*FPS)
                     for f in range(think + reveal):
                         is_answer = f >= think
                         frame = (answer if is_answer else thought).copy()
-                        add_timer(frame, 0 if is_answer else (think-f)/think, is_answer)
+                        remaining = min(1, (think-f)/max(1, think-timer_start))
+                        add_timer(frame, 0 if is_answer else remaining, is_answer)
                         process.stdin.write(frame.tobytes())
                     print(f'Rendered {i+1}/{len(data["questions"])}: {q["word"]}', flush=True)
                 process.stdin.close()

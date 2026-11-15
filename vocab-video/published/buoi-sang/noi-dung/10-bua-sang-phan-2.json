@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 10",
+  "topic": "Bữa sáng",
+  "part": 2,
+  "think_seconds": 7.166666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "oatmeal",
+      "meaning": "cháo yến mạch",
+      "pos": "noun",
+      "prompt": "Bạn có biết “cháo yến mạch” tiếng Anh là gì?",
+      "narration": "Bạn có biết “cháo yến mạch” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "yogurt",
+      "meaning": "sữa chua",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa chua”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa chua”?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fruit",
+      "meaning": "trái cây",
+      "pos": "noun",
+      "prompt": "“Trái cây” trong tiếng Anh là gì?",
+      "narration": "“Trái cây” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "banana",
+      "meaning": "quả chuối",
+      "pos": "noun",
+      "prompt": "Bạn có biết “quả chuối” tiếng Anh là gì?",
+      "narration": "Bạn có biết “quả chuối” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "apple",
+      "meaning": "quả táo",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả táo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả táo”?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 03",
+  "topic": "Phòng ngủ và đón nắng",
+  "part": 1,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "bedroom",
+      "meaning": "phòng ngủ",
+      "pos": "noun",
+      "prompt": "Bạn có biết “phòng ngủ” tiếng Anh là gì?",
+      "narration": "Bạn có biết “phòng ngủ” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bed",
+      "meaning": "giường ngủ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giường ngủ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giường ngủ”?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pillow",
+      "meaning": "gối",
+      "pos": "noun",
+      "prompt": "“Gối” trong tiếng Anh là gì?",
+      "narration": "“Gối” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "blanket",
+      "meaning": "chăn",
+      "pos": "noun",
+      "prompt": "Bạn có biết “chăn” tiếng Anh là gì?",
+      "narration": "Bạn có biết “chăn” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bedsheet",
+      "meaning": "ga trải giường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ga trải giường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ga trải giường”?",
+      "distractors": [
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        },
+        {
+          "word": "pillow",
+          "meaning": "gối",
+          "pos": "noun"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

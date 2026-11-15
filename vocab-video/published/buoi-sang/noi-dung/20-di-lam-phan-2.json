@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 20",
+  "topic": "Đi học và đi làm",
+  "part": 2,
+  "think_seconds": 12.566666666666666,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "drive to work",
+      "meaning": "lái xe đi làm",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “lái xe đi làm” tiếng Anh là gì?",
+      "narration": "Bạn có biết “lái xe đi làm” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "traffic",
+      "meaning": "giao thông, xe cộ trên đường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giao thông, xe cộ trên đường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giao thông, xe cộ trên đường”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "wallet",
+          "meaning": "ví tiền",
+          "pos": "noun"
+        },
+        {
+          "word": "curtains",
+          "meaning": "rèm cửa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rush hour",
+      "meaning": "giờ cao điểm",
+      "pos": "noun phrase",
+      "prompt": "“Giờ cao điểm” trong tiếng Anh là gì?",
+      "narration": "“Giờ cao điểm” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "evening meal",
+          "meaning": "bữa tối",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "train station",
+          "meaning": "nhà ga xe lửa",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "alarm clock",
+          "meaning": "đồng hồ báo thức",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "arrive on time",
+      "meaning": "đến đúng giờ",
+      "pos": "verb phrase",
+      "prompt": "Bạn có biết “đến đúng giờ” tiếng Anh là gì?",
+      "narration": "Bạn có biết “đến đúng giờ” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "start work",
+      "meaning": "bắt đầu làm việc",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bắt đầu làm việc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bắt đầu làm việc”?",
+      "distractors": [
+        {
+          "word": "go to bed",
+          "meaning": "đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "BUỔI SÁNG 01",
+  "topic": "Thức dậy",
+  "part": 1,
+  "think_seconds": 8.833333333333334,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "morning",
+      "meaning": "buổi sáng",
+      "pos": "noun",
+      "prompt": "Bạn có biết “buổi sáng” tiếng Anh là gì?",
+      "narration": "Bạn có biết “buổi sáng” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "breakfast",
+          "meaning": "bữa sáng",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "bình minh, lúc trời hửng sáng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bình minh, lúc trời hửng sáng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bình minh, lúc trời hửng sáng”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sunrise",
+      "meaning": "lúc mặt trời mọc",
+      "pos": "noun",
+      "prompt": "“Lúc mặt trời mọc” trong tiếng Anh là gì?",
+      "narration": "“Lúc mặt trời mọc” trong tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "mirror",
+          "meaning": "gương soi",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn lau",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "alarm clock",
+      "meaning": "đồng hồ báo thức",
+      "pos": "noun phrase",
+      "prompt": "Bạn có biết “đồng hồ báo thức” tiếng Anh là gì?",
+      "narration": "Bạn có biết “đồng hồ báo thức” tiếng Anh là gì?",
+      "distractors": [
+        {
+          "word": "evening meal",
+          "meaning": "bữa tối",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "train station",
+          "meaning": "nhà ga xe lửa",
+          "pos": "noun phrase"
+        },
+        {
+          "word": "fruit salad",
+          "meaning": "salad trái cây",
+          "pos": "noun phrase"
+        }
+      ]
+    },
+    {
+      "word": "wake up",
+      "meaning": "tỉnh giấc",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tỉnh giấc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tỉnh giấc”?",
+      "distractors": [
+        {
+          "word": "watch TV",
+          "meaning": "xem ti vi",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close the window",
+          "meaning": "đóng cửa sổ",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}
