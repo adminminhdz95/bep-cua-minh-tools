@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 12",
+  "topic": "Tình trạng và quan hệ",
+  "part": 2,
+  "think_seconds": 9.0,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pregnant",
+      "meaning": "đang mang thai",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đang mang thai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đang mang thai”?",
+      "distractors": [
+        {
+          "word": "adopted",
+          "meaning": "được nhận làm con nuôi",
+          "pos": "adjective"
+        },
+        {
+          "word": "foster",
+          "meaning": "thuộc diện chăm sóc thay thế tạm thời",
+          "pos": "adjective"
+        },
+        {
+          "word": "married",
+          "meaning": "đã kết hôn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "newborn",
+      "meaning": "mới sinh",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mới sinh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mới sinh”?",
+      "distractors": [
+        {
+          "word": "biological",
+          "meaning": "có quan hệ huyết thống",
+          "pos": "adjective"
+        },
+        {
+          "word": "single",
+          "meaning": "độc thân",
+          "pos": "adjective"
+        },
+        {
+          "word": "divorced",
+          "meaning": "đã ly hôn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "adopted",
+      "meaning": "được nhận làm con nuôi",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “được nhận làm con nuôi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “được nhận làm con nuôi”?",
+      "distractors": [
+        {
+          "word": "foster",
+          "meaning": "thuộc diện chăm sóc thay thế tạm thời",
+          "pos": "adjective"
+        },
+        {
+          "word": "married",
+          "meaning": "đã kết hôn",
+          "pos": "adjective"
+        },
+        {
+          "word": "widowed",
+          "meaning": "góa vợ hoặc góa chồng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "biological",
+      "meaning": "có quan hệ huyết thống",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có quan hệ huyết thống”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có quan hệ huyết thống”?",
+      "distractors": [
+        {
+          "word": "single",
+          "meaning": "độc thân",
+          "pos": "adjective"
+        },
+        {
+          "word": "divorced",
+          "meaning": "đã ly hôn",
+          "pos": "adjective"
+        },
+        {
+          "word": "engaged",
+          "meaning": "đã đính hôn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "foster",
+      "meaning": "thuộc diện chăm sóc thay thế tạm thời",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thuộc diện chăm sóc thay thế tạm thời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thuộc diện chăm sóc thay thế tạm thời”?",
+      "distractors": [
+        {
+          "word": "married",
+          "meaning": "đã kết hôn",
+          "pos": "adjective"
+        },
+        {
+          "word": "widowed",
+          "meaning": "góa vợ hoặc góa chồng",
+          "pos": "adjective"
+        },
+        {
+          "word": "pregnant",
+          "meaning": "đang mang thai",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

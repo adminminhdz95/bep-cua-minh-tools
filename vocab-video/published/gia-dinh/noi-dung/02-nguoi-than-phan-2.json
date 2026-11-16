@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 02",
+  "topic": "Người thân gần gũi",
+  "part": 2,
+  "think_seconds": 12.4,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "daughter",
+      "meaning": "con gái",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “con gái”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “con gái”?",
+      "distractors": [
+        {
+          "word": "aunt",
+          "meaning": "cô, dì hoặc bác gái",
+          "pos": "noun"
+        },
+        {
+          "word": "niece",
+          "meaning": "cháu gái gọi mình bằng cô, dì, chú, bác hoặc cậu",
+          "pos": "noun"
+        },
+        {
+          "word": "mother",
+          "meaning": "mẹ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "uncle",
+      "meaning": "chú, bác trai hoặc cậu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chú, bác trai hoặc cậu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chú, bác trai hoặc cậu”?",
+      "distractors": [
+        {
+          "word": "nephew",
+          "meaning": "cháu trai gọi mình bằng cô, dì, chú, bác hoặc cậu",
+          "pos": "noun"
+        },
+        {
+          "word": "father",
+          "meaning": "bố",
+          "pos": "noun"
+        },
+        {
+          "word": "brother",
+          "meaning": "anh hoặc em trai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "aunt",
+      "meaning": "cô, dì hoặc bác gái",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cô, dì hoặc bác gái”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cô, dì hoặc bác gái”?",
+      "distractors": [
+        {
+          "word": "niece",
+          "meaning": "cháu gái gọi mình bằng cô, dì, chú, bác hoặc cậu",
+          "pos": "noun"
+        },
+        {
+          "word": "mother",
+          "meaning": "mẹ",
+          "pos": "noun"
+        },
+        {
+          "word": "sister",
+          "meaning": "chị hoặc em gái",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "nephew",
+      "meaning": "cháu trai gọi mình bằng cô, dì, chú, bác hoặc cậu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cháu trai gọi mình bằng cô, dì, chú, bác hoặc cậu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cháu trai gọi mình bằng cô, dì, chú, bác hoặc cậu”?",
+      "distractors": [
+        {
+          "word": "father",
+          "meaning": "bố",
+          "pos": "noun"
+        },
+        {
+          "word": "brother",
+          "meaning": "anh hoặc em trai",
+          "pos": "noun"
+        },
+        {
+          "word": "son",
+          "meaning": "con trai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "niece",
+      "meaning": "cháu gái gọi mình bằng cô, dì, chú, bác hoặc cậu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cháu gái gọi mình bằng cô, dì, chú, bác hoặc cậu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cháu gái gọi mình bằng cô, dì, chú, bác hoặc cậu”?",
+      "distractors": [
+        {
+          "word": "mother",
+          "meaning": "mẹ",
+          "pos": "noun"
+        },
+        {
+          "word": "sister",
+          "meaning": "chị hoặc em gái",
+          "pos": "noun"
+        },
+        {
+          "word": "daughter",
+          "meaning": "con gái",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 06",
+  "topic": "Vợ chồng và con cái",
+  "part": 2,
+  "think_seconds": 9.233333333333333,
+  "reveal_seconds": 2.5,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "eldest child",
+      "meaning": "con lớn nhất",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “con lớn nhất”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “con lớn nhất”?",
+      "distractors": [
+        {
+          "word": "middle child",
+          "meaning": "con ở giữa",
+          "pos": "noun"
+        },
+        {
+          "word": "toddler",
+          "meaning": "trẻ nhỏ mới biết đi",
+          "pos": "noun"
+        },
+        {
+          "word": "wife",
+          "meaning": "vợ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "youngest child",
+      "meaning": "con nhỏ nhất",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “con nhỏ nhất”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “con nhỏ nhất”?",
+      "distractors": [
+        {
+          "word": "teenager",
+          "meaning": "người ở độ tuổi từ mười ba đến mười chín",
+          "pos": "noun"
+        },
+        {
+          "word": "husband",
+          "meaning": "chồng",
+          "pos": "noun"
+        },
+        {
+          "word": "cousin",
+          "meaning": "anh, chị hoặc em họ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "middle child",
+      "meaning": "con ở giữa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “con ở giữa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “con ở giữa”?",
+      "distractors": [
+        {
+          "word": "toddler",
+          "meaning": "trẻ nhỏ mới biết đi",
+          "pos": "noun"
+        },
+        {
+          "word": "wife",
+          "meaning": "vợ",
+          "pos": "noun"
+        },
+        {
+          "word": "twins",
+          "meaning": "cặp song sinh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "teenager",
+      "meaning": "người ở độ tuổi từ mười ba đến mười chín",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “người ở độ tuổi từ mười ba đến mười chín”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “người ở độ tuổi từ mười ba đến mười chín”?",
+      "distractors": [
+        {
+          "word": "husband",
+          "meaning": "chồng",
+          "pos": "noun"
+        },
+        {
+          "word": "cousin",
+          "meaning": "anh, chị hoặc em họ",
+          "pos": "noun"
+        },
+        {
+          "word": "only child",
+          "meaning": "con một",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "toddler",
+      "meaning": "trẻ nhỏ mới biết đi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trẻ nhỏ mới biết đi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trẻ nhỏ mới biết đi”?",
+      "distractors": [
+        {
+          "word": "wife",
+          "meaning": "vợ",
+          "pos": "noun"
+        },
+        {
+          "word": "twins",
+          "meaning": "cặp song sinh",
+          "pos": "noun"
+        },
+        {
+          "word": "eldest child",
+          "meaning": "con lớn nhất",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

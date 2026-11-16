@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 09",
+  "topic": "Cuộc sống gia đình",
+  "part": 1,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "marriage",
+      "meaning": "hôn nhân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hôn nhân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hôn nhân”?",
+      "distractors": [
+        {
+          "word": "adoption",
+          "meaning": "việc nhận con nuôi",
+          "pos": "noun"
+        },
+        {
+          "word": "childhood",
+          "meaning": "tuổi thơ",
+          "pos": "noun"
+        },
+        {
+          "word": "upbringing",
+          "meaning": "sự nuôi dạy từ nhỏ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "divorce",
+      "meaning": "sự ly hôn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sự ly hôn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sự ly hôn”?",
+      "distractors": [
+        {
+          "word": "pregnancy",
+          "meaning": "thai kỳ",
+          "pos": "noun"
+        },
+        {
+          "word": "parenthood",
+          "meaning": "vai trò làm cha mẹ",
+          "pos": "noun"
+        },
+        {
+          "word": "household",
+          "meaning": "hộ gia đình",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "adoption",
+      "meaning": "việc nhận con nuôi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “việc nhận con nuôi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “việc nhận con nuôi”?",
+      "distractors": [
+        {
+          "word": "childhood",
+          "meaning": "tuổi thơ",
+          "pos": "noun"
+        },
+        {
+          "word": "upbringing",
+          "meaning": "sự nuôi dạy từ nhỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "family tree",
+          "meaning": "sơ đồ gia phả",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "meaning": "thai kỳ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thai kỳ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thai kỳ”?",
+      "distractors": [
+        {
+          "word": "parenthood",
+          "meaning": "vai trò làm cha mẹ",
+          "pos": "noun"
+        },
+        {
+          "word": "household",
+          "meaning": "hộ gia đình",
+          "pos": "noun"
+        },
+        {
+          "word": "generation",
+          "meaning": "thế hệ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "childhood",
+      "meaning": "tuổi thơ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tuổi thơ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tuổi thơ”?",
+      "distractors": [
+        {
+          "word": "upbringing",
+          "meaning": "sự nuôi dạy từ nhỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "family tree",
+          "meaning": "sơ đồ gia phả",
+          "pos": "noun"
+        },
+        {
+          "word": "marriage",
+          "meaning": "hôn nhân",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

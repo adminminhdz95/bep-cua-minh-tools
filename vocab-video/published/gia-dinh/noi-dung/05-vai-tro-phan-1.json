@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 05",
+  "topic": "Vợ chồng và con cái",
+  "part": 1,
+  "think_seconds": 8.666666666666666,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "husband",
+      "meaning": "chồng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chồng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chồng”?",
+      "distractors": [
+        {
+          "word": "cousin",
+          "meaning": "anh, chị hoặc em họ",
+          "pos": "noun"
+        },
+        {
+          "word": "only child",
+          "meaning": "con một",
+          "pos": "noun"
+        },
+        {
+          "word": "youngest child",
+          "meaning": "con nhỏ nhất",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "meaning": "vợ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “vợ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “vợ”?",
+      "distractors": [
+        {
+          "word": "twins",
+          "meaning": "cặp song sinh",
+          "pos": "noun"
+        },
+        {
+          "word": "eldest child",
+          "meaning": "con lớn nhất",
+          "pos": "noun"
+        },
+        {
+          "word": "middle child",
+          "meaning": "con ở giữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cousin",
+      "meaning": "anh, chị hoặc em họ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “anh, chị hoặc em họ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “anh, chị hoặc em họ”?",
+      "distractors": [
+        {
+          "word": "only child",
+          "meaning": "con một",
+          "pos": "noun"
+        },
+        {
+          "word": "youngest child",
+          "meaning": "con nhỏ nhất",
+          "pos": "noun"
+        },
+        {
+          "word": "teenager",
+          "meaning": "người ở độ tuổi từ mười ba đến mười chín",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "twins",
+      "meaning": "cặp song sinh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cặp song sinh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cặp song sinh”?",
+      "distractors": [
+        {
+          "word": "eldest child",
+          "meaning": "con lớn nhất",
+          "pos": "noun"
+        },
+        {
+          "word": "middle child",
+          "meaning": "con ở giữa",
+          "pos": "noun"
+        },
+        {
+          "word": "toddler",
+          "meaning": "trẻ nhỏ mới biết đi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "only child",
+      "meaning": "con một",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “con một”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “con một”?",
+      "distractors": [
+        {
+          "word": "youngest child",
+          "meaning": "con nhỏ nhất",
+          "pos": "noun"
+        },
+        {
+          "word": "teenager",
+          "meaning": "người ở độ tuổi từ mười ba đến mười chín",
+          "pos": "noun"
+        },
+        {
+          "word": "husband",
+          "meaning": "chồng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 20",
+  "topic": "Gắn kết gia đình",
+  "part": 2,
+  "think_seconds": 9.433333333333334,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "listen to your father",
+      "meaning": "lắng nghe bố",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lắng nghe bố”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lắng nghe bố”?",
+      "distractors": [
+        {
+          "word": "keep a promise",
+          "meaning": "giữ lời hứa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "plan a family trip",
+          "meaning": "lên kế hoạch chuyến đi gia đình",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "call your parents",
+          "meaning": "gọi điện cho bố mẹ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "share your feelings",
+      "meaning": "chia sẻ cảm xúc của mình",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chia sẻ cảm xúc của mình”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chia sẻ cảm xúc của mình”?",
+      "distractors": [
+        {
+          "word": "solve a family problem",
+          "meaning": "giải quyết một vấn đề gia đình",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "visit relatives",
+          "meaning": "thăm họ hàng",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "hug your child",
+          "meaning": "ôm con của mình",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "keep a promise",
+      "meaning": "giữ lời hứa",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giữ lời hứa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giữ lời hứa”?",
+      "distractors": [
+        {
+          "word": "plan a family trip",
+          "meaning": "lên kế hoạch chuyến đi gia đình",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "call your parents",
+          "meaning": "gọi điện cho bố mẹ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "apologize to your sister",
+          "meaning": "xin lỗi chị hoặc em gái",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "solve a family problem",
+      "meaning": "giải quyết một vấn đề gia đình",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giải quyết một vấn đề gia đình”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giải quyết một vấn đề gia đình”?",
+      "distractors": [
+        {
+          "word": "visit relatives",
+          "meaning": "thăm họ hàng",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "hug your child",
+          "meaning": "ôm con của mình",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "thank your mother",
+          "meaning": "cảm ơn mẹ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "plan a family trip",
+      "meaning": "lên kế hoạch chuyến đi gia đình",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lên kế hoạch chuyến đi gia đình”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lên kế hoạch chuyến đi gia đình”?",
+      "distractors": [
+        {
+          "word": "call your parents",
+          "meaning": "gọi điện cho bố mẹ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "apologize to your sister",
+          "meaning": "xin lỗi chị hoặc em gái",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "listen to your father",
+          "meaning": "lắng nghe bố",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

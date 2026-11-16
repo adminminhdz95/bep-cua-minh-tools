@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 08",
+  "topic": "Dịp đặc biệt trong gia đình",
+  "part": 2,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.566666666666667,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "funeral",
+      "meaning": "đám tang",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đám tang”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đám tang”?",
+      "distractors": [
+        {
+          "word": "birth",
+          "meaning": "sự chào đời",
+          "pos": "noun"
+        },
+        {
+          "word": "housewarming party",
+          "meaning": "tiệc tân gia",
+          "pos": "noun"
+        },
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "graduation ceremony",
+      "meaning": "lễ tốt nghiệp",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lễ tốt nghiệp”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lễ tốt nghiệp”?",
+      "distractors": [
+        {
+          "word": "baptism",
+          "meaning": "lễ rửa tội",
+          "pos": "noun"
+        },
+        {
+          "word": "birthday",
+          "meaning": "sinh nhật",
+          "pos": "noun"
+        },
+        {
+          "word": "wedding anniversary",
+          "meaning": "ngày kỷ niệm cưới",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "birth",
+      "meaning": "sự chào đời",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sự chào đời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sự chào đời”?",
+      "distractors": [
+        {
+          "word": "housewarming party",
+          "meaning": "tiệc tân gia",
+          "pos": "noun"
+        },
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "engagement",
+          "meaning": "lễ đính hôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "baptism",
+      "meaning": "lễ rửa tội",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lễ rửa tội”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lễ rửa tội”?",
+      "distractors": [
+        {
+          "word": "birthday",
+          "meaning": "sinh nhật",
+          "pos": "noun"
+        },
+        {
+          "word": "wedding anniversary",
+          "meaning": "ngày kỷ niệm cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "family reunion",
+          "meaning": "buổi họp mặt gia đình",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "housewarming party",
+      "meaning": "tiệc tân gia",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tiệc tân gia”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tiệc tân gia”?",
+      "distractors": [
+        {
+          "word": "wedding",
+          "meaning": "đám cưới",
+          "pos": "noun"
+        },
+        {
+          "word": "engagement",
+          "meaning": "lễ đính hôn",
+          "pos": "noun"
+        },
+        {
+          "word": "funeral",
+          "meaning": "đám tang",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 14",
+  "topic": "Tính cách người thân",
+  "part": 2,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "cheerful",
+      "meaning": "vui vẻ",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “vui vẻ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “vui vẻ”?",
+      "distractors": [
+        {
+          "word": "stubborn",
+          "meaning": "bướng bỉnh",
+          "pos": "adjective"
+        },
+        {
+          "word": "responsible",
+          "meaning": "có trách nhiệm",
+          "pos": "adjective"
+        },
+        {
+          "word": "caring",
+          "meaning": "biết quan tâm chăm sóc",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "shy",
+      "meaning": "nhút nhát",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhút nhát”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhút nhát”?",
+      "distractors": [
+        {
+          "word": "polite",
+          "meaning": "lễ phép",
+          "pos": "adjective"
+        },
+        {
+          "word": "kind",
+          "meaning": "tốt bụng",
+          "pos": "adjective"
+        },
+        {
+          "word": "strict",
+          "meaning": "nghiêm khắc",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "stubborn",
+      "meaning": "bướng bỉnh",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bướng bỉnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bướng bỉnh”?",
+      "distractors": [
+        {
+          "word": "responsible",
+          "meaning": "có trách nhiệm",
+          "pos": "adjective"
+        },
+        {
+          "word": "caring",
+          "meaning": "biết quan tâm chăm sóc",
+          "pos": "adjective"
+        },
+        {
+          "word": "patient",
+          "meaning": "kiên nhẫn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "polite",
+      "meaning": "lễ phép",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lễ phép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lễ phép”?",
+      "distractors": [
+        {
+          "word": "kind",
+          "meaning": "tốt bụng",
+          "pos": "adjective"
+        },
+        {
+          "word": "strict",
+          "meaning": "nghiêm khắc",
+          "pos": "adjective"
+        },
+        {
+          "word": "generous",
+          "meaning": "hào phóng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "responsible",
+      "meaning": "có trách nhiệm",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có trách nhiệm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có trách nhiệm”?",
+      "distractors": [
+        {
+          "word": "caring",
+          "meaning": "biết quan tâm chăm sóc",
+          "pos": "adjective"
+        },
+        {
+          "word": "patient",
+          "meaning": "kiên nhẫn",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheerful",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 04",
+  "topic": "Ông bà và gia đình mở rộng",
+  "part": 2,
+  "think_seconds": 15.066666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "mother-in-law",
+      "meaning": "mẹ vợ hoặc mẹ chồng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mẹ vợ hoặc mẹ chồng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mẹ vợ hoặc mẹ chồng”?",
+      "distractors": [
+        {
+          "word": "sister-in-law",
+          "meaning": "chị hoặc em gái bên vợ, chồng; chị hoặc em dâu",
+          "pos": "noun"
+        },
+        {
+          "word": "stepmother",
+          "meaning": "mẹ kế",
+          "pos": "noun"
+        },
+        {
+          "word": "grandmother",
+          "meaning": "bà",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "brother-in-law",
+      "meaning": "anh hoặc em trai bên vợ, chồng; anh hoặc em rể",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “anh hoặc em trai bên vợ, chồng; anh hoặc em rể”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “anh hoặc em trai bên vợ, chồng; anh hoặc em rể”?",
+      "distractors": [
+        {
+          "word": "stepfather",
+          "meaning": "bố dượng",
+          "pos": "noun"
+        },
+        {
+          "word": "grandfather",
+          "meaning": "ông",
+          "pos": "noun"
+        },
+        {
+          "word": "grandson",
+          "meaning": "cháu trai của ông bà",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sister-in-law",
+      "meaning": "chị hoặc em gái bên vợ, chồng; chị hoặc em dâu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chị hoặc em gái bên vợ, chồng; chị hoặc em dâu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chị hoặc em gái bên vợ, chồng; chị hoặc em dâu”?",
+      "distractors": [
+        {
+          "word": "stepmother",
+          "meaning": "mẹ kế",
+          "pos": "noun"
+        },
+        {
+          "word": "grandmother",
+          "meaning": "bà",
+          "pos": "noun"
+        },
+        {
+          "word": "granddaughter",
+          "meaning": "cháu gái của ông bà",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "stepfather",
+      "meaning": "bố dượng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bố dượng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bố dượng”?",
+      "distractors": [
+        {
+          "word": "grandfather",
+          "meaning": "ông",
+          "pos": "noun"
+        },
+        {
+          "word": "grandson",
+          "meaning": "cháu trai của ông bà",
+          "pos": "noun"
+        },
+        {
+          "word": "father-in-law",
+          "meaning": "bố vợ hoặc bố chồng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "stepmother",
+      "meaning": "mẹ kế",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mẹ kế”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mẹ kế”?",
+      "distractors": [
+        {
+          "word": "grandmother",
+          "meaning": "bà",
+          "pos": "noun"
+        },
+        {
+          "word": "granddaughter",
+          "meaning": "cháu gái của ông bà",
+          "pos": "noun"
+        },
+        {
+          "word": "mother-in-law",
+          "meaning": "mẹ vợ hoặc mẹ chồng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

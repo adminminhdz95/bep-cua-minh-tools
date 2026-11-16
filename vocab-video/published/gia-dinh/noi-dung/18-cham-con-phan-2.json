@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 18",
+  "topic": "Chăm sóc con cái",
+  "part": 2,
+  "think_seconds": 8.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "help with homework",
+      "meaning": "giúp làm bài tập về nhà",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giúp làm bài tập về nhà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giúp làm bài tập về nhà”?",
+      "distractors": [
+        {
+          "word": "pick up the children",
+          "meaning": "đón các con",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "teach good manners",
+          "meaning": "dạy cách cư xử lễ phép",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "change a diaper",
+          "meaning": "thay tã",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "take the children to school",
+      "meaning": "đưa các con đến trường",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đưa các con đến trường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đưa các con đến trường”?",
+      "distractors": [
+        {
+          "word": "play with the children",
+          "meaning": "chơi cùng các con",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "feed the baby",
+          "meaning": "cho em bé ăn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "bathe the baby",
+          "meaning": "tắm cho em bé",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "pick up the children",
+      "meaning": "đón các con",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đón các con”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đón các con”?",
+      "distractors": [
+        {
+          "word": "teach good manners",
+          "meaning": "dạy cách cư xử lễ phép",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "change a diaper",
+          "meaning": "thay tã",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "put the baby to bed",
+          "meaning": "cho em bé đi ngủ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "play with the children",
+      "meaning": "chơi cùng các con",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chơi cùng các con”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chơi cùng các con”?",
+      "distractors": [
+        {
+          "word": "feed the baby",
+          "meaning": "cho em bé ăn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "bathe the baby",
+          "meaning": "tắm cho em bé",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "read a bedtime story",
+          "meaning": "đọc truyện trước giờ ngủ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "teach good manners",
+      "meaning": "dạy cách cư xử lễ phép",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dạy cách cư xử lễ phép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dạy cách cư xử lễ phép”?",
+      "distractors": [
+        {
+          "word": "change a diaper",
+          "meaning": "thay tã",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "put the baby to bed",
+          "meaning": "cho em bé đi ngủ",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "help with homework",
+          "meaning": "giúp làm bài tập về nhà",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

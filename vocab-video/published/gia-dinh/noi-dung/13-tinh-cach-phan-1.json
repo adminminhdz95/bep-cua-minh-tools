@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 13",
+  "topic": "Tính cách người thân",
+  "part": 1,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "kind",
+      "meaning": "tốt bụng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tốt bụng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tốt bụng”?",
+      "distractors": [
+        {
+          "word": "strict",
+          "meaning": "nghiêm khắc",
+          "pos": "adjective"
+        },
+        {
+          "word": "generous",
+          "meaning": "hào phóng",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "nhút nhát",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "caring",
+      "meaning": "biết quan tâm chăm sóc",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “biết quan tâm chăm sóc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “biết quan tâm chăm sóc”?",
+      "distractors": [
+        {
+          "word": "patient",
+          "meaning": "kiên nhẫn",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheerful",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "stubborn",
+          "meaning": "bướng bỉnh",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "strict",
+      "meaning": "nghiêm khắc",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nghiêm khắc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nghiêm khắc”?",
+      "distractors": [
+        {
+          "word": "generous",
+          "meaning": "hào phóng",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "nhút nhát",
+          "pos": "adjective"
+        },
+        {
+          "word": "polite",
+          "meaning": "lễ phép",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "patient",
+      "meaning": "kiên nhẫn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “kiên nhẫn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “kiên nhẫn”?",
+      "distractors": [
+        {
+          "word": "cheerful",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "stubborn",
+          "meaning": "bướng bỉnh",
+          "pos": "adjective"
+        },
+        {
+          "word": "responsible",
+          "meaning": "có trách nhiệm",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "generous",
+      "meaning": "hào phóng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hào phóng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hào phóng”?",
+      "distractors": [
+        {
+          "word": "shy",
+          "meaning": "nhút nhát",
+          "pos": "adjective"
+        },
+        {
+          "word": "polite",
+          "meaning": "lễ phép",
+          "pos": "adjective"
+        },
+        {
+          "word": "kind",
+          "meaning": "tốt bụng",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

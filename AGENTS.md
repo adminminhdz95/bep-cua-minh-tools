@@ -88,3 +88,7 @@ ElevenLabs hiện đã tổng hợp thành công cả tiếng Việt và tiếng
 ## Bộ từ vựng buổi sáng: đọc hết câu hỏi rõ ràng
 
 Với yêu cầu đọc đầy đủ, đặt `narration` bằng toàn bộ `prompt` tiếng Việt, không chỉ đọc nghĩa. Dùng cùng giọng ElevenLabs cho hai ngôn ngữ. Có thể đặt `narration_rate: 0.92` để làm chậm lời Việt tại máy bằng FFmpeg atempo, giữ cao độ; không cần gọi lại TTS nếu có cache. Đặt `countdown_after_narration: true` để thanh thời gian bắt đầu giảm sau lời đọc. Tính `think_seconds` từ độ dài lời Việt đã điều chỉnh + 0.12 giây nghỉ + ít nhất 4 giây đếm ngược; làm tròn lên bội 1/30 giây. Tính `reveal_seconds` đủ cho từ/cụm tiếng Anh sau âm báo. Không cắt lời hay ép toàn bộ câu còn 6 giây khi không đủ thời gian. Người dùng đã yêu cầu hoàn thành bộ buổi sáng và đưa lên GitHub, không cần hỏi lại cho bộ này.
+
+## Đáp án nhiễu gần nghĩa
+
+Người dùng yêu cầu các lựa chọn sai gần nghĩa và cùng nhóm với đáp án đúng, tránh nghĩa lệch quá xa. Chọn cùng loại từ và cùng nhóm ngữ nghĩa; ví dụ câu hỏi về người thân phải dùng các vai trò trong gia đình. Vẫn bảo đảm chỉ một đáp án đúng: phân biệt rõ cháu của ông bà với cháu gọi mình bằng cô/chú, quan hệ huyết thống với quan hệ bên vợ/chồng. Với cụm động từ, dùng các hoạt động gần nhau trong cùng bối cảnh. Phân bố đáp án đúng giữa A–D và kiểm tra nghĩa của cả bốn lựa chọn.

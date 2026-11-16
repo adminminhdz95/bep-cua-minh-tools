@@ -1,0 +1,131 @@
+{
+  "title": "GIA ĐÌNH 01",
+  "topic": "Người thân gần gũi",
+  "part": 1,
+  "think_seconds": 8.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "father",
+      "meaning": "bố",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bố”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bố”?",
+      "distractors": [
+        {
+          "word": "brother",
+          "meaning": "anh hoặc em trai",
+          "pos": "noun"
+        },
+        {
+          "word": "son",
+          "meaning": "con trai",
+          "pos": "noun"
+        },
+        {
+          "word": "uncle",
+          "meaning": "chú, bác trai hoặc cậu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mother",
+      "meaning": "mẹ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mẹ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mẹ”?",
+      "distractors": [
+        {
+          "word": "sister",
+          "meaning": "chị hoặc em gái",
+          "pos": "noun"
+        },
+        {
+          "word": "daughter",
+          "meaning": "con gái",
+          "pos": "noun"
+        },
+        {
+          "word": "aunt",
+          "meaning": "cô, dì hoặc bác gái",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "anh hoặc em trai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “anh hoặc em trai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “anh hoặc em trai”?",
+      "distractors": [
+        {
+          "word": "son",
+          "meaning": "con trai",
+          "pos": "noun"
+        },
+        {
+          "word": "uncle",
+          "meaning": "chú, bác trai hoặc cậu",
+          "pos": "noun"
+        },
+        {
+          "word": "nephew",
+          "meaning": "cháu trai gọi mình bằng cô, dì, chú, bác hoặc cậu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "meaning": "chị hoặc em gái",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chị hoặc em gái”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chị hoặc em gái”?",
+      "distractors": [
+        {
+          "word": "daughter",
+          "meaning": "con gái",
+          "pos": "noun"
+        },
+        {
+          "word": "aunt",
+          "meaning": "cô, dì hoặc bác gái",
+          "pos": "noun"
+        },
+        {
+          "word": "niece",
+          "meaning": "cháu gái gọi mình bằng cô, dì, chú, bác hoặc cậu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "son",
+      "meaning": "con trai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “con trai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “con trai”?",
+      "distractors": [
+        {
+          "word": "uncle",
+          "meaning": "chú, bác trai hoặc cậu",
+          "pos": "noun"
+        },
+        {
+          "word": "nephew",
+          "meaning": "cháu trai gọi mình bằng cô, dì, chú, bác hoặc cậu",
+          "pos": "noun"
+        },
+        {
+          "word": "father",
+          "meaning": "bố",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
