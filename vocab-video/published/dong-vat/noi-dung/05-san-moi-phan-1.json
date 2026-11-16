@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 05",
+  "topic": "Thú săn mồi",
+  "part": 1,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "lion",
+      "meaning": "sư tử",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “sư tử”?",
+      "narration": "Từ nào có nghĩa là “sư tử”?",
+      "distractors": [
+        {
+          "word": "leopard",
+          "meaning": "báo hoa mai",
+          "pos": "noun"
+        },
+        {
+          "word": "jaguar",
+          "meaning": "báo đốm châu Mỹ",
+          "pos": "noun"
+        },
+        {
+          "word": "wolf",
+          "meaning": "chó sói",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tiger",
+      "meaning": "con hổ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con hổ”?",
+      "narration": "Từ nào có nghĩa là “con hổ”?",
+      "distractors": [
+        {
+          "word": "cheetah",
+          "meaning": "báo săn",
+          "pos": "noun"
+        },
+        {
+          "word": "hyena",
+          "meaning": "linh cẩu",
+          "pos": "noun"
+        },
+        {
+          "word": "fox",
+          "meaning": "con cáo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "leopard",
+      "meaning": "báo hoa mai",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “báo hoa mai”?",
+      "narration": "Từ nào có nghĩa là “báo hoa mai”?",
+      "distractors": [
+        {
+          "word": "jaguar",
+          "meaning": "báo đốm châu Mỹ",
+          "pos": "noun"
+        },
+        {
+          "word": "wolf",
+          "meaning": "chó sói",
+          "pos": "noun"
+        },
+        {
+          "word": "jackal",
+          "meaning": "chó rừng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cheetah",
+      "meaning": "báo săn",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “báo săn”?",
+      "narration": "Từ nào có nghĩa là “báo săn”?",
+      "distractors": [
+        {
+          "word": "hyena",
+          "meaning": "linh cẩu",
+          "pos": "noun"
+        },
+        {
+          "word": "fox",
+          "meaning": "con cáo",
+          "pos": "noun"
+        },
+        {
+          "word": "polar bear",
+          "meaning": "gấu Bắc Cực",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "jaguar",
+      "meaning": "báo đốm châu Mỹ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “báo đốm châu Mỹ”?",
+      "narration": "Từ nào có nghĩa là “báo đốm châu Mỹ”?",
+      "distractors": [
+        {
+          "word": "wolf",
+          "meaning": "chó sói",
+          "pos": "noun"
+        },
+        {
+          "word": "jackal",
+          "meaning": "chó rừng",
+          "pos": "noun"
+        },
+        {
+          "word": "lion",
+          "meaning": "sư tử",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

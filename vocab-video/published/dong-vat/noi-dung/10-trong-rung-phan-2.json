@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 10",
+  "topic": "Động vật trong rừng",
+  "part": 2,
+  "think_seconds": 7.166666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "raccoon",
+      "meaning": "gấu mèo",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gấu mèo”?",
+      "narration": "Từ nào có nghĩa là “gấu mèo”?",
+      "distractors": [
+        {
+          "word": "hedgehog",
+          "meaning": "nhím gai nhỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "monkey",
+          "meaning": "con khỉ",
+          "pos": "noun"
+        },
+        {
+          "word": "deer",
+          "meaning": "hươu hoặc nai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "badger",
+      "meaning": "con lửng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con lửng”?",
+      "narration": "Từ nào có nghĩa là “con lửng”?",
+      "distractors": [
+        {
+          "word": "bat",
+          "meaning": "con dơi",
+          "pos": "noun"
+        },
+        {
+          "word": "brown bear",
+          "meaning": "gấu nâu",
+          "pos": "noun"
+        },
+        {
+          "word": "moose",
+          "meaning": "nai sừng tấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hedgehog",
+      "meaning": "nhím gai nhỏ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nhím gai nhỏ”?",
+      "narration": "Từ nào có nghĩa là “nhím gai nhỏ”?",
+      "distractors": [
+        {
+          "word": "monkey",
+          "meaning": "con khỉ",
+          "pos": "noun"
+        },
+        {
+          "word": "deer",
+          "meaning": "hươu hoặc nai",
+          "pos": "noun"
+        },
+        {
+          "word": "reindeer",
+          "meaning": "tuần lộc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bat",
+      "meaning": "con dơi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con dơi”?",
+      "narration": "Từ nào có nghĩa là “con dơi”?",
+      "distractors": [
+        {
+          "word": "brown bear",
+          "meaning": "gấu nâu",
+          "pos": "noun"
+        },
+        {
+          "word": "moose",
+          "meaning": "nai sừng tấm",
+          "pos": "noun"
+        },
+        {
+          "word": "squirrel",
+          "meaning": "con sóc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "monkey",
+      "meaning": "con khỉ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con khỉ”?",
+      "narration": "Từ nào có nghĩa là “con khỉ”?",
+      "distractors": [
+        {
+          "word": "deer",
+          "meaning": "hươu hoặc nai",
+          "pos": "noun"
+        },
+        {
+          "word": "reindeer",
+          "meaning": "tuần lộc",
+          "pos": "noun"
+        },
+        {
+          "word": "raccoon",
+          "meaning": "gấu mèo",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

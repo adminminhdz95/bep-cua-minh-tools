@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 20",
+  "topic": "Côn trùng và nhện",
+  "part": 2,
+  "think_seconds": 6.466666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "mosquito",
+      "meaning": "con muỗi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con muỗi”?",
+      "narration": "Từ nào có nghĩa là “con muỗi”?",
+      "distractors": [
+        {
+          "word": "dragonfly",
+          "meaning": "chuồn chuồn",
+          "pos": "noun"
+        },
+        {
+          "word": "spider",
+          "meaning": "con nhện",
+          "pos": "noun"
+        },
+        {
+          "word": "bee",
+          "meaning": "ong mật",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fly",
+      "meaning": "con ruồi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con ruồi”?",
+      "narration": "Từ nào có nghĩa là “con ruồi”?",
+      "distractors": [
+        {
+          "word": "grasshopper",
+          "meaning": "châu chấu",
+          "pos": "noun"
+        },
+        {
+          "word": "ant",
+          "meaning": "con kiến",
+          "pos": "noun"
+        },
+        {
+          "word": "wasp",
+          "meaning": "ong bắp cày",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "dragonfly",
+      "meaning": "chuồn chuồn",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chuồn chuồn”?",
+      "narration": "Từ nào có nghĩa là “chuồn chuồn”?",
+      "distractors": [
+        {
+          "word": "spider",
+          "meaning": "con nhện",
+          "pos": "noun"
+        },
+        {
+          "word": "bee",
+          "meaning": "ong mật",
+          "pos": "noun"
+        },
+        {
+          "word": "butterfly",
+          "meaning": "bươm bướm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "grasshopper",
+      "meaning": "châu chấu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “châu chấu”?",
+      "narration": "Từ nào có nghĩa là “châu chấu”?",
+      "distractors": [
+        {
+          "word": "ant",
+          "meaning": "con kiến",
+          "pos": "noun"
+        },
+        {
+          "word": "wasp",
+          "meaning": "ong bắp cày",
+          "pos": "noun"
+        },
+        {
+          "word": "moth",
+          "meaning": "bướm đêm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spider",
+      "meaning": "con nhện",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con nhện”?",
+      "narration": "Từ nào có nghĩa là “con nhện”?",
+      "distractors": [
+        {
+          "word": "bee",
+          "meaning": "ong mật",
+          "pos": "noun"
+        },
+        {
+          "word": "butterfly",
+          "meaning": "bươm bướm",
+          "pos": "noun"
+        },
+        {
+          "word": "mosquito",
+          "meaning": "con muỗi",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

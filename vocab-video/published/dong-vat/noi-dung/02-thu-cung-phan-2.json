@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 02",
+  "topic": "Thú cưng",
+  "part": 2,
+  "think_seconds": 7.166666666666667,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "goldfish",
+      "meaning": "cá vàng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cá vàng”?",
+      "narration": "Từ nào có nghĩa là “cá vàng”?",
+      "distractors": [
+        {
+          "word": "budgie",
+          "meaning": "vẹt yến phụng",
+          "pos": "noun"
+        },
+        {
+          "word": "gerbil",
+          "meaning": "chuột nhảy",
+          "pos": "noun"
+        },
+        {
+          "word": "cat",
+          "meaning": "con mèo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "parrot",
+      "meaning": "con vẹt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con vẹt”?",
+      "narration": "Từ nào có nghĩa là “con vẹt”?",
+      "distractors": [
+        {
+          "word": "canary",
+          "meaning": "chim hoàng yến",
+          "pos": "noun"
+        },
+        {
+          "word": "goldfish",
+          "meaning": "cá vàng",
+          "pos": "noun"
+        },
+        {
+          "word": "rabbit",
+          "meaning": "con thỏ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "budgie",
+      "meaning": "vẹt yến phụng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vẹt yến phụng”?",
+      "narration": "Từ nào có nghĩa là “vẹt yến phụng”?",
+      "distractors": [
+        {
+          "word": "canary",
+          "meaning": "chim hoàng yến",
+          "pos": "noun"
+        },
+        {
+          "word": "hamster",
+          "meaning": "chuột hamster",
+          "pos": "noun"
+        },
+        {
+          "word": "gerbil",
+          "meaning": "chuột nhảy",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "canary",
+      "meaning": "chim hoàng yến",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim hoàng yến”?",
+      "narration": "Từ nào có nghĩa là “chim hoàng yến”?",
+      "distractors": [
+        {
+          "word": "dog",
+          "meaning": "con chó",
+          "pos": "noun"
+        },
+        {
+          "word": "hamster",
+          "meaning": "chuột hamster",
+          "pos": "noun"
+        },
+        {
+          "word": "rabbit",
+          "meaning": "con thỏ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "gerbil",
+      "meaning": "chuột nhảy",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chuột nhảy”?",
+      "narration": "Từ nào có nghĩa là “chuột nhảy”?",
+      "distractors": [
+        {
+          "word": "cat",
+          "meaning": "con mèo",
+          "pos": "noun"
+        },
+        {
+          "word": "guinea pig",
+          "meaning": "bọ ú",
+          "pos": "noun"
+        },
+        {
+          "word": "goldfish",
+          "meaning": "cá vàng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

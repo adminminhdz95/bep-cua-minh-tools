@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 08",
+  "topic": "Thú hoang dã quen thuộc",
+  "part": 2,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "camel",
+      "meaning": "lạc đà",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “lạc đà”?",
+      "narration": "Từ nào có nghĩa là “lạc đà”?",
+      "distractors": [
+        {
+          "word": "koala",
+          "meaning": "gấu túi",
+          "pos": "noun"
+        },
+        {
+          "word": "sloth",
+          "meaning": "con lười",
+          "pos": "noun"
+        },
+        {
+          "word": "giraffe",
+          "meaning": "hươu cao cổ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "kangaroo",
+      "meaning": "chuột túi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chuột túi”?",
+      "narration": "Từ nào có nghĩa là “chuột túi”?",
+      "distractors": [
+        {
+          "word": "panda",
+          "meaning": "gấu trúc",
+          "pos": "noun"
+        },
+        {
+          "word": "elephant",
+          "meaning": "con voi",
+          "pos": "noun"
+        },
+        {
+          "word": "zebra",
+          "meaning": "ngựa vằn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "koala",
+      "meaning": "gấu túi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gấu túi”?",
+      "narration": "Từ nào có nghĩa là “gấu túi”?",
+      "distractors": [
+        {
+          "word": "sloth",
+          "meaning": "con lười",
+          "pos": "noun"
+        },
+        {
+          "word": "giraffe",
+          "meaning": "hươu cao cổ",
+          "pos": "noun"
+        },
+        {
+          "word": "hippopotamus",
+          "meaning": "hà mã",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "panda",
+      "meaning": "gấu trúc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gấu trúc”?",
+      "narration": "Từ nào có nghĩa là “gấu trúc”?",
+      "distractors": [
+        {
+          "word": "elephant",
+          "meaning": "con voi",
+          "pos": "noun"
+        },
+        {
+          "word": "zebra",
+          "meaning": "ngựa vằn",
+          "pos": "noun"
+        },
+        {
+          "word": "rhinoceros",
+          "meaning": "tê giác",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sloth",
+      "meaning": "con lười",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con lười”?",
+      "narration": "Từ nào có nghĩa là “con lười”?",
+      "distractors": [
+        {
+          "word": "giraffe",
+          "meaning": "hươu cao cổ",
+          "pos": "noun"
+        },
+        {
+          "word": "hippopotamus",
+          "meaning": "hà mã",
+          "pos": "noun"
+        },
+        {
+          "word": "camel",
+          "meaning": "lạc đà",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

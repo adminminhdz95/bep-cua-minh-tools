@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 04",
+  "topic": "Động vật ở trang trại",
+  "part": 2,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "lamb",
+      "meaning": "cừu con",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cừu con”?",
+      "narration": "Từ nào có nghĩa là “cừu con”?",
+      "distractors": [
+        {
+          "word": "calf",
+          "meaning": "bê con",
+          "pos": "noun"
+        },
+        {
+          "word": "goat",
+          "meaning": "con dê",
+          "pos": "noun"
+        },
+        {
+          "word": "pig",
+          "meaning": "con lợn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pig",
+      "meaning": "con lợn",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con lợn”?",
+      "narration": "Từ nào có nghĩa là “con lợn”?",
+      "distractors": [
+        {
+          "word": "donkey",
+          "meaning": "con lừa",
+          "pos": "noun"
+        },
+        {
+          "word": "cow",
+          "meaning": "bò cái trưởng thành",
+          "pos": "noun"
+        },
+        {
+          "word": "calf",
+          "meaning": "bê con",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "horse",
+      "meaning": "con ngựa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con ngựa”?",
+      "narration": "Từ nào có nghĩa là “con ngựa”?",
+      "distractors": [
+        {
+          "word": "duck",
+          "meaning": "con vịt",
+          "pos": "noun"
+        },
+        {
+          "word": "bull",
+          "meaning": "bò đực trưởng thành",
+          "pos": "noun"
+        },
+        {
+          "word": "goat",
+          "meaning": "con dê",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "donkey",
+      "meaning": "con lừa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con lừa”?",
+      "narration": "Từ nào có nghĩa là “con lừa”?",
+      "distractors": [
+        {
+          "word": "cow",
+          "meaning": "bò cái trưởng thành",
+          "pos": "noun"
+        },
+        {
+          "word": "calf",
+          "meaning": "bê con",
+          "pos": "noun"
+        },
+        {
+          "word": "sheep",
+          "meaning": "con cừu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "duck",
+      "meaning": "con vịt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con vịt”?",
+      "narration": "Từ nào có nghĩa là “con vịt”?",
+      "distractors": [
+        {
+          "word": "bull",
+          "meaning": "bò đực trưởng thành",
+          "pos": "noun"
+        },
+        {
+          "word": "goat",
+          "meaning": "con dê",
+          "pos": "noun"
+        },
+        {
+          "word": "lamb",
+          "meaning": "cừu con",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

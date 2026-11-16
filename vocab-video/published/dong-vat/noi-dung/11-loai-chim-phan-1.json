@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 11",
+  "topic": "Các loài chim",
+  "part": 1,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "eagle",
+      "meaning": "đại bàng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đại bàng”?",
+      "narration": "Từ nào có nghĩa là “đại bàng”?",
+      "distractors": [
+        {
+          "word": "owl",
+          "meaning": "con cú",
+          "pos": "noun"
+        },
+        {
+          "word": "sparrow",
+          "meaning": "chim sẻ",
+          "pos": "noun"
+        },
+        {
+          "word": "woodpecker",
+          "meaning": "chim gõ kiến",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hawk",
+      "meaning": "diều hâu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “diều hâu”?",
+      "narration": "Từ nào có nghĩa là “diều hâu”?",
+      "distractors": [
+        {
+          "word": "crow",
+          "meaning": "con quạ",
+          "pos": "noun"
+        },
+        {
+          "word": "pigeon",
+          "meaning": "bồ câu",
+          "pos": "noun"
+        },
+        {
+          "word": "peacock",
+          "meaning": "con công",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "owl",
+      "meaning": "con cú",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con cú”?",
+      "narration": "Từ nào có nghĩa là “con cú”?",
+      "distractors": [
+        {
+          "word": "sparrow",
+          "meaning": "chim sẻ",
+          "pos": "noun"
+        },
+        {
+          "word": "woodpecker",
+          "meaning": "chim gõ kiến",
+          "pos": "noun"
+        },
+        {
+          "word": "ostrich",
+          "meaning": "đà điểu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "crow",
+      "meaning": "con quạ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con quạ”?",
+      "narration": "Từ nào có nghĩa là “con quạ”?",
+      "distractors": [
+        {
+          "word": "pigeon",
+          "meaning": "bồ câu",
+          "pos": "noun"
+        },
+        {
+          "word": "peacock",
+          "meaning": "con công",
+          "pos": "noun"
+        },
+        {
+          "word": "hummingbird",
+          "meaning": "chim ruồi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sparrow",
+      "meaning": "chim sẻ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim sẻ”?",
+      "narration": "Từ nào có nghĩa là “chim sẻ”?",
+      "distractors": [
+        {
+          "word": "woodpecker",
+          "meaning": "chim gõ kiến",
+          "pos": "noun"
+        },
+        {
+          "word": "ostrich",
+          "meaning": "đà điểu",
+          "pos": "noun"
+        },
+        {
+          "word": "eagle",
+          "meaning": "đại bàng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

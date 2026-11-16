@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 16",
+  "topic": "Bò sát và lưỡng cư",
+  "part": 2,
+  "think_seconds": 6.566666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "chameleon",
+      "meaning": "tắc kè hoa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tắc kè hoa”?",
+      "narration": "Từ nào có nghĩa là “tắc kè hoa”?",
+      "distractors": [
+        {
+          "word": "gecko",
+          "meaning": "tắc kè",
+          "pos": "noun"
+        },
+        {
+          "word": "iguana",
+          "meaning": "cự đà",
+          "pos": "noun"
+        },
+        {
+          "word": "toad",
+          "meaning": "con cóc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "iguana",
+      "meaning": "cự đà",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cự đà”?",
+      "narration": "Từ nào có nghĩa là “cự đà”?",
+      "distractors": [
+        {
+          "word": "gecko",
+          "meaning": "tắc kè",
+          "pos": "noun"
+        },
+        {
+          "word": "chameleon",
+          "meaning": "tắc kè hoa",
+          "pos": "noun"
+        },
+        {
+          "word": "snake",
+          "meaning": "con rắn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tortoise",
+      "meaning": "rùa cạn",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “rùa cạn”?",
+      "narration": "Từ nào có nghĩa là “rùa cạn”?",
+      "distractors": [
+        {
+          "word": "toad",
+          "meaning": "con cóc",
+          "pos": "noun"
+        },
+        {
+          "word": "alligator",
+          "meaning": "cá sấu mõm ngắn",
+          "pos": "noun"
+        },
+        {
+          "word": "lizard",
+          "meaning": "thằn lằn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "frog",
+      "meaning": "con ếch",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con ếch”?",
+      "narration": "Từ nào có nghĩa là “con ếch”?",
+      "distractors": [
+        {
+          "word": "crocodile",
+          "meaning": "cá sấu mõm nhọn",
+          "pos": "noun"
+        },
+        {
+          "word": "snake",
+          "meaning": "con rắn",
+          "pos": "noun"
+        },
+        {
+          "word": "gecko",
+          "meaning": "tắc kè",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "toad",
+      "meaning": "con cóc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con cóc”?",
+      "narration": "Từ nào có nghĩa là “con cóc”?",
+      "distractors": [
+        {
+          "word": "alligator",
+          "meaning": "cá sấu mõm ngắn",
+          "pos": "noun"
+        },
+        {
+          "word": "lizard",
+          "meaning": "thằn lằn",
+          "pos": "noun"
+        },
+        {
+          "word": "chameleon",
+          "meaning": "tắc kè hoa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

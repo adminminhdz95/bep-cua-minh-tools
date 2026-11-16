@@ -12,3 +12,4 @@
 - [100 từ đồ vật thiết yếu trong nhà — 20 video, đọc trọn câu hỏi](vocab-video/published/do-trong-nha/README.md)
 - [100 từ thời tiết — 20 video, đọc trọn câu hỏi](vocab-video/published/thoi-tiet/README.md)
 - [100 từ gia đình — 20 video, đọc trọn câu hỏi](vocab-video/published/gia-dinh/README.md)
+- [100 từ động vật — 20 video, đọc trọn câu hỏi](vocab-video/published/dong-vat/README.md)

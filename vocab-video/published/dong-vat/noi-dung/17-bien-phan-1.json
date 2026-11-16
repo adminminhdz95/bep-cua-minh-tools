@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 17",
+  "topic": "Động vật biển",
+  "part": 1,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "dolphin",
+      "meaning": "cá heo",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cá heo”?",
+      "narration": "Từ nào có nghĩa là “cá heo”?",
+      "distractors": [
+        {
+          "word": "shark",
+          "meaning": "cá mập",
+          "pos": "noun"
+        },
+        {
+          "word": "walrus",
+          "meaning": "hải mã",
+          "pos": "noun"
+        },
+        {
+          "word": "squid",
+          "meaning": "con mực",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "whale",
+      "meaning": "cá voi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cá voi”?",
+      "narration": "Từ nào có nghĩa là “cá voi”?",
+      "distractors": [
+        {
+          "word": "seal",
+          "meaning": "hải cẩu",
+          "pos": "noun"
+        },
+        {
+          "word": "octopus",
+          "meaning": "bạch tuộc",
+          "pos": "noun"
+        },
+        {
+          "word": "jellyfish",
+          "meaning": "con sứa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shark",
+      "meaning": "cá mập",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cá mập”?",
+      "narration": "Từ nào có nghĩa là “cá mập”?",
+      "distractors": [
+        {
+          "word": "walrus",
+          "meaning": "hải mã",
+          "pos": "noun"
+        },
+        {
+          "word": "squid",
+          "meaning": "con mực",
+          "pos": "noun"
+        },
+        {
+          "word": "seahorse",
+          "meaning": "cá ngựa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "seal",
+      "meaning": "hải cẩu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hải cẩu”?",
+      "narration": "Từ nào có nghĩa là “hải cẩu”?",
+      "distractors": [
+        {
+          "word": "octopus",
+          "meaning": "bạch tuộc",
+          "pos": "noun"
+        },
+        {
+          "word": "jellyfish",
+          "meaning": "con sứa",
+          "pos": "noun"
+        },
+        {
+          "word": "stingray",
+          "meaning": "cá đuối có gai độc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "walrus",
+      "meaning": "hải mã",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hải mã”?",
+      "narration": "Từ nào có nghĩa là “hải mã”?",
+      "distractors": [
+        {
+          "word": "squid",
+          "meaning": "con mực",
+          "pos": "noun"
+        },
+        {
+          "word": "seahorse",
+          "meaning": "cá ngựa",
+          "pos": "noun"
+        },
+        {
+          "word": "dolphin",
+          "meaning": "cá heo",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

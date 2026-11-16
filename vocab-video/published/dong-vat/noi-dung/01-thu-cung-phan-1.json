@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 01",
+  "topic": "Thú cưng",
+  "part": 1,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "dog",
+      "meaning": "con chó",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con chó”?",
+      "narration": "Từ nào có nghĩa là “con chó”?",
+      "distractors": [
+        {
+          "word": "hamster",
+          "meaning": "chuột hamster",
+          "pos": "noun"
+        },
+        {
+          "word": "rabbit",
+          "meaning": "con thỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "parrot",
+          "meaning": "con vẹt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cat",
+      "meaning": "con mèo",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con mèo”?",
+      "narration": "Từ nào có nghĩa là “con mèo”?",
+      "distractors": [
+        {
+          "word": "guinea pig",
+          "meaning": "bọ ú",
+          "pos": "noun"
+        },
+        {
+          "word": "goldfish",
+          "meaning": "cá vàng",
+          "pos": "noun"
+        },
+        {
+          "word": "budgie",
+          "meaning": "vẹt yến phụng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hamster",
+      "meaning": "chuột hamster",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chuột hamster”?",
+      "narration": "Từ nào có nghĩa là “chuột hamster”?",
+      "distractors": [
+        {
+          "word": "rabbit",
+          "meaning": "con thỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "parrot",
+          "meaning": "con vẹt",
+          "pos": "noun"
+        },
+        {
+          "word": "canary",
+          "meaning": "chim hoàng yến",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "guinea pig",
+      "meaning": "bọ ú",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bọ ú”?",
+      "narration": "Từ nào có nghĩa là “bọ ú”?",
+      "distractors": [
+        {
+          "word": "goldfish",
+          "meaning": "cá vàng",
+          "pos": "noun"
+        },
+        {
+          "word": "budgie",
+          "meaning": "vẹt yến phụng",
+          "pos": "noun"
+        },
+        {
+          "word": "gerbil",
+          "meaning": "chuột nhảy",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rabbit",
+      "meaning": "con thỏ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con thỏ”?",
+      "narration": "Từ nào có nghĩa là “con thỏ”?",
+      "distractors": [
+        {
+          "word": "parrot",
+          "meaning": "con vẹt",
+          "pos": "noun"
+        },
+        {
+          "word": "canary",
+          "meaning": "chim hoàng yến",
+          "pos": "noun"
+        },
+        {
+          "word": "dog",
+          "meaning": "con chó",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

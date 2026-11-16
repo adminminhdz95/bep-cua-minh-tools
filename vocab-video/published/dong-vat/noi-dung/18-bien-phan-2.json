@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 18",
+  "topic": "Động vật biển",
+  "part": 2,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "octopus",
+      "meaning": "bạch tuộc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bạch tuộc”?",
+      "narration": "Từ nào có nghĩa là “bạch tuộc”?",
+      "distractors": [
+        {
+          "word": "jellyfish",
+          "meaning": "con sứa",
+          "pos": "noun"
+        },
+        {
+          "word": "stingray",
+          "meaning": "cá đuối có gai độc",
+          "pos": "noun"
+        },
+        {
+          "word": "whale",
+          "meaning": "cá voi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "squid",
+      "meaning": "con mực",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con mực”?",
+      "narration": "Từ nào có nghĩa là “con mực”?",
+      "distractors": [
+        {
+          "word": "seahorse",
+          "meaning": "cá ngựa",
+          "pos": "noun"
+        },
+        {
+          "word": "dolphin",
+          "meaning": "cá heo",
+          "pos": "noun"
+        },
+        {
+          "word": "shark",
+          "meaning": "cá mập",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "jellyfish",
+      "meaning": "con sứa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con sứa”?",
+      "narration": "Từ nào có nghĩa là “con sứa”?",
+      "distractors": [
+        {
+          "word": "stingray",
+          "meaning": "cá đuối có gai độc",
+          "pos": "noun"
+        },
+        {
+          "word": "whale",
+          "meaning": "cá voi",
+          "pos": "noun"
+        },
+        {
+          "word": "seal",
+          "meaning": "hải cẩu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "seahorse",
+      "meaning": "cá ngựa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cá ngựa”?",
+      "narration": "Từ nào có nghĩa là “cá ngựa”?",
+      "distractors": [
+        {
+          "word": "dolphin",
+          "meaning": "cá heo",
+          "pos": "noun"
+        },
+        {
+          "word": "shark",
+          "meaning": "cá mập",
+          "pos": "noun"
+        },
+        {
+          "word": "walrus",
+          "meaning": "hải mã",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "stingray",
+      "meaning": "cá đuối có gai độc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cá đuối có gai độc”?",
+      "narration": "Từ nào có nghĩa là “cá đuối có gai độc”?",
+      "distractors": [
+        {
+          "word": "whale",
+          "meaning": "cá voi",
+          "pos": "noun"
+        },
+        {
+          "word": "seal",
+          "meaning": "hải cẩu",
+          "pos": "noun"
+        },
+        {
+          "word": "octopus",
+          "meaning": "bạch tuộc",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

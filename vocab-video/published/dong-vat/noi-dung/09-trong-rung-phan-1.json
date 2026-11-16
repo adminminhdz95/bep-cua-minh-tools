@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 09",
+  "topic": "Động vật trong rừng",
+  "part": 1,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "brown bear",
+      "meaning": "gấu nâu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gấu nâu”?",
+      "narration": "Từ nào có nghĩa là “gấu nâu”?",
+      "distractors": [
+        {
+          "word": "moose",
+          "meaning": "nai sừng tấm",
+          "pos": "noun"
+        },
+        {
+          "word": "squirrel",
+          "meaning": "con sóc",
+          "pos": "noun"
+        },
+        {
+          "word": "badger",
+          "meaning": "con lửng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "deer",
+      "meaning": "hươu hoặc nai",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ chung loài “hươu hoặc nai”?",
+      "narration": "Từ nào chỉ chung loài “hươu hoặc nai”?",
+      "distractors": [
+        {
+          "word": "squirrel",
+          "meaning": "con sóc",
+          "pos": "noun"
+        },
+        {
+          "word": "raccoon",
+          "meaning": "gấu mèo",
+          "pos": "noun"
+        },
+        {
+          "word": "badger",
+          "meaning": "con lửng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "moose",
+      "meaning": "nai sừng tấm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nai sừng tấm”?",
+      "narration": "Từ nào có nghĩa là “nai sừng tấm”?",
+      "distractors": [
+        {
+          "word": "reindeer",
+          "meaning": "tuần lộc",
+          "pos": "noun"
+        },
+        {
+          "word": "brown bear",
+          "meaning": "gấu nâu",
+          "pos": "noun"
+        },
+        {
+          "word": "raccoon",
+          "meaning": "gấu mèo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "reindeer",
+      "meaning": "tuần lộc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tuần lộc”?",
+      "narration": "Từ nào có nghĩa là “tuần lộc”?",
+      "distractors": [
+        {
+          "word": "moose",
+          "meaning": "nai sừng tấm",
+          "pos": "noun"
+        },
+        {
+          "word": "squirrel",
+          "meaning": "con sóc",
+          "pos": "noun"
+        },
+        {
+          "word": "badger",
+          "meaning": "con lửng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "squirrel",
+      "meaning": "con sóc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con sóc”?",
+      "narration": "Từ nào có nghĩa là “con sóc”?",
+      "distractors": [
+        {
+          "word": "badger",
+          "meaning": "con lửng",
+          "pos": "noun"
+        },
+        {
+          "word": "bat",
+          "meaning": "con dơi",
+          "pos": "noun"
+        },
+        {
+          "word": "brown bear",
+          "meaning": "gấu nâu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

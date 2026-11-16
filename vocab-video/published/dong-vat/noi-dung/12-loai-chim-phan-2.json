@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 12",
+  "topic": "Các loài chim",
+  "part": 2,
+  "think_seconds": 7.0,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pigeon",
+      "meaning": "bồ câu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bồ câu”?",
+      "narration": "Từ nào có nghĩa là “bồ câu”?",
+      "distractors": [
+        {
+          "word": "peacock",
+          "meaning": "con công",
+          "pos": "noun"
+        },
+        {
+          "word": "hummingbird",
+          "meaning": "chim ruồi",
+          "pos": "noun"
+        },
+        {
+          "word": "hawk",
+          "meaning": "diều hâu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "woodpecker",
+      "meaning": "chim gõ kiến",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim gõ kiến”?",
+      "narration": "Từ nào có nghĩa là “chim gõ kiến”?",
+      "distractors": [
+        {
+          "word": "ostrich",
+          "meaning": "đà điểu",
+          "pos": "noun"
+        },
+        {
+          "word": "eagle",
+          "meaning": "đại bàng",
+          "pos": "noun"
+        },
+        {
+          "word": "owl",
+          "meaning": "con cú",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "peacock",
+      "meaning": "con công",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con công”?",
+      "narration": "Từ nào có nghĩa là “con công”?",
+      "distractors": [
+        {
+          "word": "hummingbird",
+          "meaning": "chim ruồi",
+          "pos": "noun"
+        },
+        {
+          "word": "hawk",
+          "meaning": "diều hâu",
+          "pos": "noun"
+        },
+        {
+          "word": "crow",
+          "meaning": "con quạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ostrich",
+      "meaning": "đà điểu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đà điểu”?",
+      "narration": "Từ nào có nghĩa là “đà điểu”?",
+      "distractors": [
+        {
+          "word": "eagle",
+          "meaning": "đại bàng",
+          "pos": "noun"
+        },
+        {
+          "word": "owl",
+          "meaning": "con cú",
+          "pos": "noun"
+        },
+        {
+          "word": "sparrow",
+          "meaning": "chim sẻ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hummingbird",
+      "meaning": "chim ruồi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim ruồi”?",
+      "narration": "Từ nào có nghĩa là “chim ruồi”?",
+      "distractors": [
+        {
+          "word": "hawk",
+          "meaning": "diều hâu",
+          "pos": "noun"
+        },
+        {
+          "word": "crow",
+          "meaning": "con quạ",
+          "pos": "noun"
+        },
+        {
+          "word": "pigeon",
+          "meaning": "bồ câu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

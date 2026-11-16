@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 06",
+  "topic": "Thú săn mồi",
+  "part": 2,
+  "think_seconds": 6.733333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "hyena",
+      "meaning": "linh cẩu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “linh cẩu”?",
+      "narration": "Từ nào có nghĩa là “linh cẩu”?",
+      "distractors": [
+        {
+          "word": "fox",
+          "meaning": "con cáo",
+          "pos": "noun"
+        },
+        {
+          "word": "polar bear",
+          "meaning": "gấu Bắc Cực",
+          "pos": "noun"
+        },
+        {
+          "word": "tiger",
+          "meaning": "con hổ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wolf",
+      "meaning": "chó sói",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chó sói”?",
+      "narration": "Từ nào có nghĩa là “chó sói”?",
+      "distractors": [
+        {
+          "word": "jackal",
+          "meaning": "chó rừng",
+          "pos": "noun"
+        },
+        {
+          "word": "lion",
+          "meaning": "sư tử",
+          "pos": "noun"
+        },
+        {
+          "word": "leopard",
+          "meaning": "báo hoa mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fox",
+      "meaning": "con cáo",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con cáo”?",
+      "narration": "Từ nào có nghĩa là “con cáo”?",
+      "distractors": [
+        {
+          "word": "polar bear",
+          "meaning": "gấu Bắc Cực",
+          "pos": "noun"
+        },
+        {
+          "word": "tiger",
+          "meaning": "con hổ",
+          "pos": "noun"
+        },
+        {
+          "word": "cheetah",
+          "meaning": "báo săn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "jackal",
+      "meaning": "chó rừng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chó rừng”?",
+      "narration": "Từ nào có nghĩa là “chó rừng”?",
+      "distractors": [
+        {
+          "word": "lion",
+          "meaning": "sư tử",
+          "pos": "noun"
+        },
+        {
+          "word": "leopard",
+          "meaning": "báo hoa mai",
+          "pos": "noun"
+        },
+        {
+          "word": "jaguar",
+          "meaning": "báo đốm châu Mỹ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "polar bear",
+      "meaning": "gấu Bắc Cực",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gấu Bắc Cực”?",
+      "narration": "Từ nào có nghĩa là “gấu Bắc Cực”?",
+      "distractors": [
+        {
+          "word": "tiger",
+          "meaning": "con hổ",
+          "pos": "noun"
+        },
+        {
+          "word": "cheetah",
+          "meaning": "báo săn",
+          "pos": "noun"
+        },
+        {
+          "word": "hyena",
+          "meaning": "linh cẩu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

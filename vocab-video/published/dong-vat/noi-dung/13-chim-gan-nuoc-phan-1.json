@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 13",
+  "topic": "Chim sống gần nước",
+  "part": 1,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "swan",
+      "meaning": "thiên nga",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thiên nga”?",
+      "narration": "Từ nào có nghĩa là “thiên nga”?",
+      "distractors": [
+        {
+          "word": "penguin",
+          "meaning": "chim cánh cụt",
+          "pos": "noun"
+        },
+        {
+          "word": "pelican",
+          "meaning": "bồ nông",
+          "pos": "noun"
+        },
+        {
+          "word": "heron",
+          "meaning": "chim diệc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "goose",
+      "meaning": "con ngỗng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con ngỗng”?",
+      "narration": "Từ nào có nghĩa là “con ngỗng”?",
+      "distractors": [
+        {
+          "word": "flamingo",
+          "meaning": "hồng hạc",
+          "pos": "noun"
+        },
+        {
+          "word": "stork",
+          "meaning": "con cò",
+          "pos": "noun"
+        },
+        {
+          "word": "crane",
+          "meaning": "chim sếu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "penguin",
+      "meaning": "chim cánh cụt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim cánh cụt”?",
+      "narration": "Từ nào có nghĩa là “chim cánh cụt”?",
+      "distractors": [
+        {
+          "word": "pelican",
+          "meaning": "bồ nông",
+          "pos": "noun"
+        },
+        {
+          "word": "heron",
+          "meaning": "chim diệc",
+          "pos": "noun"
+        },
+        {
+          "word": "seagull",
+          "meaning": "hải âu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "flamingo",
+      "meaning": "hồng hạc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hồng hạc”?",
+      "narration": "Từ nào có nghĩa là “hồng hạc”?",
+      "distractors": [
+        {
+          "word": "stork",
+          "meaning": "con cò",
+          "pos": "noun"
+        },
+        {
+          "word": "crane",
+          "meaning": "chim sếu",
+          "pos": "noun"
+        },
+        {
+          "word": "puffin",
+          "meaning": "chim hải âu cổ rụt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pelican",
+      "meaning": "bồ nông",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bồ nông”?",
+      "narration": "Từ nào có nghĩa là “bồ nông”?",
+      "distractors": [
+        {
+          "word": "heron",
+          "meaning": "chim diệc",
+          "pos": "noun"
+        },
+        {
+          "word": "seagull",
+          "meaning": "hải âu",
+          "pos": "noun"
+        },
+        {
+          "word": "swan",
+          "meaning": "thiên nga",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

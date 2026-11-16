@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 14",
+  "topic": "Chim sống gần nước",
+  "part": 2,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "stork",
+      "meaning": "con cò",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con cò”?",
+      "narration": "Từ nào có nghĩa là “con cò”?",
+      "distractors": [
+        {
+          "word": "crane",
+          "meaning": "chim sếu",
+          "pos": "noun"
+        },
+        {
+          "word": "puffin",
+          "meaning": "chim hải âu cổ rụt",
+          "pos": "noun"
+        },
+        {
+          "word": "goose",
+          "meaning": "con ngỗng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "heron",
+      "meaning": "chim diệc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim diệc”?",
+      "narration": "Từ nào có nghĩa là “chim diệc”?",
+      "distractors": [
+        {
+          "word": "seagull",
+          "meaning": "hải âu",
+          "pos": "noun"
+        },
+        {
+          "word": "swan",
+          "meaning": "thiên nga",
+          "pos": "noun"
+        },
+        {
+          "word": "penguin",
+          "meaning": "chim cánh cụt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "crane",
+      "meaning": "chim sếu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim sếu”?",
+      "narration": "Từ nào có nghĩa là “chim sếu”?",
+      "distractors": [
+        {
+          "word": "puffin",
+          "meaning": "chim hải âu cổ rụt",
+          "pos": "noun"
+        },
+        {
+          "word": "goose",
+          "meaning": "con ngỗng",
+          "pos": "noun"
+        },
+        {
+          "word": "flamingo",
+          "meaning": "hồng hạc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "seagull",
+      "meaning": "hải âu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hải âu”?",
+      "narration": "Từ nào có nghĩa là “hải âu”?",
+      "distractors": [
+        {
+          "word": "pelican",
+          "meaning": "bồ nông",
+          "pos": "noun"
+        },
+        {
+          "word": "flamingo",
+          "meaning": "hồng hạc",
+          "pos": "noun"
+        },
+        {
+          "word": "penguin",
+          "meaning": "chim cánh cụt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "puffin",
+      "meaning": "chim hải âu cổ rụt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chim hải âu cổ rụt”?",
+      "narration": "Từ nào có nghĩa là “chim hải âu cổ rụt”?",
+      "distractors": [
+        {
+          "word": "pelican",
+          "meaning": "bồ nông",
+          "pos": "noun"
+        },
+        {
+          "word": "penguin",
+          "meaning": "chim cánh cụt",
+          "pos": "noun"
+        },
+        {
+          "word": "swan",
+          "meaning": "thiên nga",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

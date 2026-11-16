@@ -1,0 +1,131 @@
+{
+  "title": "ĐỘNG VẬT 19",
+  "topic": "Côn trùng và nhện",
+  "part": 1,
+  "think_seconds": 7.0,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "ant",
+      "meaning": "con kiến",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “con kiến”?",
+      "narration": "Từ nào có nghĩa là “con kiến”?",
+      "distractors": [
+        {
+          "word": "wasp",
+          "meaning": "ong bắp cày",
+          "pos": "noun"
+        },
+        {
+          "word": "moth",
+          "meaning": "bướm đêm",
+          "pos": "noun"
+        },
+        {
+          "word": "fly",
+          "meaning": "con ruồi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bee",
+      "meaning": "ong mật",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ong mật”?",
+      "narration": "Từ nào có nghĩa là “ong mật”?",
+      "distractors": [
+        {
+          "word": "butterfly",
+          "meaning": "bươm bướm",
+          "pos": "noun"
+        },
+        {
+          "word": "mosquito",
+          "meaning": "con muỗi",
+          "pos": "noun"
+        },
+        {
+          "word": "dragonfly",
+          "meaning": "chuồn chuồn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wasp",
+      "meaning": "ong bắp cày",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ong bắp cày”?",
+      "narration": "Từ nào có nghĩa là “ong bắp cày”?",
+      "distractors": [
+        {
+          "word": "moth",
+          "meaning": "bướm đêm",
+          "pos": "noun"
+        },
+        {
+          "word": "fly",
+          "meaning": "con ruồi",
+          "pos": "noun"
+        },
+        {
+          "word": "grasshopper",
+          "meaning": "châu chấu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "butterfly",
+      "meaning": "bươm bướm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bươm bướm”?",
+      "narration": "Từ nào có nghĩa là “bươm bướm”?",
+      "distractors": [
+        {
+          "word": "mosquito",
+          "meaning": "con muỗi",
+          "pos": "noun"
+        },
+        {
+          "word": "dragonfly",
+          "meaning": "chuồn chuồn",
+          "pos": "noun"
+        },
+        {
+          "word": "spider",
+          "meaning": "con nhện",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "moth",
+      "meaning": "bướm đêm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bướm đêm”?",
+      "narration": "Từ nào có nghĩa là “bướm đêm”?",
+      "distractors": [
+        {
+          "word": "fly",
+          "meaning": "con ruồi",
+          "pos": "noun"
+        },
+        {
+          "word": "grasshopper",
+          "meaning": "châu chấu",
+          "pos": "noun"
+        },
+        {
+          "word": "ant",
+          "meaning": "con kiến",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
