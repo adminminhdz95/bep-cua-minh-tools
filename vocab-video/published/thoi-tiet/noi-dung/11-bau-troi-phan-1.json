@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 11",
+  "topic": "Bầu trời và ánh sáng",
+  "part": 1,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sky",
+      "meaning": "bầu trời",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bầu trời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bầu trời”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "meaning": "đám mây",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đám mây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đám mây”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "meaning": "mặt trời",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mặt trời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mặt trời”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sunshine",
+      "meaning": "ánh nắng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ánh nắng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ánh nắng”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sunrise",
+      "meaning": "bình minh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bình minh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bình minh”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

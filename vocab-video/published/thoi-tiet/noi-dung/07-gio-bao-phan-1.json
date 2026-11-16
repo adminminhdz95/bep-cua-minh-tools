@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 07",
+  "topic": "Gió và bão",
+  "part": 1,
+  "think_seconds": 7.5,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wind",
+      "meaning": "gió",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gió”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gió”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "breeze",
+      "meaning": "gió nhẹ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gió nhẹ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gió nhẹ”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "gust",
+      "meaning": "cơn gió giật",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cơn gió giật”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cơn gió giật”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "gale",
+      "meaning": "gió mạnh dữ dội",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gió mạnh dữ dội”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gió mạnh dữ dội”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "cơn bão",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cơn bão”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cơn bão”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

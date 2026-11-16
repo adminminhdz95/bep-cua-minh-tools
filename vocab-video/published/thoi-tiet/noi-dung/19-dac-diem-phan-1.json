@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 19",
+  "topic": "Đặc điểm thời tiết",
+  "part": 1,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "dry",
+      "meaning": "khô ráo",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khô ráo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khô ráo”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "wet",
+      "meaning": "ướt",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ướt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ướt”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "icy",
+      "meaning": "phủ băng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “phủ băng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “phủ băng”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "slippery",
+      "meaning": "trơn trượt",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trơn trượt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trơn trượt”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "dusty",
+      "meaning": "đầy bụi",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đầy bụi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đầy bụi”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

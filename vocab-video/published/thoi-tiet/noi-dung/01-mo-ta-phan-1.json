@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 01",
+  "topic": "Mô tả thời tiết",
+  "part": 1,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sunny",
+      "meaning": "có nắng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có nắng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có nắng”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "rainy",
+      "meaning": "có mưa",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có mưa”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "cloudy",
+      "meaning": "nhiều mây",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhiều mây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhiều mây”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "windy",
+      "meaning": "có gió",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có gió”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có gió”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "foggy",
+      "meaning": "có sương mù",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có sương mù”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có sương mù”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 16",
+  "topic": "Dự báo thời tiết",
+  "part": 2,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wind direction",
+      "meaning": "hướng gió",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hướng gió”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hướng gió”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "visibility",
+      "meaning": "tầm nhìn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tầm nhìn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tầm nhìn”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "weather warning",
+      "meaning": "cảnh báo thời tiết",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cảnh báo thời tiết”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cảnh báo thời tiết”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chance of rain",
+      "meaning": "khả năng có mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khả năng có mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khả năng có mưa”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "UV index",
+      "meaning": "chỉ số tia cực tím",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chỉ số tia cực tím”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chỉ số tia cực tím”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

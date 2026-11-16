@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 18",
+  "topic": "Cụm từ thường dùng",
+  "part": 2,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "take shelter",
+      "meaning": "tìm chỗ trú",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tìm chỗ trú”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tìm chỗ trú”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "read a book",
+          "meaning": "đọc sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "lock the door",
+          "meaning": "khóa cửa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "close the windows",
+      "meaning": "đóng các cửa sổ",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đóng các cửa sổ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đóng các cửa sổ”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "read a book",
+          "meaning": "đọc sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "lock the door",
+          "meaning": "khóa cửa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "turn on the fan",
+      "meaning": "bật quạt",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bật quạt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bật quạt”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "read a book",
+          "meaning": "đọc sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "lock the door",
+          "meaning": "khóa cửa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "keep warm",
+      "meaning": "giữ ấm",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giữ ấm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giữ ấm”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "read a book",
+          "meaning": "đọc sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "lock the door",
+          "meaning": "khóa cửa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "drink plenty of water",
+      "meaning": "uống nhiều nước",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “uống nhiều nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “uống nhiều nước”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "read a book",
+          "meaning": "đọc sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "lock the door",
+          "meaning": "khóa cửa",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

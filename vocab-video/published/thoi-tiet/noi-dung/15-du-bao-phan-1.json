@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 15",
+  "topic": "Dự báo thời tiết",
+  "part": 1,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "weather forecast",
+      "meaning": "bản dự báo thời tiết",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bản dự báo thời tiết”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bản dự báo thời tiết”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "meaning": "nhiệt độ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhiệt độ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhiệt độ”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "humidity",
+      "meaning": "độ ẩm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “độ ẩm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “độ ẩm”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "air pressure",
+      "meaning": "áp suất không khí",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áp suất không khí”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áp suất không khí”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wind speed",
+      "meaning": "tốc độ gió",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tốc độ gió”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tốc độ gió”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

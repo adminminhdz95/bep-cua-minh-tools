@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 12",
+  "topic": "Bầu trời và ánh sáng",
+  "part": 2,
+  "think_seconds": 7.933333333333334,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sunset",
+      "meaning": "hoàng hôn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hoàng hôn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hoàng hôn”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "moon",
+      "meaning": "mặt trăng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mặt trăng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mặt trăng”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "star",
+      "meaning": "ngôi sao",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ngôi sao”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ngôi sao”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "horizon",
+      "meaning": "đường chân trời",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đường chân trời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đường chân trời”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sunlight",
+      "meaning": "ánh sáng mặt trời",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ánh sáng mặt trời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ánh sáng mặt trời”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

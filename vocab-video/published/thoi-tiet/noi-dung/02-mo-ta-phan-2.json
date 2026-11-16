@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 02",
+  "topic": "Mô tả thời tiết",
+  "part": 2,
+  "think_seconds": 9.166666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "snowy",
+      "meaning": "có tuyết",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có tuyết”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có tuyết”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "stormy",
+      "meaning": "có bão",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có bão”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có bão”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "clear",
+      "meaning": "quang đãng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quang đãng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quang đãng”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "overcast",
+      "meaning": "u ám, mây phủ kín trời",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “u ám, mây phủ kín trời”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “u ám, mây phủ kín trời”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "changeable",
+      "meaning": "thay đổi thất thường",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thay đổi thất thường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thay đổi thất thường”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

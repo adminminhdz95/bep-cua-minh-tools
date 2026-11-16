@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 20",
+  "topic": "Đặc điểm thời tiết",
+  "part": 2,
+  "think_seconds": 8.466666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "misty",
+      "meaning": "có sương mỏng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có sương mỏng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có sương mỏng”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "hazy",
+      "meaning": "mờ đục do bụi hoặc hơi nước",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mờ đục do bụi hoặc hơi nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mờ đục do bụi hoặc hơi nước”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "breezy",
+      "meaning": "có gió nhẹ thổi",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có gió nhẹ thổi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có gió nhẹ thổi”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "damp",
+      "meaning": "hơi ẩm ướt",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hơi ẩm ướt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hơi ẩm ướt”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "unsettled",
+      "meaning": "không ổn định, dễ có mưa",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “không ổn định, dễ có mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “không ổn định, dễ có mưa”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "ồn ào",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông đúc",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

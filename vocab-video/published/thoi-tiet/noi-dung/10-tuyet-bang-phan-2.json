@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 10",
+  "topic": "Tuyết và băng",
+  "part": 2,
+  "think_seconds": 9.0,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "icicle",
+      "meaning": "cột băng treo",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cột băng treo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cột băng treo”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "frost",
+      "meaning": "sương giá",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sương giá”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sương giá”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hail",
+      "meaning": "mưa đá",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mưa đá”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mưa đá”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sleet",
+      "meaning": "mưa lẫn tuyết",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mưa lẫn tuyết”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mưa lẫn tuyết”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "snowdrift",
+      "meaning": "đụn tuyết do gió vun lại",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đụn tuyết do gió vun lại”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đụn tuyết do gió vun lại”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

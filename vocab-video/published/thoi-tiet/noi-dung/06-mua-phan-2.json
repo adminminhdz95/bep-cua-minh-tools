@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 06",
+  "topic": "Mưa và nước",
+  "part": 2,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "rainfall",
+      "meaning": "lượng mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lượng mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lượng mưa”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "puddle",
+      "meaning": "vũng nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “vũng nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “vũng nước”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "flood",
+      "meaning": "lũ lụt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lũ lụt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lũ lụt”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rainbow",
+      "meaning": "cầu vồng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cầu vồng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cầu vồng”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rainwater",
+      "meaning": "nước mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước mưa”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

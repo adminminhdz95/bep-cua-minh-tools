@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 13",
+  "topic": "Mùa và khí hậu",
+  "part": 1,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "spring",
+      "meaning": "mùa xuân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mùa xuân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mùa xuân”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "mùa hè",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mùa hè”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mùa hè”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "meaning": "mùa thu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mùa thu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mùa thu”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "mùa đông",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mùa đông”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mùa đông”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rainy season",
+      "meaning": "mùa mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mùa mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mùa mưa”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

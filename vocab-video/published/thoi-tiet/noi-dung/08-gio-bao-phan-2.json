@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 08",
+  "topic": "Gió và bão",
+  "part": 2,
+  "think_seconds": 9.433333333333334,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "thunderstorm",
+      "meaning": "cơn dông có sấm sét",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cơn dông có sấm sét”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cơn dông có sấm sét”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "thunder",
+      "meaning": "tiếng sấm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tiếng sấm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tiếng sấm”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "lightning",
+      "meaning": "tia chớp",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tia chớp”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tia chớp”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tornado",
+      "meaning": "lốc xoáy dạng vòi rồng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lốc xoáy dạng vòi rồng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lốc xoáy dạng vòi rồng”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "typhoon",
+      "meaning": "bão nhiệt đới ở Tây Bắc Thái Bình Dương",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bão nhiệt đới ở Tây Bắc Thái Bình Dương”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bão nhiệt đới ở Tây Bắc Thái Bình Dương”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

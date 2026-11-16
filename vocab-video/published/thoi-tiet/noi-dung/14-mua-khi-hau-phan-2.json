@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 14",
+  "topic": "Mùa và khí hậu",
+  "part": 2,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "dry season",
+      "meaning": "mùa khô",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mùa khô”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mùa khô”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "climate",
+      "meaning": "khí hậu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khí hậu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khí hậu”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "drought",
+      "meaning": "hạn hán",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hạn hán”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hạn hán”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "heatwave",
+      "meaning": "đợt nắng nóng kéo dài",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đợt nắng nóng kéo dài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đợt nắng nóng kéo dài”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cold spell",
+      "meaning": "đợt rét kéo dài",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đợt rét kéo dài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đợt rét kéo dài”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

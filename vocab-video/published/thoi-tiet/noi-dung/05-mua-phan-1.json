@@ -1,0 +1,131 @@
+{
+  "title": "THỜI TIẾT 05",
+  "topic": "Mưa và nước",
+  "part": 1,
+  "think_seconds": 9.533333333333333,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "rain",
+      "meaning": "mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mưa”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "drizzle",
+      "meaning": "mưa phùn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mưa phùn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mưa phùn”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "downpour",
+      "meaning": "trận mưa như trút nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trận mưa như trút nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trận mưa như trút nước”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shower",
+      "meaning": "cơn mưa rào",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cơn mưa rào”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cơn mưa rào”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "raindrop",
+      "meaning": "giọt mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giọt mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giọt mưa”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "raincoat",
+          "meaning": "áo mưa",
+          "pos": "noun"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
