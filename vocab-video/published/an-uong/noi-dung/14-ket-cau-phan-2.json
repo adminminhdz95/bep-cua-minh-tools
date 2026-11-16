@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 14",
+  "topic": "Kết cấu và chất lượng",
+  "part": 2,
+  "think_seconds": 8.3,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "tender",
+      "meaning": "mềm, dễ cắn hoặc cắt",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mềm, dễ cắn hoặc cắt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mềm, dễ cắn hoặc cắt”?",
+      "distractors": [
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "greasy",
+      "meaning": "nhiều dầu mỡ",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhiều dầu mỡ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhiều dầu mỡ”?",
+      "distractors": [
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "fresh",
+      "meaning": "tươi mới",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tươi mới”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tươi mới”?",
+      "distractors": [
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "stale",
+      "meaning": "cũ, mất độ tươi",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cũ, mất độ tươi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cũ, mất độ tươi”?",
+      "distractors": [
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "soggy",
+      "meaning": "ỉu và ướt nhũn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ỉu và ướt nhũn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ỉu và ướt nhũn”?",
+      "distractors": [
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 01",
+  "topic": "Món ăn quen thuộc",
+  "part": 1,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "rice",
+      "meaning": "cơm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cơm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cơm”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bread",
+      "meaning": "bánh mì",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bánh mì”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bánh mì”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "noodles",
+      "meaning": "mì sợi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mì sợi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mì sợi”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "porridge",
+      "meaning": "cháo",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cháo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cháo”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "soup",
+      "meaning": "súp",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “súp”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “súp”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 16",
+  "topic": "Cảm giác khi ăn",
+  "part": 2,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "peckish",
+      "meaning": "hơi đói",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hơi đói”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hơi đói”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "ravenous",
+      "meaning": "đói cồn cào",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đói cồn cào”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đói cồn cào”?",
+      "distractors": [
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "nauseous",
+      "meaning": "buồn nôn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “buồn nôn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “buồn nôn”?",
+      "distractors": [
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "bloated",
+      "meaning": "đầy hơi, chướng bụng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đầy hơi, chướng bụng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đầy hơi, chướng bụng”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "disgusted",
+      "meaning": "ghê tởm",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ghê tởm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ghê tởm”?",
+      "distractors": [
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

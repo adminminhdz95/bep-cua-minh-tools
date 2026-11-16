@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 09",
+  "topic": "Đồ ngọt và đồ uống",
+  "part": 1,
+  "think_seconds": 7.166666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "cake",
+      "meaning": "bánh ngọt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bánh ngọt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bánh ngọt”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cookie",
+      "meaning": "bánh quy",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bánh quy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bánh quy”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chocolate",
+      "meaning": "sô cô la",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sô cô la”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sô cô la”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "candy",
+      "meaning": "kẹo",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “kẹo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “kẹo”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ice cream",
+      "meaning": "kem lạnh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “kem lạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “kem lạnh”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

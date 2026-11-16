@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 03",
+  "topic": "Trái cây",
+  "part": 1,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "apple",
+      "meaning": "quả táo",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả táo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả táo”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "banana",
+      "meaning": "quả chuối",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả chuối”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả chuối”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "orange",
+      "meaning": "quả cam",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả cam”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả cam”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mango",
+      "meaning": "quả xoài",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả xoài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả xoài”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "watermelon",
+      "meaning": "quả dưa hấu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả dưa hấu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả dưa hấu”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

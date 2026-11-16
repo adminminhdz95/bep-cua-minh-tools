@@ -47,6 +47,21 @@ class AudioTests(unittest.TestCase):
             speak.assert_not_called()
             self.assertEqual([e['kind'] for e in self.data['audio_events']], ['answer'])
 
+    def test_loud_speech_keeps_headroom_and_complete_duration(self):
+        self.data['voice'] = 'elevenlabs'
+        loud = array.array('h', [32000, -32000]) * (SR // 2)
+        with tempfile.TemporaryDirectory() as tmp, patch('elevenlabs_tts.speech', return_value=loud):
+            path = Path(tmp)/'audio.wav'
+            write_audio(path, self.data, 120, 60)
+            with wave.open(str(path)) as source:
+                samples = array.array('h', source.readframes(source.getnframes()))
+            start = round(4.48 * SR)
+            self.assertEqual(len(samples[start:start+SR]), SR)
+            self.assertEqual(max(abs(s) for s in samples[start:start+SR]), round(.65 * 32767))
+            event = next(e for e in self.data['audio_events'] if e['kind'] == 'speech')
+            self.assertEqual(event['duration'], 1)
+            self.assertAlmostEqual(event['seconds'], 4.48)
+
     def test_narration_precedes_reference_countdown(self):
         self.data.update(question_voice='fpt-leminh', countdown='reference')
         with tempfile.TemporaryDirectory() as tmp, patch('fpt_tts.speech', return_value=array.array('h', [1200])*SR):

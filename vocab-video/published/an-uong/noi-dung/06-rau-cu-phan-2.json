@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 06",
+  "topic": "Rau củ",
+  "part": 2,
+  "think_seconds": 7.166666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "garlic",
+      "meaning": "tỏi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tỏi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tỏi”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cabbage",
+      "meaning": "bắp cải",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bắp cải”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bắp cải”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spinach",
+      "meaning": "rau chân vịt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rau chân vịt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rau chân vịt”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "broccoli",
+      "meaning": "bông cải xanh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bông cải xanh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bông cải xanh”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mushroom",
+      "meaning": "nấm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nấm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nấm”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

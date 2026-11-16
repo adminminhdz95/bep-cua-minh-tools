@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 05",
+  "topic": "Rau củ",
+  "part": 1,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "carrot",
+      "meaning": "cà rốt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà rốt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà rốt”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "potato",
+      "meaning": "khoai tây",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khoai tây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khoai tây”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tomato",
+      "meaning": "cà chua",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà chua”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà chua”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cucumber",
+      "meaning": "dưa chuột",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dưa chuột”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dưa chuột”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "onion",
+      "meaning": "hành tây",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hành tây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hành tây”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

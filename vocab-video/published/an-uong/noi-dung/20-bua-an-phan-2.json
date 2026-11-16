@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 20",
+  "topic": "Trong bữa ăn",
+  "part": 2,
+  "think_seconds": 8.133333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "set the table",
+      "meaning": "bày bàn ăn",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bày bàn ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bày bàn ăn”?",
+      "distractors": [
+        {
+          "word": "boil water",
+          "meaning": "đun sôi nước",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "clear the table",
+          "meaning": "dọn bát đĩa khỏi bàn",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "share a meal",
+      "meaning": "dùng bữa cùng nhau",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dùng bữa cùng nhau”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dùng bữa cùng nhau”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "clear the table",
+          "meaning": "dọn bát đĩa khỏi bàn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "boil water",
+          "meaning": "đun sôi nước",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "ask for the bill",
+      "meaning": "xin hóa đơn",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “xin hóa đơn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “xin hóa đơn”?",
+      "distractors": [
+        {
+          "word": "clear the table",
+          "meaning": "dọn bát đĩa khỏi bàn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "boil water",
+          "meaning": "đun sôi nước",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "pack up the leftovers",
+      "meaning": "gói thức ăn thừa mang về",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gói thức ăn thừa mang về”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gói thức ăn thừa mang về”?",
+      "distractors": [
+        {
+          "word": "boil water",
+          "meaning": "đun sôi nước",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "clear the table",
+          "meaning": "dọn bát đĩa khỏi bàn",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "lose your appetite",
+      "meaning": "mất cảm giác thèm ăn",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mất cảm giác thèm ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mất cảm giác thèm ăn”?",
+      "distractors": [
+        {
+          "word": "wash the dishes",
+          "meaning": "rửa bát đĩa",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "clear the table",
+          "meaning": "dọn bát đĩa khỏi bàn",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "boil water",
+          "meaning": "đun sôi nước",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

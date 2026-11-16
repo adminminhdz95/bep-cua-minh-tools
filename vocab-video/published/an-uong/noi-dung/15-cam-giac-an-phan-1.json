@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 15",
+  "topic": "Cảm giác khi ăn",
+  "part": 1,
+  "think_seconds": 7.533333333333333,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "hungry",
+      "meaning": "đói",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đói”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đói”?",
+      "distractors": [
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "thirsty",
+      "meaning": "khát",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khát”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khát”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "full",
+      "meaning": "no bụng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “no bụng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “no bụng”?",
+      "distractors": [
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "stuffed",
+      "meaning": "no căng bụng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “no căng bụng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “no căng bụng”?",
+      "distractors": [
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "satisfied",
+      "meaning": "thỏa mãn sau khi ăn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thỏa mãn sau khi ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thỏa mãn sau khi ăn”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crunchy",
+          "meaning": "giòn, phát tiếng khi nhai",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

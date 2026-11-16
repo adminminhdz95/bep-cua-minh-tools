@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 13",
+  "topic": "Kết cấu và chất lượng",
+  "part": 1,
+  "think_seconds": 8.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "crispy",
+      "meaning": "giòn rụm ở lớp ngoài",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giòn rụm ở lớp ngoài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giòn rụm ở lớp ngoài”?",
+      "distractors": [
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "crunchy",
+      "meaning": "giòn, phát tiếng khi nhai",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giòn, phát tiếng khi nhai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giòn, phát tiếng khi nhai”?",
+      "distractors": [
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "chewy",
+      "meaning": "dai, cần nhai nhiều",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dai, cần nhai nhiều”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dai, cần nhai nhiều”?",
+      "distractors": [
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "creamy",
+      "meaning": "mịn và béo như kem",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mịn và béo như kem”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mịn và béo như kem”?",
+      "distractors": [
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "juicy",
+      "meaning": "mọng nước",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mọng nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mọng nước”?",
+      "distractors": [
+        {
+          "word": "spicy",
+          "meaning": "cay",
+          "pos": "adjective"
+        },
+        {
+          "word": "sweet",
+          "meaning": "có vị ngọt",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

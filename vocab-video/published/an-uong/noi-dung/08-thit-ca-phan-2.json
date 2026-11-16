@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 08",
+  "topic": "Thịt cá và thực phẩm giàu đạm",
+  "part": 2,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "crab",
+      "meaning": "cua",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cua”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cua”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "squid",
+      "meaning": "mực",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mực”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mực”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "salmon",
+      "meaning": "cá hồi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cá hồi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cá hồi”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "egg",
+      "meaning": "trứng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trứng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trứng”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tofu",
+      "meaning": "đậu phụ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đậu phụ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đậu phụ”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

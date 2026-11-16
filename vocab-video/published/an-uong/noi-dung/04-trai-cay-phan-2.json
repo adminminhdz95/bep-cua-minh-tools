@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 04",
+  "topic": "Trái cây",
+  "part": 2,
+  "think_seconds": 7.533333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pineapple",
+      "meaning": "quả dứa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả dứa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả dứa”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "strawberry",
+      "meaning": "quả dâu tây",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả dâu tây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả dâu tây”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "grape",
+      "meaning": "quả nho",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả nho”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả nho”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "peach",
+      "meaning": "quả đào",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả đào”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả đào”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pear",
+      "meaning": "quả lê",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả lê”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả lê”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

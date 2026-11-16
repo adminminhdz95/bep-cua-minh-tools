@@ -67,6 +67,13 @@ def write_audio(path, data, think_frames, reveal_frames):
             def place(start, sound, kind):
                 if start+len(sound) > len(track):
                     raise ValueError(f'Speech for {q["word"]!r} does not fit. Increase --reveal (try --reveal 4). No speech was truncated.')
+                # AAC can overshoot PCM peaks; retain headroom without clipping
+                # individual samples or changing the speech timing.
+                ceiling = round(.65 * 32767)
+                peak = max((abs(s) for s in sound), default=0)
+                if peak > ceiling:
+                    gain = ceiling / peak
+                    sound = array.array('h', (round(s * gain) for s in sound))
                 track[start:start+len(sound)] = sound
                 events.append({'question': i+1, 'kind': kind,
                                'seconds': (i*total_samples+start)/SR,

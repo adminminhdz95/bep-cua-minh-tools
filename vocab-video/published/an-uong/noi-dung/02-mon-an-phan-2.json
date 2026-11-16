@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 02",
+  "topic": "Món ăn quen thuộc",
+  "part": 2,
+  "think_seconds": 8.133333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sandwich",
+      "meaning": "bánh mì kẹp",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bánh mì kẹp”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bánh mì kẹp”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pizza",
+      "meaning": "bánh pi da",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bánh pi da”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bánh pi da”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pasta",
+      "meaning": "mì Ý",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mì Ý”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mì Ý”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "salad",
+      "meaning": "món rau trộn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “món rau trộn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “món rau trộn”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "dumpling",
+      "meaning": "bánh bao hoặc bánh bột có nhân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bánh bao hoặc bánh bột có nhân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bánh bao hoặc bánh bột có nhân”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

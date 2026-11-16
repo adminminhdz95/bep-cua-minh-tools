@@ -120,3 +120,5 @@ Câu hỏi được đọc trong 4 giây suy nghĩ, tiếp theo là tích tắc;
 Logo tròn **Tiếng Anhh Cùng Minh** tự xuất hiện ở góc trên bên trái mọi video, kích thước 180×180. Asset: `assets/logo-tieng-anhh-cung-minh.png` (PNG nền trong suốt). Có thể tạo lại chữ/viền bằng `.venv/bin/python create_logo.py`; ảnh chân dung gốc của thiết kế được giữ tại `assets/logo-portrait-base.png`.
 
 Khi cần đọc trọn câu hỏi, trường `narration` phải bằng toàn bộ câu hỏi hiển thị. JSON hỗ trợ `narration_rate: 0.92` (giọng Việt chậm hơn một chút, giữ cao độ) và `countdown_after_narration: true` (thanh đếm bắt đầu giảm sau lời đọc). Dành ít nhất 4 giây suy nghĩ sau lời đọc bằng cách tăng `think_seconds` theo thời lượng audio thực tế, không cắt hoặc đọc lướt câu hỏi để ép còn 6 giây.
+
+Bộ ghép âm tự giảm đều mức tín hiệu của đoạn quá lớn xuống đỉnh PCM 65% trước khi mã hóa AAC, để chừa khoảng cho đỉnh phát sinh khi nén. Giữ nguyên độ dài, cao độ và thời điểm lời đọc; validator vẫn kiểm tra đỉnh âm của MP4 thực tế.

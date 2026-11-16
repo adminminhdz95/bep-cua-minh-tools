@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 07",
+  "topic": "Thịt cá và thực phẩm giàu đạm",
+  "part": 1,
+  "think_seconds": 8.133333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "beef",
+      "meaning": "thịt bò",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thịt bò”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thịt bò”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pork",
+      "meaning": "thịt lợn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thịt lợn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thịt lợn”?",
+      "distractors": [
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chicken",
+      "meaning": "thịt gà",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thịt gà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thịt gà”?",
+      "distractors": [
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        },
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fish",
+      "meaning": "cá dùng làm thực phẩm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cá dùng làm thực phẩm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cá dùng làm thực phẩm”?",
+      "distractors": [
+        {
+          "word": "honey",
+          "meaning": "mật ong",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shrimp",
+      "meaning": "tôm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tôm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tôm”?",
+      "distractors": [
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "butter",
+          "meaning": "bơ làm từ sữa",
+          "pos": "noun"
+        },
+        {
+          "word": "cheese",
+          "meaning": "phô mai",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

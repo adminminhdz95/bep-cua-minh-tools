@@ -1,0 +1,131 @@
+{
+  "title": "ĂN UỐNG 17",
+  "topic": "Hành động ăn uống",
+  "part": 1,
+  "think_seconds": 6.733333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "eat",
+      "meaning": "ăn",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ăn”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "stir",
+          "meaning": "khuấy",
+          "pos": "verb"
+        },
+        {
+          "word": "boil",
+          "meaning": "đun sôi",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "drink",
+      "meaning": "uống",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “uống”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “uống”?",
+      "distractors": [
+        {
+          "word": "stir",
+          "meaning": "khuấy",
+          "pos": "verb"
+        },
+        {
+          "word": "boil",
+          "meaning": "đun sôi",
+          "pos": "verb"
+        },
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "bite",
+      "meaning": "cắn",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cắn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cắn”?",
+      "distractors": [
+        {
+          "word": "boil",
+          "meaning": "đun sôi",
+          "pos": "verb"
+        },
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "stir",
+          "meaning": "khuấy",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "chew",
+      "meaning": "nhai",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhai”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "stir",
+          "meaning": "khuấy",
+          "pos": "verb"
+        },
+        {
+          "word": "boil",
+          "meaning": "đun sôi",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "swallow",
+      "meaning": "nuốt",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nuốt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nuốt”?",
+      "distractors": [
+        {
+          "word": "stir",
+          "meaning": "khuấy",
+          "pos": "verb"
+        },
+        {
+          "word": "boil",
+          "meaning": "đun sôi",
+          "pos": "verb"
+        },
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}
