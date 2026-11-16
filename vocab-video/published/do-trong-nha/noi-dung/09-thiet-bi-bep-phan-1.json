@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 09",
+  "topic": "Thiết bị nhà bếp",
+  "part": 1,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "refrigerator",
+      "meaning": "tủ lạnh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tủ lạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tủ lạnh”?",
+      "distractors": [
+        {
+          "word": "rice cooker",
+          "meaning": "nồi cơm điện",
+          "pos": "noun"
+        },
+        {
+          "word": "oven",
+          "meaning": "lò nướng",
+          "pos": "noun"
+        },
+        {
+          "word": "electric kettle",
+          "meaning": "ấm đun nước điện",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "freezer",
+      "meaning": "tủ đông",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tủ đông”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tủ đông”?",
+      "distractors": [
+        {
+          "word": "microwave",
+          "meaning": "lò vi sóng",
+          "pos": "noun"
+        },
+        {
+          "word": "stove",
+          "meaning": "bếp nấu",
+          "pos": "noun"
+        },
+        {
+          "word": "blender",
+          "meaning": "máy xay sinh tố",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rice cooker",
+      "meaning": "nồi cơm điện",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nồi cơm điện”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nồi cơm điện”?",
+      "distractors": [
+        {
+          "word": "oven",
+          "meaning": "lò nướng",
+          "pos": "noun"
+        },
+        {
+          "word": "electric kettle",
+          "meaning": "ấm đun nước điện",
+          "pos": "noun"
+        },
+        {
+          "word": "toaster",
+          "meaning": "máy nướng bánh mì lát",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "microwave",
+      "meaning": "lò vi sóng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lò vi sóng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lò vi sóng”?",
+      "distractors": [
+        {
+          "word": "stove",
+          "meaning": "bếp nấu",
+          "pos": "noun"
+        },
+        {
+          "word": "blender",
+          "meaning": "máy xay sinh tố",
+          "pos": "noun"
+        },
+        {
+          "word": "range hood",
+          "meaning": "máy hút mùi bếp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "oven",
+      "meaning": "lò nướng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lò nướng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lò nướng”?",
+      "distractors": [
+        {
+          "word": "electric kettle",
+          "meaning": "ấm đun nước điện",
+          "pos": "noun"
+        },
+        {
+          "word": "toaster",
+          "meaning": "máy nướng bánh mì lát",
+          "pos": "noun"
+        },
+        {
+          "word": "refrigerator",
+          "meaning": "tủ lạnh",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

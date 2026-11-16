@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 19",
+  "topic": "Đồ sửa chữa và an toàn",
+  "part": 1,
+  "think_seconds": 7.533333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "flashlight",
+      "meaning": "đèn pin",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đèn pin”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đèn pin”?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "smoke detector",
+          "meaning": "thiết bị báo khói",
+          "pos": "noun"
+        },
+        {
+          "word": "screwdriver",
+          "meaning": "tua vít",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "first aid kit",
+      "meaning": "bộ sơ cứu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bộ sơ cứu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bộ sơ cứu”?",
+      "distractors": [
+        {
+          "word": "fire extinguisher",
+          "meaning": "bình chữa cháy",
+          "pos": "noun"
+        },
+        {
+          "word": "hammer",
+          "meaning": "búa",
+          "pos": "noun"
+        },
+        {
+          "word": "pliers",
+          "meaning": "kìm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "thermometer",
+      "meaning": "nhiệt kế",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhiệt kế”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhiệt kế”?",
+      "distractors": [
+        {
+          "word": "smoke detector",
+          "meaning": "thiết bị báo khói",
+          "pos": "noun"
+        },
+        {
+          "word": "screwdriver",
+          "meaning": "tua vít",
+          "pos": "noun"
+        },
+        {
+          "word": "tape measure",
+          "meaning": "thước dây",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fire extinguisher",
+      "meaning": "bình chữa cháy",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bình chữa cháy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bình chữa cháy”?",
+      "distractors": [
+        {
+          "word": "hammer",
+          "meaning": "búa",
+          "pos": "noun"
+        },
+        {
+          "word": "pliers",
+          "meaning": "kìm",
+          "pos": "noun"
+        },
+        {
+          "word": "adhesive tape",
+          "meaning": "băng dính",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "smoke detector",
+      "meaning": "thiết bị báo khói",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thiết bị báo khói”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thiết bị báo khói”?",
+      "distractors": [
+        {
+          "word": "screwdriver",
+          "meaning": "tua vít",
+          "pos": "noun"
+        },
+        {
+          "word": "tape measure",
+          "meaning": "thước dây",
+          "pos": "noun"
+        },
+        {
+          "word": "flashlight",
+          "meaning": "đèn pin",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

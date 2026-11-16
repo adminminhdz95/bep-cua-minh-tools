@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 14",
+  "topic": "Dọn dẹp và giặt giũ",
+  "part": 2,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "trash can",
+      "meaning": "thùng rác",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thùng rác”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thùng rác”?",
+      "distractors": [
+        {
+          "word": "laundry basket",
+          "meaning": "giỏ đựng quần áo bẩn",
+          "pos": "noun"
+        },
+        {
+          "word": "laundry detergent",
+          "meaning": "nước hoặc bột giặt",
+          "pos": "noun"
+        },
+        {
+          "word": "dustpan",
+          "meaning": "hót rác",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "trash bag",
+      "meaning": "túi đựng rác",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “túi đựng rác”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “túi đựng rác”?",
+      "distractors": [
+        {
+          "word": "washing machine",
+          "meaning": "máy giặt",
+          "pos": "noun"
+        },
+        {
+          "word": "broom",
+          "meaning": "chổi",
+          "pos": "noun"
+        },
+        {
+          "word": "mop",
+          "meaning": "cây lau nhà",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "laundry basket",
+      "meaning": "giỏ đựng quần áo bẩn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giỏ đựng quần áo bẩn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giỏ đựng quần áo bẩn”?",
+      "distractors": [
+        {
+          "word": "laundry detergent",
+          "meaning": "nước hoặc bột giặt",
+          "pos": "noun"
+        },
+        {
+          "word": "dustpan",
+          "meaning": "hót rác",
+          "pos": "noun"
+        },
+        {
+          "word": "bucket",
+          "meaning": "xô",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "washing machine",
+      "meaning": "máy giặt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “máy giặt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “máy giặt”?",
+      "distractors": [
+        {
+          "word": "broom",
+          "meaning": "chổi",
+          "pos": "noun"
+        },
+        {
+          "word": "mop",
+          "meaning": "cây lau nhà",
+          "pos": "noun"
+        },
+        {
+          "word": "sponge",
+          "meaning": "miếng bọt biển",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "laundry detergent",
+      "meaning": "nước hoặc bột giặt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước hoặc bột giặt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước hoặc bột giặt”?",
+      "distractors": [
+        {
+          "word": "dustpan",
+          "meaning": "hót rác",
+          "pos": "noun"
+        },
+        {
+          "word": "bucket",
+          "meaning": "xô",
+          "pos": "noun"
+        },
+        {
+          "word": "trash can",
+          "meaning": "thùng rác",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 05",
+  "topic": "Đồ dùng bàn ăn",
+  "part": 1,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "dining table",
+      "meaning": "bàn ăn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bàn ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bàn ăn”?",
+      "distractors": [
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "chopsticks",
+          "meaning": "đũa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "meaning": "ghế",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ghế”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ghế”?",
+      "distractors": [
+        {
+          "word": "bowl",
+          "meaning": "bát",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "glass",
+          "meaning": "cốc thủy tinh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "plate",
+      "meaning": "đĩa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đĩa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đĩa”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "chopsticks",
+          "meaning": "đũa",
+          "pos": "noun"
+        },
+        {
+          "word": "mug",
+          "meaning": "cốc có quai",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bowl",
+      "meaning": "bát",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bát”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bát”?",
+      "distractors": [
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "glass",
+          "meaning": "cốc thủy tinh",
+          "pos": "noun"
+        },
+        {
+          "word": "napkin",
+          "meaning": "khăn ăn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spoon",
+      "meaning": "thìa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thìa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thìa”?",
+      "distractors": [
+        {
+          "word": "chopsticks",
+          "meaning": "đũa",
+          "pos": "noun"
+        },
+        {
+          "word": "mug",
+          "meaning": "cốc có quai",
+          "pos": "noun"
+        },
+        {
+          "word": "dining table",
+          "meaning": "bàn ăn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

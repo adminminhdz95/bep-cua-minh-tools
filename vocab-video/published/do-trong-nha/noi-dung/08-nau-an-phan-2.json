@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 08",
+  "topic": "Dụng cụ nấu ăn",
+  "part": 2,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "ladle",
+      "meaning": "muôi múc canh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “muôi múc canh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “muôi múc canh”?",
+      "distractors": [
+        {
+          "word": "colander",
+          "meaning": "rổ lọc nước",
+          "pos": "noun"
+        },
+        {
+          "word": "kitchen scissors",
+          "meaning": "kéo nhà bếp",
+          "pos": "noun"
+        },
+        {
+          "word": "frying pan",
+          "meaning": "chảo rán",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spatula",
+      "meaning": "xẻng lật thức ăn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “xẻng lật thức ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “xẻng lật thức ăn”?",
+      "distractors": [
+        {
+          "word": "peeler",
+          "meaning": "dụng cụ gọt vỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "pot",
+          "meaning": "nồi",
+          "pos": "noun"
+        },
+        {
+          "word": "lid",
+          "meaning": "nắp nồi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "colander",
+      "meaning": "rổ lọc nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rổ lọc nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rổ lọc nước”?",
+      "distractors": [
+        {
+          "word": "kitchen scissors",
+          "meaning": "kéo nhà bếp",
+          "pos": "noun"
+        },
+        {
+          "word": "frying pan",
+          "meaning": "chảo rán",
+          "pos": "noun"
+        },
+        {
+          "word": "kitchen knife",
+          "meaning": "dao làm bếp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "peeler",
+      "meaning": "dụng cụ gọt vỏ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dụng cụ gọt vỏ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dụng cụ gọt vỏ”?",
+      "distractors": [
+        {
+          "word": "pot",
+          "meaning": "nồi",
+          "pos": "noun"
+        },
+        {
+          "word": "lid",
+          "meaning": "nắp nồi",
+          "pos": "noun"
+        },
+        {
+          "word": "cutting board",
+          "meaning": "thớt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "kitchen scissors",
+      "meaning": "kéo nhà bếp",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “kéo nhà bếp”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “kéo nhà bếp”?",
+      "distractors": [
+        {
+          "word": "frying pan",
+          "meaning": "chảo rán",
+          "pos": "noun"
+        },
+        {
+          "word": "kitchen knife",
+          "meaning": "dao làm bếp",
+          "pos": "noun"
+        },
+        {
+          "word": "ladle",
+          "meaning": "muôi múc canh",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

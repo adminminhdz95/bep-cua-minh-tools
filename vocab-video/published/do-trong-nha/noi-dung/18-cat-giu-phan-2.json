@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 18",
+  "topic": "Cất giữ và đồ dùng nhỏ",
+  "part": 2,
+  "think_seconds": 8.3,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "door lock",
+      "meaning": "khóa cửa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khóa cửa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khóa cửa”?",
+      "distractors": [
+        {
+          "word": "water bottle",
+          "meaning": "bình đựng nước",
+          "pos": "noun"
+        },
+        {
+          "word": "food container",
+          "meaning": "hộp đựng thực phẩm",
+          "pos": "noun"
+        },
+        {
+          "word": "basket",
+          "meaning": "giỏ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "doormat",
+      "meaning": "thảm chùi chân ở cửa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thảm chùi chân ở cửa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thảm chùi chân ở cửa”?",
+      "distractors": [
+        {
+          "word": "tissue box",
+          "meaning": "hộp khăn giấy",
+          "pos": "noun"
+        },
+        {
+          "word": "storage box",
+          "meaning": "hộp đựng đồ",
+          "pos": "noun"
+        },
+        {
+          "word": "drawer",
+          "meaning": "ngăn kéo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "water bottle",
+      "meaning": "bình đựng nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bình đựng nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bình đựng nước”?",
+      "distractors": [
+        {
+          "word": "food container",
+          "meaning": "hộp đựng thực phẩm",
+          "pos": "noun"
+        },
+        {
+          "word": "basket",
+          "meaning": "giỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "shoe rack",
+          "meaning": "kệ giày dép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tissue box",
+      "meaning": "hộp khăn giấy",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hộp khăn giấy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hộp khăn giấy”?",
+      "distractors": [
+        {
+          "word": "storage box",
+          "meaning": "hộp đựng đồ",
+          "pos": "noun"
+        },
+        {
+          "word": "drawer",
+          "meaning": "ngăn kéo",
+          "pos": "noun"
+        },
+        {
+          "word": "key",
+          "meaning": "chìa khóa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "food container",
+      "meaning": "hộp đựng thực phẩm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “hộp đựng thực phẩm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “hộp đựng thực phẩm”?",
+      "distractors": [
+        {
+          "word": "basket",
+          "meaning": "giỏ",
+          "pos": "noun"
+        },
+        {
+          "word": "shoe rack",
+          "meaning": "kệ giày dép",
+          "pos": "noun"
+        },
+        {
+          "word": "door lock",
+          "meaning": "khóa cửa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

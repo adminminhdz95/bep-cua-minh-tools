@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 06",
+  "topic": "Đồ dùng bàn ăn",
+  "part": 2,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "fork",
+      "meaning": "nĩa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nĩa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nĩa”?",
+      "distractors": [
+        {
+          "word": "glass",
+          "meaning": "cốc thủy tinh",
+          "pos": "noun"
+        },
+        {
+          "word": "napkin",
+          "meaning": "khăn ăn",
+          "pos": "noun"
+        },
+        {
+          "word": "chair",
+          "meaning": "ghế",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chopsticks",
+      "meaning": "đũa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đũa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đũa”?",
+      "distractors": [
+        {
+          "word": "mug",
+          "meaning": "cốc có quai",
+          "pos": "noun"
+        },
+        {
+          "word": "dining table",
+          "meaning": "bàn ăn",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "glass",
+      "meaning": "cốc thủy tinh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cốc thủy tinh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cốc thủy tinh”?",
+      "distractors": [
+        {
+          "word": "napkin",
+          "meaning": "khăn ăn",
+          "pos": "noun"
+        },
+        {
+          "word": "chair",
+          "meaning": "ghế",
+          "pos": "noun"
+        },
+        {
+          "word": "bowl",
+          "meaning": "bát",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mug",
+      "meaning": "cốc có quai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cốc có quai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cốc có quai”?",
+      "distractors": [
+        {
+          "word": "dining table",
+          "meaning": "bàn ăn",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "napkin",
+      "meaning": "khăn ăn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khăn ăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khăn ăn”?",
+      "distractors": [
+        {
+          "word": "chair",
+          "meaning": "ghế",
+          "pos": "noun"
+        },
+        {
+          "word": "bowl",
+          "meaning": "bát",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

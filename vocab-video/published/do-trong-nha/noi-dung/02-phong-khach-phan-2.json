@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 02",
+  "topic": "Nội thất phòng khách",
+  "part": 2,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "rug",
+      "meaning": "thảm trải sàn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thảm trải sàn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thảm trải sàn”?",
+      "distractors": [
+        {
+          "word": "cushion",
+          "meaning": "gối tựa",
+          "pos": "noun"
+        },
+        {
+          "word": "wall clock",
+          "meaning": "đồng hồ treo tường",
+          "pos": "noun"
+        },
+        {
+          "word": "armchair",
+          "meaning": "ghế bành",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "curtain",
+      "meaning": "rèm cửa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rèm cửa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rèm cửa”?",
+      "distractors": [
+        {
+          "word": "floor lamp",
+          "meaning": "đèn đứng",
+          "pos": "noun"
+        },
+        {
+          "word": "sofa",
+          "meaning": "ghế sô pha",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee table",
+          "meaning": "bàn trà",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cushion",
+      "meaning": "gối tựa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gối tựa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gối tựa”?",
+      "distractors": [
+        {
+          "word": "wall clock",
+          "meaning": "đồng hồ treo tường",
+          "pos": "noun"
+        },
+        {
+          "word": "armchair",
+          "meaning": "ghế bành",
+          "pos": "noun"
+        },
+        {
+          "word": "bookshelf",
+          "meaning": "kệ sách",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "floor lamp",
+      "meaning": "đèn đứng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đèn đứng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đèn đứng”?",
+      "distractors": [
+        {
+          "word": "sofa",
+          "meaning": "ghế sô pha",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee table",
+          "meaning": "bàn trà",
+          "pos": "noun"
+        },
+        {
+          "word": "TV stand",
+          "meaning": "kệ ti vi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wall clock",
+      "meaning": "đồng hồ treo tường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồng hồ treo tường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồng hồ treo tường”?",
+      "distractors": [
+        {
+          "word": "armchair",
+          "meaning": "ghế bành",
+          "pos": "noun"
+        },
+        {
+          "word": "bookshelf",
+          "meaning": "kệ sách",
+          "pos": "noun"
+        },
+        {
+          "word": "rug",
+          "meaning": "thảm trải sàn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 16",
+  "topic": "Điện và thiết bị gia đình",
+  "part": 2,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "battery",
+      "meaning": "pin",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “pin”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “pin”?",
+      "distractors": [
+        {
+          "word": "fan",
+          "meaning": "quạt",
+          "pos": "noun"
+        },
+        {
+          "word": "vacuum cleaner",
+          "meaning": "máy hút bụi",
+          "pos": "noun"
+        },
+        {
+          "word": "light switch",
+          "meaning": "công tắc đèn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "remote control",
+      "meaning": "điều khiển từ xa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “điều khiển từ xa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “điều khiển từ xa”?",
+      "distractors": [
+        {
+          "word": "air conditioner",
+          "meaning": "máy điều hòa",
+          "pos": "noun"
+        },
+        {
+          "word": "light bulb",
+          "meaning": "bóng đèn",
+          "pos": "noun"
+        },
+        {
+          "word": "power outlet",
+          "meaning": "ổ cắm điện",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fan",
+      "meaning": "quạt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quạt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quạt”?",
+      "distractors": [
+        {
+          "word": "vacuum cleaner",
+          "meaning": "máy hút bụi",
+          "pos": "noun"
+        },
+        {
+          "word": "light switch",
+          "meaning": "công tắc đèn",
+          "pos": "noun"
+        },
+        {
+          "word": "extension cord",
+          "meaning": "dây nối điện",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "air conditioner",
+      "meaning": "máy điều hòa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “máy điều hòa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “máy điều hòa”?",
+      "distractors": [
+        {
+          "word": "light bulb",
+          "meaning": "bóng đèn",
+          "pos": "noun"
+        },
+        {
+          "word": "power outlet",
+          "meaning": "ổ cắm điện",
+          "pos": "noun"
+        },
+        {
+          "word": "phone charger",
+          "meaning": "bộ sạc điện thoại",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "vacuum cleaner",
+      "meaning": "máy hút bụi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “máy hút bụi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “máy hút bụi”?",
+      "distractors": [
+        {
+          "word": "light switch",
+          "meaning": "công tắc đèn",
+          "pos": "noun"
+        },
+        {
+          "word": "extension cord",
+          "meaning": "dây nối điện",
+          "pos": "noun"
+        },
+        {
+          "word": "battery",
+          "meaning": "pin",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

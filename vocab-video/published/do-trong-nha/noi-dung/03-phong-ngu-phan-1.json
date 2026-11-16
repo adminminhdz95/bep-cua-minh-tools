@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 03",
+  "topic": "Đồ dùng phòng ngủ",
+  "part": 1,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "bed",
+      "meaning": "giường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giường”?",
+      "distractors": [
+        {
+          "word": "pillow",
+          "meaning": "gối đầu",
+          "pos": "noun"
+        },
+        {
+          "word": "bedsheet",
+          "meaning": "ga trải giường",
+          "pos": "noun"
+        },
+        {
+          "word": "wardrobe",
+          "meaning": "tủ quần áo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mattress",
+      "meaning": "nệm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nệm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nệm”?",
+      "distractors": [
+        {
+          "word": "blanket",
+          "meaning": "chăn",
+          "pos": "noun"
+        },
+        {
+          "word": "pillowcase",
+          "meaning": "vỏ gối",
+          "pos": "noun"
+        },
+        {
+          "word": "hanger",
+          "meaning": "móc treo quần áo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pillow",
+      "meaning": "gối đầu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “gối đầu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “gối đầu”?",
+      "distractors": [
+        {
+          "word": "bedsheet",
+          "meaning": "ga trải giường",
+          "pos": "noun"
+        },
+        {
+          "word": "wardrobe",
+          "meaning": "tủ quần áo",
+          "pos": "noun"
+        },
+        {
+          "word": "bedside table",
+          "meaning": "bàn đầu giường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "blanket",
+      "meaning": "chăn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chăn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chăn”?",
+      "distractors": [
+        {
+          "word": "pillowcase",
+          "meaning": "vỏ gối",
+          "pos": "noun"
+        },
+        {
+          "word": "hanger",
+          "meaning": "móc treo quần áo",
+          "pos": "noun"
+        },
+        {
+          "word": "alarm clock",
+          "meaning": "đồng hồ báo thức",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bedsheet",
+      "meaning": "ga trải giường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ga trải giường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ga trải giường”?",
+      "distractors": [
+        {
+          "word": "wardrobe",
+          "meaning": "tủ quần áo",
+          "pos": "noun"
+        },
+        {
+          "word": "bedside table",
+          "meaning": "bàn đầu giường",
+          "pos": "noun"
+        },
+        {
+          "word": "bed",
+          "meaning": "giường",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

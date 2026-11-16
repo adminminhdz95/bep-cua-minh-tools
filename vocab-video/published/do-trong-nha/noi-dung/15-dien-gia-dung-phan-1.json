@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 15",
+  "topic": "Điện và thiết bị gia đình",
+  "part": 1,
+  "think_seconds": 8.466666666666667,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "light bulb",
+      "meaning": "bóng đèn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bóng đèn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bóng đèn”?",
+      "distractors": [
+        {
+          "word": "power outlet",
+          "meaning": "ổ cắm điện",
+          "pos": "noun"
+        },
+        {
+          "word": "phone charger",
+          "meaning": "bộ sạc điện thoại",
+          "pos": "noun"
+        },
+        {
+          "word": "remote control",
+          "meaning": "điều khiển từ xa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "light switch",
+      "meaning": "công tắc đèn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “công tắc đèn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “công tắc đèn”?",
+      "distractors": [
+        {
+          "word": "extension cord",
+          "meaning": "dây nối điện",
+          "pos": "noun"
+        },
+        {
+          "word": "battery",
+          "meaning": "pin",
+          "pos": "noun"
+        },
+        {
+          "word": "fan",
+          "meaning": "quạt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "power outlet",
+      "meaning": "ổ cắm điện",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ổ cắm điện”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ổ cắm điện”?",
+      "distractors": [
+        {
+          "word": "phone charger",
+          "meaning": "bộ sạc điện thoại",
+          "pos": "noun"
+        },
+        {
+          "word": "remote control",
+          "meaning": "điều khiển từ xa",
+          "pos": "noun"
+        },
+        {
+          "word": "air conditioner",
+          "meaning": "máy điều hòa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "extension cord",
+      "meaning": "dây nối điện",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dây nối điện”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dây nối điện”?",
+      "distractors": [
+        {
+          "word": "battery",
+          "meaning": "pin",
+          "pos": "noun"
+        },
+        {
+          "word": "fan",
+          "meaning": "quạt",
+          "pos": "noun"
+        },
+        {
+          "word": "vacuum cleaner",
+          "meaning": "máy hút bụi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "phone charger",
+      "meaning": "bộ sạc điện thoại",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bộ sạc điện thoại”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bộ sạc điện thoại”?",
+      "distractors": [
+        {
+          "word": "remote control",
+          "meaning": "điều khiển từ xa",
+          "pos": "noun"
+        },
+        {
+          "word": "air conditioner",
+          "meaning": "máy điều hòa",
+          "pos": "noun"
+        },
+        {
+          "word": "light bulb",
+          "meaning": "bóng đèn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ DÙNG 11",
+  "topic": "Đồ dùng phòng tắm",
+  "part": 1,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "toothbrush",
+      "meaning": "bàn chải đánh răng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bàn chải đánh răng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bàn chải đánh răng”?",
+      "distractors": [
+        {
+          "word": "soap",
+          "meaning": "xà phòng",
+          "pos": "noun"
+        },
+        {
+          "word": "body wash",
+          "meaning": "sữa tắm",
+          "pos": "noun"
+        },
+        {
+          "word": "comb",
+          "meaning": "lược",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "toothpaste",
+      "meaning": "kem đánh răng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “kem đánh răng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “kem đánh răng”?",
+      "distractors": [
+        {
+          "word": "shampoo",
+          "meaning": "dầu gội",
+          "pos": "noun"
+        },
+        {
+          "word": "towel",
+          "meaning": "khăn tắm",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "soap",
+      "meaning": "xà phòng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “xà phòng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “xà phòng”?",
+      "distractors": [
+        {
+          "word": "body wash",
+          "meaning": "sữa tắm",
+          "pos": "noun"
+        },
+        {
+          "word": "comb",
+          "meaning": "lược",
+          "pos": "noun"
+        },
+        {
+          "word": "toilet paper",
+          "meaning": "giấy vệ sinh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shampoo",
+      "meaning": "dầu gội",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dầu gội”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dầu gội”?",
+      "distractors": [
+        {
+          "word": "towel",
+          "meaning": "khăn tắm",
+          "pos": "noun"
+        },
+        {
+          "word": "mirror",
+          "meaning": "gương",
+          "pos": "noun"
+        },
+        {
+          "word": "bath mat",
+          "meaning": "thảm phòng tắm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "body wash",
+      "meaning": "sữa tắm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa tắm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa tắm”?",
+      "distractors": [
+        {
+          "word": "comb",
+          "meaning": "lược",
+          "pos": "noun"
+        },
+        {
+          "word": "toilet paper",
+          "meaning": "giấy vệ sinh",
+          "pos": "noun"
+        },
+        {
+          "word": "toothbrush",
+          "meaning": "bàn chải đánh răng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
