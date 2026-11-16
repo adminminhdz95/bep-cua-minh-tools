@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 08",
+  "topic": "Giận dữ",
+  "part": 2,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "resentful",
+      "meaning": "ấm ức, oán giận",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ấm ức, oán giận”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ấm ức, oán giận”?",
+      "distractors": [
+        {
+          "word": "relaxed",
+          "meaning": "thư giãn",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "rụt rè",
+          "pos": "adjective"
+        },
+        {
+          "word": "hopeful",
+          "meaning": "tràn đầy hy vọng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "bitter",
+      "meaning": "cay đắng trong lòng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cay đắng trong lòng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cay đắng trong lòng”?",
+      "distractors": [
+        {
+          "word": "relaxed",
+          "meaning": "thư giãn",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "rụt rè",
+          "pos": "adjective"
+        },
+        {
+          "word": "hopeful",
+          "meaning": "tràn đầy hy vọng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "grouchy",
+      "meaning": "cáu kỉnh, hay càu nhàu",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cáu kỉnh, hay càu nhàu”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cáu kỉnh, hay càu nhàu”?",
+      "distractors": [
+        {
+          "word": "relaxed",
+          "meaning": "thư giãn",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "rụt rè",
+          "pos": "adjective"
+        },
+        {
+          "word": "hopeful",
+          "meaning": "tràn đầy hy vọng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "impatient",
+      "meaning": "thiếu kiên nhẫn",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thiếu kiên nhẫn”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thiếu kiên nhẫn”?",
+      "distractors": [
+        {
+          "word": "relaxed",
+          "meaning": "thư giãn",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "rụt rè",
+          "pos": "adjective"
+        },
+        {
+          "word": "hopeful",
+          "meaning": "tràn đầy hy vọng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "fed up",
+      "meaning": "chán ngấy, chịu hết nổi",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “chán ngấy, chịu hết nổi”?",
+      "narration": "Tính từ nào diễn tả cảm giác “chán ngấy, chịu hết nổi”?",
+      "distractors": [
+        {
+          "word": "relaxed",
+          "meaning": "thư giãn",
+          "pos": "adjective"
+        },
+        {
+          "word": "shy",
+          "meaning": "rụt rè",
+          "pos": "adjective"
+        },
+        {
+          "word": "hopeful",
+          "meaning": "tràn đầy hy vọng",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

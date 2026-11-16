@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 18",
+  "topic": "Cảm xúc với người khác",
+  "part": 2,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "embarrassed",
+      "meaning": "ngượng ngùng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ngượng ngùng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ngượng ngùng”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "ashamed",
+      "meaning": "xấu hổ vì điều sai trái",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “xấu hổ vì điều sai trái”?",
+      "narration": "Tính từ nào diễn tả cảm giác “xấu hổ vì điều sai trái”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "guilty",
+      "meaning": "cảm thấy có lỗi",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cảm thấy có lỗi”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cảm thấy có lỗi”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "proud",
+      "meaning": "tự hào",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tự hào”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tự hào”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "accepted",
+      "meaning": "cảm thấy được chấp nhận",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cảm thấy được chấp nhận”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cảm thấy được chấp nhận”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

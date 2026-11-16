@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 11",
+  "topic": "Năng lượng",
+  "part": 1,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "energetic",
+      "meaning": "tràn đầy năng lượng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tràn đầy năng lượng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tràn đầy năng lượng”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "lively",
+      "meaning": "sôi nổi, đầy sức sống",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “sôi nổi, đầy sức sống”?",
+      "narration": "Tính từ nào diễn tả cảm giác “sôi nổi, đầy sức sống”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "refreshed",
+      "meaning": "sảng khoái trở lại",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “sảng khoái trở lại”?",
+      "narration": "Tính từ nào diễn tả cảm giác “sảng khoái trở lại”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "alert",
+      "meaning": "tỉnh táo, chú ý tốt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tỉnh táo, chú ý tốt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tỉnh táo, chú ý tốt”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "motivated",
+      "meaning": "có động lực",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “có động lực”?",
+      "narration": "Tính từ nào diễn tả cảm giác “có động lực”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

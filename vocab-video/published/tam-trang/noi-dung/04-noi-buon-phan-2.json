@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 04",
+  "topic": "Nỗi buồn",
+  "part": 2,
+  "think_seconds": 7.5,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "lonely",
+      "meaning": "cô đơn",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cô đơn”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cô đơn”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "homesick",
+      "meaning": "nhớ nhà",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “nhớ nhà”?",
+      "narration": "Tính từ nào diễn tả cảm giác “nhớ nhà”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "nostalgic",
+      "meaning": "bồi hồi nhớ chuyện xưa",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “bồi hồi nhớ chuyện xưa”?",
+      "narration": "Tính từ nào diễn tả cảm giác “bồi hồi nhớ chuyện xưa”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "tearful",
+      "meaning": "rưng rưng nước mắt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “rưng rưng nước mắt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “rưng rưng nước mắt”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "downcast",
+      "meaning": "buồn bã, cúi mặt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “buồn bã, cúi mặt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “buồn bã, cúi mặt”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 20",
+  "topic": "Đối mặt mỗi ngày",
+  "part": 2,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "determined",
+      "meaning": "quyết tâm",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “quyết tâm”?",
+      "narration": "Tính từ nào diễn tả cảm giác “quyết tâm”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "hesitant",
+      "meaning": "ngập ngừng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ngập ngừng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ngập ngừng”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "regretful",
+      "meaning": "hối tiếc",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “hối tiếc”?",
+      "narration": "Tính từ nào diễn tả cảm giác “hối tiếc”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "doubtful",
+      "meaning": "nghi ngờ, chưa tin",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “nghi ngờ, chưa tin”?",
+      "narration": "Tính từ nào diễn tả cảm giác “nghi ngờ, chưa tin”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "satisfied",
+      "meaning": "thỏa mãn với kết quả",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thỏa mãn với kết quả”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thỏa mãn với kết quả”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

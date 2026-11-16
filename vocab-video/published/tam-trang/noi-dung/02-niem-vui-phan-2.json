@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 02",
+  "topic": "Niềm vui",
+  "part": 2,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pleased",
+      "meaning": "hài lòng về một điều",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “hài lòng về một điều”?",
+      "narration": "Tính từ nào diễn tả cảm giác “hài lòng về một điều”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "upbeat",
+      "meaning": "lạc quan và đầy phấn chấn",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “lạc quan và đầy phấn chấn”?",
+      "narration": "Tính từ nào diễn tả cảm giác “lạc quan và đầy phấn chấn”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "playful",
+      "meaning": "tinh nghịch",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tinh nghịch”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tinh nghịch”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "amused",
+      "meaning": "thấy buồn cười",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thấy buồn cười”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thấy buồn cười”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "lighthearted",
+      "meaning": "vui vẻ, ít lo nghĩ",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “vui vẻ, ít lo nghĩ”?",
+      "narration": "Tính từ nào diễn tả cảm giác “vui vẻ, ít lo nghĩ”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

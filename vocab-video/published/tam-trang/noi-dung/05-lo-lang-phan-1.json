@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 05",
+  "topic": "Lo lắng",
+  "part": 1,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "worried",
+      "meaning": "lo lắng về một vấn đề",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “lo lắng về một vấn đề”?",
+      "narration": "Tính từ nào diễn tả cảm giác “lo lắng về một vấn đề”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "anxious",
+      "meaning": "lo âu, bất an",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “lo âu, bất an”?",
+      "narration": "Tính từ nào diễn tả cảm giác “lo âu, bất an”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "nervous",
+      "meaning": "hồi hộp, căng thẳng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “hồi hộp, căng thẳng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “hồi hộp, căng thẳng”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "uneasy",
+      "meaning": "không yên tâm",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “không yên tâm”?",
+      "narration": "Tính từ nào diễn tả cảm giác “không yên tâm”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "restless",
+      "meaning": "bồn chồn, khó ngồi yên",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “bồn chồn, khó ngồi yên”?",
+      "narration": "Tính từ nào diễn tả cảm giác “bồn chồn, khó ngồi yên”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

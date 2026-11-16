@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 17",
+  "topic": "Cảm xúc với người khác",
+  "part": 1,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "affectionate",
+      "meaning": "trìu mến",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “trìu mến”?",
+      "narration": "Tính từ nào diễn tả cảm giác “trìu mến”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "loved",
+      "meaning": "cảm thấy được yêu thương",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cảm thấy được yêu thương”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cảm thấy được yêu thương”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "jealous",
+      "meaning": "ghen tuông",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ghen tuông”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ghen tuông”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "envious",
+      "meaning": "ganh tị với điều người khác có",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ganh tị với điều người khác có”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ganh tị với điều người khác có”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "sympathetic",
+      "meaning": "cảm thông với nỗi khổ của người khác",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cảm thông với nỗi khổ của người khác”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cảm thông với nỗi khổ của người khác”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

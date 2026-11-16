@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 13",
+  "topic": "Mệt mỏi",
+  "part": 1,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "tired",
+      "meaning": "mệt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “mệt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “mệt”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "exhausted",
+      "meaning": "kiệt sức",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “kiệt sức”?",
+      "narration": "Tính từ nào diễn tả cảm giác “kiệt sức”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "sleepy",
+      "meaning": "buồn ngủ",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “buồn ngủ”?",
+      "narration": "Tính từ nào diễn tả cảm giác “buồn ngủ”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "drowsy",
+      "meaning": "lơ mơ buồn ngủ",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “lơ mơ buồn ngủ”?",
+      "narration": "Tính từ nào diễn tả cảm giác “lơ mơ buồn ngủ”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "drained",
+      "meaning": "cạn kiệt sức lực",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cạn kiệt sức lực”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cạn kiệt sức lực”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 12",
+  "topic": "Năng lượng",
+  "part": 2,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2.566666666666667,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "inspired",
+      "meaning": "được truyền cảm hứng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “được truyền cảm hứng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “được truyền cảm hứng”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "enthusiastic",
+      "meaning": "nhiệt tình, hào hứng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “nhiệt tình, hào hứng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “nhiệt tình, hào hứng”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "eager",
+      "meaning": "háo hức muốn làm điều gì",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “háo hức muốn làm điều gì”?",
+      "narration": "Tính từ nào diễn tả cảm giác “háo hức muốn làm điều gì”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "excited",
+      "meaning": "phấn khích",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “phấn khích”?",
+      "narration": "Tính từ nào diễn tả cảm giác “phấn khích”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "exhilarated",
+      "meaning": "cực kỳ phấn khích, sảng khoái",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cực kỳ phấn khích, sảng khoái”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cực kỳ phấn khích, sảng khoái”?",
+      "distractors": [
+        {
+          "word": "sad",
+          "meaning": "buồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "guilty",
+          "meaning": "cảm thấy có lỗi",
+          "pos": "adjective"
+        },
+        {
+          "word": "lonely",
+          "meaning": "cô đơn",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

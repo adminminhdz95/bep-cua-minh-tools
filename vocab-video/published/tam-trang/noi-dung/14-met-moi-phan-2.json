@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 14",
+  "topic": "Mệt mỏi",
+  "part": 2,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sluggish",
+      "meaning": "uể oải, chậm chạp",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “uể oải, chậm chạp”?",
+      "narration": "Tính từ nào diễn tả cảm giác “uể oải, chậm chạp”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "bored",
+      "meaning": "buồn chán vì thiếu thú vị",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “buồn chán vì thiếu thú vị”?",
+      "narration": "Tính từ nào diễn tả cảm giác “buồn chán vì thiếu thú vị”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "weary",
+      "meaning": "mệt mỏi sau thời gian dài",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “mệt mỏi sau thời gian dài”?",
+      "narration": "Tính từ nào diễn tả cảm giác “mệt mỏi sau thời gian dài”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "burned out",
+      "meaning": "kiệt quệ vì áp lực kéo dài",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “kiệt quệ vì áp lực kéo dài”?",
+      "narration": "Tính từ nào diễn tả cảm giác “kiệt quệ vì áp lực kéo dài”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "listless",
+      "meaning": "bơ phờ, không muốn làm gì",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “bơ phờ, không muốn làm gì”?",
+      "narration": "Tính từ nào diễn tả cảm giác “bơ phờ, không muốn làm gì”?",
+      "distractors": [
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 15",
+  "topic": "Bất ngờ và bối rối",
+  "part": 1,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "surprised",
+      "meaning": "ngạc nhiên",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ngạc nhiên”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ngạc nhiên”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "amazed",
+      "meaning": "kinh ngạc",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “kinh ngạc”?",
+      "narration": "Tính từ nào diễn tả cảm giác “kinh ngạc”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "astonished",
+      "meaning": "sửng sốt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “sửng sốt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “sửng sốt”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "shocked",
+      "meaning": "sốc, bàng hoàng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “sốc, bàng hoàng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “sốc, bàng hoàng”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "confused",
+      "meaning": "bối rối vì không hiểu",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “bối rối vì không hiểu”?",
+      "narration": "Tính từ nào diễn tả cảm giác “bối rối vì không hiểu”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

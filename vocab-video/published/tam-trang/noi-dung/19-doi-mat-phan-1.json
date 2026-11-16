@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 19",
+  "topic": "Đối mặt mỗi ngày",
+  "part": 1,
+  "think_seconds": 8.133333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "confident",
+      "meaning": "tự tin",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tự tin”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tự tin”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "shy",
+      "meaning": "rụt rè",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “rụt rè”?",
+      "narration": "Tính từ nào diễn tả cảm giác “rụt rè”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "vulnerable",
+      "meaning": "cảm thấy dễ bị tổn thương",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “cảm thấy dễ bị tổn thương”?",
+      "narration": "Tính từ nào diễn tả cảm giác “cảm thấy dễ bị tổn thương”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "disappointed",
+      "meaning": "thất vọng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thất vọng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thất vọng”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "discouraged",
+      "meaning": "nản lòng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “nản lòng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “nản lòng”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

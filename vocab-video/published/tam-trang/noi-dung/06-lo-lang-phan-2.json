@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 06",
+  "topic": "Lo lắng",
+  "part": 2,
+  "think_seconds": 8.466666666666667,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "tense",
+      "meaning": "căng thẳng, khó thả lỏng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “căng thẳng, khó thả lỏng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “căng thẳng, khó thả lỏng”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "stressed",
+      "meaning": "bị căng thẳng vì áp lực",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “bị căng thẳng vì áp lực”?",
+      "narration": "Tính từ nào diễn tả cảm giác “bị căng thẳng vì áp lực”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "panicky",
+      "meaning": "hoảng hốt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “hoảng hốt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “hoảng hốt”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "insecure",
+      "meaning": "thiếu cảm giác an toàn, thiếu tự tin",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thiếu cảm giác an toàn, thiếu tự tin”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thiếu cảm giác an toàn, thiếu tự tin”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "apprehensive",
+      "meaning": "lo sợ điều sắp xảy ra",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “lo sợ điều sắp xảy ra”?",
+      "narration": "Tính từ nào diễn tả cảm giác “lo sợ điều sắp xảy ra”?",
+      "distractors": [
+        {
+          "word": "happy",
+          "meaning": "vui vẻ",
+          "pos": "adjective"
+        },
+        {
+          "word": "bored",
+          "meaning": "buồn chán vì thiếu thú vị",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

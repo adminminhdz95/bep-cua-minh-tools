@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 09",
+  "topic": "Bình yên",
+  "part": 1,
+  "think_seconds": 7.533333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "calm",
+      "meaning": "bình tĩnh",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “bình tĩnh”?",
+      "narration": "Tính từ nào diễn tả cảm giác “bình tĩnh”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        },
+        {
+          "word": "jealous",
+          "meaning": "ghen tuông",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "relaxed",
+      "meaning": "thư giãn",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thư giãn”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thư giãn”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        },
+        {
+          "word": "jealous",
+          "meaning": "ghen tuông",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "peaceful",
+      "meaning": "yên bình trong lòng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “yên bình trong lòng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “yên bình trong lòng”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        },
+        {
+          "word": "jealous",
+          "meaning": "ghen tuông",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "serene",
+      "meaning": "thanh thản",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “thanh thản”?",
+      "narration": "Tính từ nào diễn tả cảm giác “thanh thản”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        },
+        {
+          "word": "jealous",
+          "meaning": "ghen tuông",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "relieved",
+      "meaning": "nhẹ nhõm sau khi hết lo",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “nhẹ nhõm sau khi hết lo”?",
+      "narration": "Tính từ nào diễn tả cảm giác “nhẹ nhõm sau khi hết lo”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "confused",
+          "meaning": "bối rối vì không hiểu",
+          "pos": "adjective"
+        },
+        {
+          "word": "jealous",
+          "meaning": "ghen tuông",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

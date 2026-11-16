@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 01",
+  "topic": "Niềm vui",
+  "part": 1,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "happy",
+      "meaning": "vui vẻ",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “vui vẻ”?",
+      "narration": "Tính từ nào diễn tả cảm giác “vui vẻ”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "cheerful",
+      "meaning": "tươi vui, vui vẻ ra mặt",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tươi vui, vui vẻ ra mặt”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tươi vui, vui vẻ ra mặt”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "joyful",
+      "meaning": "hân hoan",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “hân hoan”?",
+      "narration": "Tính từ nào diễn tả cảm giác “hân hoan”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "delighted",
+      "meaning": "rất vui mừng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “rất vui mừng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “rất vui mừng”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "content",
+      "meaning": "hài lòng với hiện tại",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “hài lòng với hiện tại”?",
+      "narration": "Tính từ nào diễn tả cảm giác “hài lòng với hiện tại”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "thirsty",
+          "meaning": "khát",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

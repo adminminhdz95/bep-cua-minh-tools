@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 16",
+  "topic": "Bất ngờ và bối rối",
+  "part": 2,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "puzzled",
+      "meaning": "khó hiểu, thắc mắc",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “khó hiểu, thắc mắc”?",
+      "narration": "Tính từ nào diễn tả cảm giác “khó hiểu, thắc mắc”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "uncertain",
+      "meaning": "không chắc chắn",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “không chắc chắn”?",
+      "narration": "Tính từ nào diễn tả cảm giác “không chắc chắn”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "indecisive",
+      "meaning": "do dự, khó quyết định",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “do dự, khó quyết định”?",
+      "narration": "Tính từ nào diễn tả cảm giác “do dự, khó quyết định”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "overwhelmed",
+      "meaning": "choáng ngợp vì quá nhiều việc",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “choáng ngợp vì quá nhiều việc”?",
+      "narration": "Tính từ nào diễn tả cảm giác “choáng ngợp vì quá nhiều việc”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "meaning": "tò mò",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “tò mò”?",
+      "narration": "Tính từ nào diễn tả cảm giác “tò mò”?",
+      "distractors": [
+        {
+          "word": "hungry",
+          "meaning": "đói",
+          "pos": "adjective"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sleepy",
+          "meaning": "buồn ngủ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

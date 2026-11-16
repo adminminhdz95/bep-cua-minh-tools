@@ -1,0 +1,131 @@
+{
+  "title": "TÂM TRẠNG 03",
+  "topic": "Nỗi buồn",
+  "part": 1,
+  "think_seconds": 8.4,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sad",
+      "meaning": "buồn",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “buồn”?",
+      "narration": "Tính từ nào diễn tả cảm giác “buồn”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "unhappy",
+      "meaning": "không vui",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “không vui”?",
+      "narration": "Tính từ nào diễn tả cảm giác “không vui”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "miserable",
+      "meaning": "khổ sở",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “khổ sở”?",
+      "narration": "Tính từ nào diễn tả cảm giác “khổ sở”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "gloomy",
+      "meaning": "ủ rũ",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “ủ rũ”?",
+      "narration": "Tính từ nào diễn tả cảm giác “ủ rũ”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "heartbroken",
+      "meaning": "đau lòng, tan nát cõi lòng",
+      "pos": "adjective",
+      "prompt": "Tính từ nào diễn tả cảm giác “đau lòng, tan nát cõi lòng”?",
+      "narration": "Tính từ nào diễn tả cảm giác “đau lòng, tan nát cõi lòng”?",
+      "distractors": [
+        {
+          "word": "angry",
+          "meaning": "tức giận",
+          "pos": "adjective"
+        },
+        {
+          "word": "curious",
+          "meaning": "tò mò",
+          "pos": "adjective"
+        },
+        {
+          "word": "confident",
+          "meaning": "tự tin",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}
