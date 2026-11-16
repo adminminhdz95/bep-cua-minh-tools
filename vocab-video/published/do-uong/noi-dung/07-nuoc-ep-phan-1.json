@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 07",
+  "topic": "Nước ép",
+  "part": 1,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "juice",
+      "meaning": "nước ép",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước ép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước ép”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "orange juice",
+      "meaning": "nước cam ép",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước cam ép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước cam ép”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "apple juice",
+      "meaning": "nước táo ép",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước táo ép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước táo ép”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pineapple juice",
+      "meaning": "nước dứa ép",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước dứa ép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước dứa ép”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "grape juice",
+      "meaning": "nước nho ép",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước nho ép”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước nho ép”?",
+      "distractors": [
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

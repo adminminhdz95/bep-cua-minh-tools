@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 20",
+  "topic": "Pha và thưởng thức",
+  "part": 2,
+  "think_seconds": 9.866666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "steep",
+      "meaning": "ngâm lá trà trong nước để chiết xuất hương vị",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ngâm lá trà trong nước để chiết xuất hương vị”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ngâm lá trà trong nước để chiết xuất hương vị”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "squeeze",
+      "meaning": "vắt nước từ trái cây",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “vắt nước từ trái cây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “vắt nước từ trái cây”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "shake",
+      "meaning": "lắc",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lắc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lắc”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "refill",
+      "meaning": "rót đầy trở lại",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rót đầy trở lại”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rót đầy trở lại”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "order",
+      "meaning": "gọi đồ uống",
+      "pos": "verb",
+      "prompt": "Khi ở quán, động từ nào có nghĩa là “gọi đồ uống”?",
+      "narration": "Khi ở quán, động từ nào có nghĩa là “gọi đồ uống”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

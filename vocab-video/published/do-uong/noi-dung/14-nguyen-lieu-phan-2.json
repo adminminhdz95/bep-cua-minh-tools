@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 14",
+  "topic": "Nguyên liệu pha chế",
+  "part": 2,
+  "think_seconds": 8.466666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "lime",
+      "meaning": "quả chanh xanh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả chanh xanh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả chanh xanh”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mint",
+      "meaning": "bạc hà",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bạc hà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bạc hà”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cinnamon",
+      "meaning": "quế",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quế”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quế”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cocoa powder",
+      "meaning": "bột ca cao",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bột ca cao”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bột ca cao”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "creamer",
+      "meaning": "chất tạo độ béo cho đồ uống",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chất tạo độ béo cho đồ uống”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chất tạo độ béo cho đồ uống”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

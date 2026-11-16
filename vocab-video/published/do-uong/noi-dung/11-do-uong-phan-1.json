@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 11",
+  "topic": "Đồ uống đa dạng",
+  "part": 1,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "soft drink",
+      "meaning": "đồ uống ngọt không cồn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ uống ngọt không cồn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ uống ngọt không cồn”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "soda",
+      "meaning": "nước ngọt có ga",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước ngọt có ga”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước ngọt có ga”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "lemonade",
+      "meaning": "nước chanh pha đường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước chanh pha đường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước chanh pha đường”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "smoothie",
+      "meaning": "sinh tố",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sinh tố”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sinh tố”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "milkshake",
+      "meaning": "sữa lắc",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa lắc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa lắc”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

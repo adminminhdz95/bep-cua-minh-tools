@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 19",
+  "topic": "Pha và thưởng thức",
+  "part": 1,
+  "think_seconds": 9.966666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pour",
+      "meaning": "rót",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rót”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rót”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "stir",
+      "meaning": "khuấy",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khuấy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khuấy”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "sip",
+      "meaning": "nhấp từng ngụm nhỏ",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhấp từng ngụm nhỏ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhấp từng ngụm nhỏ”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "gulp",
+      "meaning": "uống ừng ực",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “uống ừng ực”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “uống ừng ực”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "brew",
+      "meaning": "pha trà hoặc cà phê bằng cách ngâm hay lọc",
+      "pos": "verb",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “pha trà hoặc cà phê bằng cách ngâm hay lọc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “pha trà hoặc cà phê bằng cách ngâm hay lọc”?",
+      "distractors": [
+        {
+          "word": "chop",
+          "meaning": "băm hoặc chặt nhỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "peel",
+          "meaning": "gọt vỏ",
+          "pos": "verb"
+        },
+        {
+          "word": "bake",
+          "meaning": "nướng bằng lò",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

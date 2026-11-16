@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 16",
+  "topic": "Ly cốc và dụng cụ",
+  "part": 2,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "lid",
+      "meaning": "nắp đậy",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nắp đậy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nắp đậy”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "coaster",
+      "meaning": "miếng lót ly",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “miếng lót ly”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “miếng lót ly”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pitcher",
+      "meaning": "bình rót nước có quai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bình rót nước có quai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bình rót nước có quai”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "teapot",
+      "meaning": "ấm pha trà",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ấm pha trà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ấm pha trà”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "thermos",
+      "meaning": "bình giữ nhiệt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bình giữ nhiệt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bình giữ nhiệt”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

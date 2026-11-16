@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 01",
+  "topic": "Nước uống",
+  "part": 1,
+  "think_seconds": 8.566666666666666,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "water",
+      "meaning": "nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "drinking water",
+      "meaning": "nước dùng để uống",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước dùng để uống”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước dùng để uống”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tap water",
+      "meaning": "nước máy",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước máy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước máy”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mineral water",
+      "meaning": "nước khoáng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước khoáng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước khoáng”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spring water",
+      "meaning": "nước từ mạch suối tự nhiên",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước từ mạch suối tự nhiên”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước từ mạch suối tự nhiên”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

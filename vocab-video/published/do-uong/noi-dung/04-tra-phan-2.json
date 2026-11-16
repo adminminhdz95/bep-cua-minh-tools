@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 04",
+  "topic": "Các loại trà",
+  "part": 2,
+  "think_seconds": 8.133333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "chamomile tea",
+      "meaning": "trà hoa cúc La Mã",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trà hoa cúc La Mã”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trà hoa cúc La Mã”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "jasmine tea",
+      "meaning": "trà hoa nhài",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trà hoa nhài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trà hoa nhài”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ginger tea",
+      "meaning": "trà gừng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trà gừng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trà gừng”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "peppermint tea",
+      "meaning": "trà bạc hà",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trà bạc hà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trà bạc hà”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "iced tea",
+      "meaning": "trà đá",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trà đá”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trà đá”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

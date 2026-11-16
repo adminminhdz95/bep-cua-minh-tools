@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 13",
+  "topic": "Nguyên liệu pha chế",
+  "part": 1,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "ice",
+      "meaning": "đá lạnh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đá lạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đá lạnh”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "meaning": "đường",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đường”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đường”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "honey",
+      "meaning": "mật ong",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mật ong”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mật ong”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "syrup",
+      "meaning": "si rô",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “si rô”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “si rô”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "lemon",
+      "meaning": "quả chanh vàng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quả chanh vàng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quả chanh vàng”?",
+      "distractors": [
+        {
+          "word": "salt",
+          "meaning": "muối",
+          "pos": "noun"
+        },
+        {
+          "word": "vinegar",
+          "meaning": "giấm",
+          "pos": "noun"
+        },
+        {
+          "word": "pepper",
+          "meaning": "hạt tiêu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

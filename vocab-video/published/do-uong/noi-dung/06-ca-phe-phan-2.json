@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 06",
+  "topic": "Các loại cà phê",
+  "part": 2,
+  "think_seconds": 9.333333333333334,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "mocha",
+      "meaning": "cà phê pha sô cô la và sữa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê pha sô cô la và sữa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê pha sô cô la và sữa”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "decaf coffee",
+      "meaning": "cà phê đã loại bỏ phần lớn ca phê in",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê đã loại bỏ phần lớn ca phê in”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê đã loại bỏ phần lớn ca phê in”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "instant coffee",
+      "meaning": "cà phê hòa tan",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê hòa tan”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê hòa tan”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cold brew",
+      "meaning": "cà phê ủ bằng nước lạnh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê ủ bằng nước lạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê ủ bằng nước lạnh”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "iced coffee",
+      "meaning": "cà phê đá",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê đá”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê đá”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

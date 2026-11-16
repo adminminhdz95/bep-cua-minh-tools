@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 17",
+  "topic": "Mô tả đồ uống",
+  "part": 1,
+  "think_seconds": 8.566666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "hot",
+      "meaning": "nóng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nóng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nóng”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "greasy",
+          "meaning": "nhiều dầu mỡ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "cold",
+      "meaning": "lạnh",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lạnh”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "greasy",
+          "meaning": "nhiều dầu mỡ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "warm",
+      "meaning": "ấm",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ấm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ấm”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "greasy",
+          "meaning": "nhiều dầu mỡ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "lukewarm",
+      "meaning": "âm ấm, hơi ấm",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “âm ấm, hơi ấm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “âm ấm, hơi ấm”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "greasy",
+          "meaning": "nhiều dầu mỡ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "chilled",
+      "meaning": "đã được làm lạnh",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đã được làm lạnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đã được làm lạnh”?",
+      "distractors": [
+        {
+          "word": "salty",
+          "meaning": "có vị mặn",
+          "pos": "adjective"
+        },
+        {
+          "word": "sour",
+          "meaning": "có vị chua",
+          "pos": "adjective"
+        },
+        {
+          "word": "greasy",
+          "meaning": "nhiều dầu mỡ",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

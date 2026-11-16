@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 02",
+  "topic": "Nước uống",
+  "part": 2,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "still water",
+      "meaning": "nước không có ga",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước không có ga”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước không có ga”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sparkling water",
+      "meaning": "nước có ga",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước có ga”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước có ga”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "filtered water",
+      "meaning": "nước đã lọc",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước đã lọc”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước đã lọc”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bottled water",
+      "meaning": "nước đóng chai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước đóng chai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước đóng chai”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "coconut water",
+      "meaning": "nước dừa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước dừa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước dừa”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

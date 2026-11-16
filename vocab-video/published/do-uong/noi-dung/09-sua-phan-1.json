@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 09",
+  "topic": "Sữa và đồ uống từ thực vật",
+  "part": 1,
+  "think_seconds": 7.5,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "milk",
+      "meaning": "sữa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "whole milk",
+      "meaning": "sữa nguyên kem",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa nguyên kem”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa nguyên kem”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "skimmed milk",
+      "meaning": "sữa tách béo",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa tách béo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa tách béo”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "soy milk",
+      "meaning": "sữa đậu nành",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa đậu nành”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa đậu nành”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "almond milk",
+      "meaning": "sữa hạnh nhân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sữa hạnh nhân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sữa hạnh nhân”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "juice",
+          "meaning": "nước ép",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

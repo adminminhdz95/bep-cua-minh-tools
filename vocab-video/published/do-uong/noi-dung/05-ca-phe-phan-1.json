@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 05",
+  "topic": "Các loại cà phê",
+  "part": 1,
+  "think_seconds": 9.766666666666667,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "coffee",
+      "meaning": "cà phê",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "espresso",
+      "meaning": "cà phê đậm đặc pha bằng áp suất",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê đậm đặc pha bằng áp suất”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê đậm đặc pha bằng áp suất”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "americano",
+      "meaning": "cà phê đậm đặc pha thêm nước nóng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê đậm đặc pha thêm nước nóng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê đậm đặc pha thêm nước nóng”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cappuccino",
+      "meaning": "cà phê sữa với lớp bọt sữa dày",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê sữa với lớp bọt sữa dày”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê sữa với lớp bọt sữa dày”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "latte",
+      "meaning": "cà phê pha nhiều sữa nóng và ít bọt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà phê pha nhiều sữa nóng và ít bọt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà phê pha nhiều sữa nóng và ít bọt”?",
+      "distractors": [
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        },
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 15",
+  "topic": "Ly cốc và dụng cụ",
+  "part": 1,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "cup",
+      "meaning": "tách uống nước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tách uống nước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tách uống nước”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mug",
+      "meaning": "cốc lớn có quai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cốc lớn có quai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cốc lớn có quai”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "glass",
+      "meaning": "ly uống nước bằng thủy tinh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ly uống nước bằng thủy tinh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ly uống nước bằng thủy tinh”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "meaning": "chai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chai”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "straw",
+      "meaning": "ống hút",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ống hút”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ống hút”?",
+      "distractors": [
+        {
+          "word": "spoon",
+          "meaning": "thìa",
+          "pos": "noun"
+        },
+        {
+          "word": "fork",
+          "meaning": "nĩa",
+          "pos": "noun"
+        },
+        {
+          "word": "plate",
+          "meaning": "đĩa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

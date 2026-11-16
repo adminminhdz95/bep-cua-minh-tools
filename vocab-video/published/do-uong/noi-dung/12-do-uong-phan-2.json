@@ -1,0 +1,131 @@
+{
+  "title": "ĐỒ UỐNG 12",
+  "topic": "Đồ uống đa dạng",
+  "part": 2,
+  "think_seconds": 9.266666666666667,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "hot chocolate",
+      "meaning": "đồ uống sô cô la nóng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ uống sô cô la nóng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ uống sô cô la nóng”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bubble tea",
+      "meaning": "trà sữa trân châu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “trà sữa trân châu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “trà sữa trân châu”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sports drink",
+      "meaning": "đồ uống thể thao bù nước và điện giải",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ uống thể thao bù nước và điện giải”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ uống thể thao bù nước và điện giải”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "energy drink",
+      "meaning": "nước tăng lực",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nước tăng lực”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nước tăng lực”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mocktail",
+      "meaning": "đồ uống kiểu cốc tai nhưng không có cồn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ uống kiểu cốc tai nhưng không có cồn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ uống kiểu cốc tai nhưng không có cồn”?",
+      "distractors": [
+        {
+          "word": "tea",
+          "meaning": "trà",
+          "pos": "noun"
+        },
+        {
+          "word": "coffee",
+          "meaning": "cà phê",
+          "pos": "noun"
+        },
+        {
+          "word": "water",
+          "meaning": "nước",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
