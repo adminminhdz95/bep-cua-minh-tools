@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 01",
+  "topic": "Các loại áo",
+  "part": 1,
+  "think_seconds": 7.933333333333334,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "shirt",
+      "meaning": "áo sơ mi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo sơ mi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo sơ mi”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "T-shirt",
+      "meaning": "áo phông",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo phông”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo phông”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "polo shirt",
+      "meaning": "áo thun có cổ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo thun có cổ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo thun có cổ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "blouse",
+      "meaning": "áo kiểu nữ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo kiểu nữ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo kiểu nữ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tank top",
+      "meaning": "áo ba lỗ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo ba lỗ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo ba lỗ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

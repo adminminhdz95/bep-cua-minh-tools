@@ -8,3 +8,4 @@
 - [100 từ tâm trạng mỗi ngày — 20 video, đọc trọn câu hỏi](vocab-video/published/tam-trang/README.md)
 - [100 từ đồ ăn và cảm giác ăn uống — 20 video, đọc trọn câu hỏi](vocab-video/published/an-uong/README.md)
 - [100 từ đồ uống — 20 video, đọc trọn câu hỏi](vocab-video/published/do-uong/README.md)
+- [100 từ quần áo đơn giản — 20 video, đọc trọn câu hỏi](vocab-video/published/quan-ao/README.md)

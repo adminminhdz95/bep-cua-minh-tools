@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 17",
+  "topic": "Mặc và cởi",
+  "part": 1,
+  "think_seconds": 8.233333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wear a coat",
+      "meaning": "mặc áo khoác trên người",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mặc áo khoác trên người”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mặc áo khoác trên người”?",
+      "distractors": [
+        {
+          "word": "wash your clothes",
+          "meaning": "giặt quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "fold your clothes",
+          "meaning": "gấp quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "buy a hat",
+          "meaning": "mua một chiếc mũ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "put on a shirt",
+      "meaning": "mặc áo sơ mi vào",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mặc áo sơ mi vào”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mặc áo sơ mi vào”?",
+      "distractors": [
+        {
+          "word": "wash your clothes",
+          "meaning": "giặt quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "fold your clothes",
+          "meaning": "gấp quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "buy a hat",
+          "meaning": "mua một chiếc mũ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "take off your shoes",
+      "meaning": "cởi giày ra",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cởi giày ra”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cởi giày ra”?",
+      "distractors": [
+        {
+          "word": "wash your clothes",
+          "meaning": "giặt quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "fold your clothes",
+          "meaning": "gấp quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "buy a hat",
+          "meaning": "mua một chiếc mũ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "try on a dress",
+      "meaning": "mặc thử váy liền",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mặc thử váy liền”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mặc thử váy liền”?",
+      "distractors": [
+        {
+          "word": "wash your clothes",
+          "meaning": "giặt quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "fold your clothes",
+          "meaning": "gấp quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "buy a hat",
+          "meaning": "mua một chiếc mũ",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "get dressed",
+      "meaning": "mặc quần áo",
+      "pos": "verb phrase",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mặc quần áo”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mặc quần áo”?",
+      "distractors": [
+        {
+          "word": "wash your clothes",
+          "meaning": "giặt quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "fold your clothes",
+          "meaning": "gấp quần áo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "buy a hat",
+          "meaning": "mua một chiếc mũ",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

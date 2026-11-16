@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 03",
+  "topic": "Quần váy và bộ đồ",
+  "part": 1,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "trousers",
+      "meaning": "quần dài",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần dài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần dài”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "jeans",
+      "meaning": "quần bò",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần bò”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần bò”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shorts",
+      "meaning": "quần đùi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần đùi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần đùi”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "skirt",
+      "meaning": "chân váy",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chân váy”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chân váy”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "dress",
+      "meaning": "váy liền thân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “váy liền thân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “váy liền thân”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

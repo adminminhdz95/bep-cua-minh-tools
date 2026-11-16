@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 08",
+  "topic": "Giày dép và tất",
+  "part": 2,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "flip-flops",
+      "meaning": "dép xỏ ngón",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dép xỏ ngón”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dép xỏ ngón”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "socks",
+      "meaning": "tất chân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “tất chân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “tất chân”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "high heels",
+      "meaning": "giày cao gót",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giày cao gót”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giày cao gót”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shoelaces",
+      "meaning": "dây giày",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dây giày”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dây giày”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "soles",
+      "meaning": "đế giày",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đế giày”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đế giày”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

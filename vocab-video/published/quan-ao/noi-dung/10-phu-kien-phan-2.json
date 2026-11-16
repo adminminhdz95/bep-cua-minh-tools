@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 10",
+  "topic": "Phụ kiện thông dụng",
+  "part": 2,
+  "think_seconds": 7.533333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "tie",
+      "meaning": "cà vạt",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cà vạt”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cà vạt”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bow tie",
+      "meaning": "nơ đeo cổ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nơ đeo cổ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nơ đeo cổ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "handbag",
+      "meaning": "túi xách tay",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “túi xách tay”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “túi xách tay”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "backpack",
+      "meaning": "ba lô",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ba lô”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ba lô”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sunglasses",
+      "meaning": "kính râm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “kính râm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “kính râm”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

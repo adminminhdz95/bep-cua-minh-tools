@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 20",
+  "topic": "Chăm sóc và chọn đồ",
+  "part": 2,
+  "think_seconds": 9.5,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "mend",
+      "meaning": "sửa chỗ rách hoặc hỏng",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “sửa chỗ rách hoặc hỏng”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “sửa chỗ rách hoặc hỏng”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "sew",
+      "meaning": "may, khâu",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “may, khâu”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “may, khâu”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "pack",
+      "meaning": "xếp đồ vào hành lý",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “xếp đồ vào hành lý”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “xếp đồ vào hành lý”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "choose",
+      "meaning": "chọn",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “chọn”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “chọn”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "meaning": "mua",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “mua”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “mua”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 13",
+  "topic": "Màu sắc quần áo",
+  "part": 1,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "black",
+      "meaning": "có màu đen",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu đen”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu đen”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "white",
+      "meaning": "có màu trắng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu trắng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu trắng”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "red",
+      "meaning": "có màu đỏ",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu đỏ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu đỏ”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "blue",
+      "meaning": "có màu xanh dương",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu xanh dương”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu xanh dương”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "green",
+      "meaning": "có màu xanh lá cây",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu xanh lá cây”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu xanh lá cây”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

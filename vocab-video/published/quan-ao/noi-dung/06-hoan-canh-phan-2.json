@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 06",
+  "topic": "Đồ mặc theo hoàn cảnh",
+  "part": 2,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "bikini",
+      "meaning": "đồ bơi hai mảnh",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ bơi hai mảnh”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ bơi hai mảnh”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pajamas",
+      "meaning": "bộ đồ ngủ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bộ đồ ngủ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bộ đồ ngủ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "nightdress",
+      "meaning": "váy ngủ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “váy ngủ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “váy ngủ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bathrobe",
+      "meaning": "áo choàng tắm",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo choàng tắm”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo choàng tắm”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "underwear",
+      "meaning": "đồ lót",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ lót”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ lót”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

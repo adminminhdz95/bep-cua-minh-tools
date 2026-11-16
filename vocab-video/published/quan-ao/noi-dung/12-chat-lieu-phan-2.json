@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 12",
+  "topic": "Chi tiết và chất liệu",
+  "part": 2,
+  "think_seconds": 9.1,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "cotton",
+      "meaning": "vải bông",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “vải bông”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “vải bông”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wool",
+      "meaning": "len",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “len”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “len”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "silk",
+      "meaning": "lụa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “lụa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “lụa”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "leather",
+      "meaning": "da dùng làm quần áo hoặc giày",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “da dùng làm quần áo hoặc giày”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “da dùng làm quần áo hoặc giày”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "denim",
+      "meaning": "vải bò",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “vải bò”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “vải bò”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

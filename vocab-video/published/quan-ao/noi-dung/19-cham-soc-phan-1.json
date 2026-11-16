@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 19",
+  "topic": "Chăm sóc và chọn đồ",
+  "part": 1,
+  "think_seconds": 8.833333333333334,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wash",
+      "meaning": "giặt",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “giặt”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “giặt”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "dry",
+      "meaning": "làm khô",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “làm khô”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “làm khô”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "fold",
+      "meaning": "gấp",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “gấp”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “gấp”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "hang",
+      "meaning": "treo",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “treo”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “treo”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "iron",
+      "meaning": "là, ủi quần áo",
+      "pos": "verb",
+      "prompt": "Khi nói về quần áo, động từ nào nghĩa là “là, ủi quần áo”?",
+      "narration": "Khi nói về quần áo, động từ nào nghĩa là “là, ủi quần áo”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "drink",
+          "meaning": "uống",
+          "pos": "verb"
+        },
+        {
+          "word": "sleep",
+          "meaning": "ngủ",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

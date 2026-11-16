@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 02",
+  "topic": "Các loại áo",
+  "part": 2,
+  "think_seconds": 8.3,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "sweater",
+      "meaning": "áo len",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo len”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo len”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sweatshirt",
+      "meaning": "áo nỉ chui đầu không mũ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo nỉ chui đầu không mũ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo nỉ chui đầu không mũ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hoodie",
+      "meaning": "áo nỉ có mũ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo nỉ có mũ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo nỉ có mũ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cardigan",
+      "meaning": "áo len mở phía trước",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo len mở phía trước”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo len mở phía trước”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "vest",
+      "meaning": "áo gi lê",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo gi lê”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo gi lê”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

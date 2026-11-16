@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 05",
+  "topic": "Đồ mặc theo hoàn cảnh",
+  "part": 1,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "jacket",
+      "meaning": "áo khoác ngắn",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo khoác ngắn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo khoác ngắn”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "coat",
+      "meaning": "áo khoác dài",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo khoác dài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo khoác dài”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "raincoat",
+      "meaning": "áo mưa",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “áo mưa”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “áo mưa”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "swimsuit",
+      "meaning": "đồ bơi",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồ bơi”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồ bơi”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "swimming trunks",
+      "meaning": "quần bơi nam",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần bơi nam”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần bơi nam”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 15",
+  "topic": "Mô tả quần áo",
+  "part": 1,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "big",
+      "meaning": "to, lớn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “to, lớn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “to, lớn”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "small",
+      "meaning": "nhỏ",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “nhỏ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “nhỏ”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "long",
+      "meaning": "dài",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dài”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dài”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "short",
+      "meaning": "ngắn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ngắn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ngắn”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "tight",
+      "meaning": "chật, bó sát",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “chật, bó sát”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “chật, bó sát”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

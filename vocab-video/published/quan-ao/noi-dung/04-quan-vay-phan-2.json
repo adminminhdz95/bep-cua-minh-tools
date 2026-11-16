@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 04",
+  "topic": "Quần váy và bộ đồ",
+  "part": 2,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "leggings",
+      "meaning": "quần co giãn ôm sát chân",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần co giãn ôm sát chân”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần co giãn ôm sát chân”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tights",
+      "meaning": "quần tất",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần tất”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần tất”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sweatpants",
+      "meaning": "quần nỉ thể thao",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “quần nỉ thể thao”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “quần nỉ thể thao”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "suit",
+      "meaning": "bộ com lê",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bộ com lê”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bộ com lê”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "uniform",
+      "meaning": "đồng phục",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “đồng phục”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “đồng phục”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

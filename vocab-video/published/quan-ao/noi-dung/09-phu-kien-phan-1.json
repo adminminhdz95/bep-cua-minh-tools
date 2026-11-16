@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 09",
+  "topic": "Phụ kiện thông dụng",
+  "part": 1,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "hat",
+      "meaning": "mũ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mũ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mũ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cap",
+      "meaning": "mũ lưỡi trai",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mũ lưỡi trai”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mũ lưỡi trai”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "scarf",
+      "meaning": "khăn quàng cổ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “khăn quàng cổ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “khăn quàng cổ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "gloves",
+      "meaning": "găng tay",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “găng tay”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “găng tay”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "belt",
+      "meaning": "thắt lưng",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “thắt lưng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “thắt lưng”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

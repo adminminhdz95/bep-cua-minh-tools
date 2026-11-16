@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 14",
+  "topic": "Màu sắc quần áo",
+  "part": 2,
+  "think_seconds": 8.2,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "yellow",
+      "meaning": "có màu vàng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu vàng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu vàng”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "pink",
+      "meaning": "có màu hồng",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu hồng”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu hồng”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "brown",
+      "meaning": "có màu nâu",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu nâu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu nâu”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "gray",
+      "meaning": "có màu xám",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu xám”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu xám”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "purple",
+      "meaning": "có màu tím",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “có màu tím”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “có màu tím”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 07",
+  "topic": "Giày dép và tất",
+  "part": 1,
+  "think_seconds": 8.066666666666666,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "shoes",
+      "meaning": "giày",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giày”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giày”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sneakers",
+      "meaning": "giày thể thao",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “giày thể thao”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “giày thể thao”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "boots",
+      "meaning": "ủng hoặc bốt cao cổ",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “ủng hoặc bốt cao cổ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “ủng hoặc bốt cao cổ”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sandals",
+      "meaning": "dép có quai hậu",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dép có quai hậu”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dép có quai hậu”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "slippers",
+      "meaning": "dép đi trong nhà",
+      "pos": "noun",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “dép đi trong nhà”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “dép đi trong nhà”?",
+      "distractors": [
+        {
+          "word": "umbrella",
+          "meaning": "ô, dù",
+          "pos": "noun"
+        },
+        {
+          "word": "watch",
+          "meaning": "đồng hồ đeo tay",
+          "pos": "noun"
+        },
+        {
+          "word": "ring",
+          "meaning": "nhẫn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "QUẦN ÁO 16",
+  "topic": "Mô tả quần áo",
+  "part": 2,
+  "think_seconds": 8.566666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "loose",
+      "meaning": "rộng, không bó sát",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “rộng, không bó sát”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “rộng, không bó sát”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "clean",
+      "meaning": "sạch",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “sạch”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “sạch”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "dirty",
+      "meaning": "bẩn",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “bẩn”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “bẩn”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "new",
+      "meaning": "mới",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “mới”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “mới”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "old",
+      "meaning": "cũ",
+      "pos": "adjective",
+      "prompt": "Từ hoặc cụm từ nào có nghĩa là “cũ”?",
+      "narration": "Từ hoặc cụm từ nào có nghĩa là “cũ”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "expensive",
+          "meaning": "đắt tiền",
+          "pos": "adjective"
+        },
+        {
+          "word": "cheap",
+          "meaning": "rẻ tiền",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}
