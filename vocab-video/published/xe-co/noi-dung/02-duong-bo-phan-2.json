@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 02",
+  "topic": "Xe đường bộ",
+  "part": 2,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "ambulance",
+      "meaning": "xe cứu thương",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe cứu thương”?",
+      "narration": "Từ nào có nghĩa là “xe cứu thương”?",
+      "distractors": [
+        {
+          "word": "police car",
+          "meaning": "xe cảnh sát",
+          "pos": "noun"
+        },
+        {
+          "word": "bulldozer",
+          "meaning": "xe ủi đất",
+          "pos": "noun"
+        },
+        {
+          "word": "motorcycle",
+          "meaning": "xe máy",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fire engine",
+      "meaning": "xe cứu hỏa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe cứu hỏa”?",
+      "narration": "Từ nào có nghĩa là “xe cứu hỏa”?",
+      "distractors": [
+        {
+          "word": "tractor",
+          "meaning": "máy kéo",
+          "pos": "noun"
+        },
+        {
+          "word": "car",
+          "meaning": "ô tô con",
+          "pos": "noun"
+        },
+        {
+          "word": "bicycle",
+          "meaning": "xe đạp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "police car",
+      "meaning": "xe cảnh sát",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe cảnh sát”?",
+      "narration": "Từ nào có nghĩa là “xe cảnh sát”?",
+      "distractors": [
+        {
+          "word": "bulldozer",
+          "meaning": "xe ủi đất",
+          "pos": "noun"
+        },
+        {
+          "word": "motorcycle",
+          "meaning": "xe máy",
+          "pos": "noun"
+        },
+        {
+          "word": "truck",
+          "meaning": "xe tải",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tractor",
+      "meaning": "máy kéo",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “máy kéo”?",
+      "narration": "Từ nào có nghĩa là “máy kéo”?",
+      "distractors": [
+        {
+          "word": "car",
+          "meaning": "ô tô con",
+          "pos": "noun"
+        },
+        {
+          "word": "bicycle",
+          "meaning": "xe đạp",
+          "pos": "noun"
+        },
+        {
+          "word": "van",
+          "meaning": "xe tải nhỏ có khoang kín",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bulldozer",
+      "meaning": "xe ủi đất",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe ủi đất”?",
+      "narration": "Từ nào có nghĩa là “xe ủi đất”?",
+      "distractors": [
+        {
+          "word": "motorcycle",
+          "meaning": "xe máy",
+          "pos": "noun"
+        },
+        {
+          "word": "truck",
+          "meaning": "xe tải",
+          "pos": "noun"
+        },
+        {
+          "word": "ambulance",
+          "meaning": "xe cứu thương",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

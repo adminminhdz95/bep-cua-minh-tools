@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 04",
+  "topic": "Phương tiện công cộng",
+  "part": 2,
+  "think_seconds": 8.566666666666666,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "taxi",
+      "meaning": "xe tắc xi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe tắc xi”?",
+      "narration": "Từ nào có nghĩa là “xe tắc xi”?",
+      "distractors": [
+        {
+          "word": "school bus",
+          "meaning": "xe buýt đưa đón học sinh",
+          "pos": "noun"
+        },
+        {
+          "word": "cable car",
+          "meaning": "cáp treo",
+          "pos": "noun"
+        },
+        {
+          "word": "train",
+          "meaning": "tàu hỏa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "double-decker",
+      "meaning": "xe buýt hai tầng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe buýt hai tầng”?",
+      "narration": "Từ nào có nghĩa là “xe buýt hai tầng”?",
+      "distractors": [
+        {
+          "word": "tram",
+          "meaning": "xe điện chạy trên đường ray ngoài phố",
+          "pos": "noun"
+        },
+        {
+          "word": "subway",
+          "meaning": "tàu điện ngầm",
+          "pos": "noun"
+        },
+        {
+          "word": "cable car",
+          "meaning": "cáp treo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "school bus",
+      "meaning": "xe buýt đưa đón học sinh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe buýt đưa đón học sinh”?",
+      "narration": "Từ nào có nghĩa là “xe buýt đưa đón học sinh”?",
+      "distractors": [
+        {
+          "word": "train",
+          "meaning": "tàu hỏa",
+          "pos": "noun"
+        },
+        {
+          "word": "taxi",
+          "meaning": "xe tắc xi",
+          "pos": "noun"
+        },
+        {
+          "word": "cable car",
+          "meaning": "cáp treo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "trolleybus",
+      "meaning": "xe buýt điện lấy điện từ dây phía trên",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe buýt điện lấy điện từ dây phía trên”?",
+      "narration": "Từ nào có nghĩa là “xe buýt điện lấy điện từ dây phía trên”?",
+      "distractors": [
+        {
+          "word": "train",
+          "meaning": "tàu hỏa",
+          "pos": "noun"
+        },
+        {
+          "word": "taxi",
+          "meaning": "xe tắc xi",
+          "pos": "noun"
+        },
+        {
+          "word": "cable car",
+          "meaning": "cáp treo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cable car",
+      "meaning": "cáp treo",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+      "narration": "Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+      "distractors": [
+        {
+          "word": "train",
+          "meaning": "tàu hỏa",
+          "pos": "noun"
+        },
+        {
+          "word": "subway",
+          "meaning": "tàu điện ngầm",
+          "pos": "noun"
+        },
+        {
+          "word": "taxi",
+          "meaning": "xe tắc xi",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

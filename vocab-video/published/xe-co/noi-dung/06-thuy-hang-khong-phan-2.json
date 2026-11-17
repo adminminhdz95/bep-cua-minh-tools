@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 06",
+  "topic": "Đường thủy và hàng không",
+  "part": 2,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "ferry",
+      "meaning": "phà",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phương tiện chở người và xe qua sông?",
+      "narration": "Từ nào chỉ phương tiện chở người và xe qua sông?",
+      "distractors": [
+        {
+          "word": "sailboat",
+          "meaning": "thuyền buồm",
+          "pos": "noun"
+        },
+        {
+          "word": "speedboat",
+          "meaning": "xuồng cao tốc",
+          "pos": "noun"
+        },
+        {
+          "word": "helicopter",
+          "meaning": "trực thăng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "canoe",
+      "meaning": "xuồng nhỏ chèo bằng mái chèo rời",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ xuồng nhỏ di chuyển nhờ sức người?",
+      "narration": "Từ nào chỉ xuồng nhỏ di chuyển nhờ sức người?",
+      "distractors": [
+        {
+          "word": "submarine",
+          "meaning": "tàu ngầm",
+          "pos": "noun"
+        },
+        {
+          "word": "airplane",
+          "meaning": "máy bay",
+          "pos": "noun"
+        },
+        {
+          "word": "hot-air balloon",
+          "meaning": "khinh khí cầu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sailboat",
+      "meaning": "thuyền buồm",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ thuyền di chuyển nhờ sức gió?",
+      "narration": "Từ nào chỉ thuyền di chuyển nhờ sức gió?",
+      "distractors": [
+        {
+          "word": "speedboat",
+          "meaning": "xuồng cao tốc",
+          "pos": "noun"
+        },
+        {
+          "word": "helicopter",
+          "meaning": "trực thăng",
+          "pos": "noun"
+        },
+        {
+          "word": "glider",
+          "meaning": "máy bay lượn không động cơ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "submarine",
+      "meaning": "tàu ngầm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tàu ngầm”?",
+      "narration": "Từ nào có nghĩa là “tàu ngầm”?",
+      "distractors": [
+        {
+          "word": "airplane",
+          "meaning": "máy bay",
+          "pos": "noun"
+        },
+        {
+          "word": "hot-air balloon",
+          "meaning": "khinh khí cầu",
+          "pos": "noun"
+        },
+        {
+          "word": "seaplane",
+          "meaning": "thủy phi cơ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "speedboat",
+      "meaning": "xuồng cao tốc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xuồng cao tốc”?",
+      "narration": "Từ nào có nghĩa là “xuồng cao tốc”?",
+      "distractors": [
+        {
+          "word": "helicopter",
+          "meaning": "trực thăng",
+          "pos": "noun"
+        },
+        {
+          "word": "glider",
+          "meaning": "máy bay lượn không động cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "ferry",
+          "meaning": "phà",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

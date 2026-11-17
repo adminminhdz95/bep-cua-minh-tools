@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 07",
+  "topic": "Bộ phận bên ngoài xe",
+  "part": 1,
+  "think_seconds": 7.1,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wheel",
+      "meaning": "bánh xe",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ bộ phận hình tròn nằm dưới gầm xe?",
+      "narration": "Từ nào chỉ bộ phận hình tròn nằm dưới gầm xe?",
+      "distractors": [
+        {
+          "word": "door",
+          "meaning": "cửa xe",
+          "pos": "noun"
+        },
+        {
+          "word": "headlight",
+          "meaning": "đèn pha phía trước",
+          "pos": "noun"
+        },
+        {
+          "word": "bumper",
+          "meaning": "cản xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tire",
+      "meaning": "lốp xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “lốp xe”?",
+      "narration": "Từ nào có nghĩa là “lốp xe”?",
+      "distractors": [
+        {
+          "word": "windshield",
+          "meaning": "kính chắn gió phía trước",
+          "pos": "noun"
+        },
+        {
+          "word": "taillight",
+          "meaning": "đèn hậu",
+          "pos": "noun"
+        },
+        {
+          "word": "hood",
+          "meaning": "nắp khoang động cơ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "meaning": "cửa xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cửa xe”?",
+      "narration": "Từ nào có nghĩa là “cửa xe”?",
+      "distractors": [
+        {
+          "word": "headlight",
+          "meaning": "đèn pha phía trước",
+          "pos": "noun"
+        },
+        {
+          "word": "bumper",
+          "meaning": "cản xe",
+          "pos": "noun"
+        },
+        {
+          "word": "trunk",
+          "meaning": "cốp hành lý phía sau",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "windshield",
+      "meaning": "kính chắn gió phía trước",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ tấm kính ở ngay phía trước người lái?",
+      "narration": "Từ nào chỉ tấm kính ở ngay phía trước người lái?",
+      "distractors": [
+        {
+          "word": "taillight",
+          "meaning": "đèn hậu",
+          "pos": "noun"
+        },
+        {
+          "word": "hood",
+          "meaning": "nắp khoang động cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "license plate",
+          "meaning": "biển số xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "headlight",
+      "meaning": "đèn pha phía trước",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đèn pha phía trước”?",
+      "narration": "Từ nào có nghĩa là “đèn pha phía trước”?",
+      "distractors": [
+        {
+          "word": "bumper",
+          "meaning": "cản xe",
+          "pos": "noun"
+        },
+        {
+          "word": "trunk",
+          "meaning": "cốp hành lý phía sau",
+          "pos": "noun"
+        },
+        {
+          "word": "wheel",
+          "meaning": "bánh xe",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

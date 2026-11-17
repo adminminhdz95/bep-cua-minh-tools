@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 13",
+  "topic": "Người tham gia giao thông",
+  "part": 1,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "driver",
+      "meaning": "người lái ô tô",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “người lái ô tô”?",
+      "narration": "Từ nào có nghĩa là “người lái ô tô”?",
+      "distractors": [
+        {
+          "word": "pedestrian",
+          "meaning": "người đi bộ",
+          "pos": "noun"
+        },
+        {
+          "word": "motorcyclist",
+          "meaning": "người đi xe máy",
+          "pos": "noun"
+        },
+        {
+          "word": "flight attendant",
+          "meaning": "tiếp viên hàng không",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "meaning": "hành khách",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hành khách”?",
+      "narration": "Từ nào có nghĩa là “hành khách”?",
+      "distractors": [
+        {
+          "word": "cyclist",
+          "meaning": "người đi xe đạp",
+          "pos": "noun"
+        },
+        {
+          "word": "pilot",
+          "meaning": "phi công",
+          "pos": "noun"
+        },
+        {
+          "word": "mechanic",
+          "meaning": "thợ sửa xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pedestrian",
+      "meaning": "người đi bộ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “người đi bộ”?",
+      "narration": "Từ nào có nghĩa là “người đi bộ”?",
+      "distractors": [
+        {
+          "word": "motorcyclist",
+          "meaning": "người đi xe máy",
+          "pos": "noun"
+        },
+        {
+          "word": "flight attendant",
+          "meaning": "tiếp viên hàng không",
+          "pos": "noun"
+        },
+        {
+          "word": "traffic officer",
+          "meaning": "cảnh sát giao thông",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cyclist",
+      "meaning": "người đi xe đạp",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “người đi xe đạp”?",
+      "narration": "Từ nào có nghĩa là “người đi xe đạp”?",
+      "distractors": [
+        {
+          "word": "pilot",
+          "meaning": "phi công",
+          "pos": "noun"
+        },
+        {
+          "word": "mechanic",
+          "meaning": "thợ sửa xe",
+          "pos": "noun"
+        },
+        {
+          "word": "ship captain",
+          "meaning": "thuyền trưởng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "motorcyclist",
+      "meaning": "người đi xe máy",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “người đi xe máy”?",
+      "narration": "Từ nào có nghĩa là “người đi xe máy”?",
+      "distractors": [
+        {
+          "word": "flight attendant",
+          "meaning": "tiếp viên hàng không",
+          "pos": "noun"
+        },
+        {
+          "word": "traffic officer",
+          "meaning": "cảnh sát giao thông",
+          "pos": "noun"
+        },
+        {
+          "word": "driver",
+          "meaning": "người lái ô tô",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

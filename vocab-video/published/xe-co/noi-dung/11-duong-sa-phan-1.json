@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 11",
+  "topic": "Đường sá",
+  "part": 1,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "intersection",
+      "meaning": "nơi các con đường giao nhau",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nơi các con đường giao nhau”?",
+      "narration": "Từ nào có nghĩa là “nơi các con đường giao nhau”?",
+      "distractors": [
+        {
+          "word": "sidewalk",
+          "meaning": "vỉa hè",
+          "pos": "noun"
+        },
+        {
+          "word": "traffic light",
+          "meaning": "đèn tín hiệu giao thông",
+          "pos": "noun"
+        },
+        {
+          "word": "lane",
+          "meaning": "làn đường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "roundabout",
+      "meaning": "vòng xuyến",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vòng xuyến”?",
+      "narration": "Từ nào có nghĩa là “vòng xuyến”?",
+      "distractors": [
+        {
+          "word": "crosswalk",
+          "meaning": "vạch sang đường cho người đi bộ",
+          "pos": "noun"
+        },
+        {
+          "word": "traffic sign",
+          "meaning": "biển báo giao thông",
+          "pos": "noun"
+        },
+        {
+          "word": "tunnel",
+          "meaning": "đường hầm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sidewalk",
+      "meaning": "vỉa hè",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vỉa hè”?",
+      "narration": "Từ nào có nghĩa là “vỉa hè”?",
+      "distractors": [
+        {
+          "word": "traffic light",
+          "meaning": "đèn tín hiệu giao thông",
+          "pos": "noun"
+        },
+        {
+          "word": "lane",
+          "meaning": "làn đường",
+          "pos": "noun"
+        },
+        {
+          "word": "bridge",
+          "meaning": "cầu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "crosswalk",
+      "meaning": "vạch sang đường cho người đi bộ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phần đường dành cho người đi bộ băng qua?",
+      "narration": "Từ nào chỉ phần đường dành cho người đi bộ băng qua?",
+      "distractors": [
+        {
+          "word": "traffic sign",
+          "meaning": "biển báo giao thông",
+          "pos": "noun"
+        },
+        {
+          "word": "tunnel",
+          "meaning": "đường hầm",
+          "pos": "noun"
+        },
+        {
+          "word": "speed bump",
+          "meaning": "gờ giảm tốc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "traffic light",
+      "meaning": "đèn tín hiệu giao thông",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đèn tín hiệu giao thông”?",
+      "narration": "Từ nào có nghĩa là “đèn tín hiệu giao thông”?",
+      "distractors": [
+        {
+          "word": "lane",
+          "meaning": "làn đường",
+          "pos": "noun"
+        },
+        {
+          "word": "bridge",
+          "meaning": "cầu",
+          "pos": "noun"
+        },
+        {
+          "word": "intersection",
+          "meaning": "nơi các con đường giao nhau",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

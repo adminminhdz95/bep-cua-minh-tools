@@ -1,0 +1,21 @@
+﻿Video,Chủ đề,Phần,Từ vựng,Thời lượng (giây),File MP4
+1,Xe đường bộ,1,"car, motorcycle, bicycle, truck, van",43.666666666666664,01-duong-bo-phan-1.mp4
+2,Xe đường bộ,2,"ambulance, fire engine, police car, tractor, bulldozer",47.5,02-duong-bo-phan-2.mp4
+3,Phương tiện công cộng,1,"bus, train, tram, subway, coach",51.166666666666664,03-cong-cong-phan-1.mp4
+4,Phương tiện công cộng,2,"taxi, double-decker, school bus, trolleybus, cable car",53.666666666666664,04-cong-cong-phan-2.mp4
+5,Đường thủy và hàng không,1,"airplane, helicopter, hot-air balloon, glider, seaplane",49.666666666666664,05-thuy-hang-khong-phan-1.mp4
+6,Đường thủy và hàng không,2,"ferry, canoe, sailboat, submarine, speedboat",46.666666666666664,06-thuy-hang-khong-phan-2.mp4
+7,Bộ phận bên ngoài xe,1,"wheel, tire, door, windshield, headlight",46.333333333333336,07-ben-ngoai-phan-1.mp4
+8,Bộ phận bên ngoài xe,2,"taillight, bumper, hood, trunk, license plate",49.833333333333336,08-ben-ngoai-phan-2.mp4
+9,Bộ phận và thiết bị,1,"engine, steering wheel, brake, clutch, gear stick",46.666666666666664,09-thiet-bi-phan-1.mp4
+10,Bộ phận và thiết bị,2,"seat belt, horn, rearview mirror, speedometer, fuel tank",50.666666666666664,10-thiet-bi-phan-2.mp4
+11,Đường sá,1,"intersection, roundabout, sidewalk, crosswalk, traffic light",49.833333333333336,11-duong-sa-phan-1.mp4
+12,Đường sá,2,"traffic sign, lane, tunnel, bridge, speed bump",49.333333333333336,12-duong-sa-phan-2.mp4
+13,Người tham gia giao thông,1,"driver, passenger, pedestrian, cyclist, motorcyclist",47.166666666666664,13-con-nguoi-phan-1.mp4
+14,Người tham gia giao thông,2,"pilot, flight attendant, mechanic, traffic officer, ship captain",43.666666666666664,14-con-nguoi-phan-2.mp4
+15,Hoạt động với xe,1,"accelerate, decelerate, park, overtake, reverse",47.5,15-hoat-dong-phan-1.mp4
+16,Hoạt động với xe,2,"refuel, honk, steer, fasten, unfasten",47.5,16-hoat-dong-phan-2.mp4
+17,Hành trình và dịch vụ,1,"ticket, fare, route, schedule, bus stop",45.333333333333336,17-hanh-trinh-phan-1.mp4
+18,Hành trình và dịch vụ,2,"train station, airport, parking lot, gas station, repair shop",46.0,18-hanh-trinh-phan-2.mp4
+19,Đặc điểm khi di chuyển,1,"fast, slow, safe, dangerous, crowded",43.666666666666664,19-dac-diem-phan-1.mp4
+20,Đặc điểm khi di chuyển,2,"empty, comfortable, uncomfortable, punctual, delayed",46.666666666666664,20-dac-diem-phan-2.mp4

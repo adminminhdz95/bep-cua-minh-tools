@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 19",
+  "topic": "Đặc điểm khi di chuyển",
+  "part": 1,
+  "think_seconds": 6.733333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "fast",
+      "meaning": "nhanh",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “nhanh”?",
+      "narration": "Từ nào có nghĩa là “nhanh”?",
+      "distractors": [
+        {
+          "word": "safe",
+          "meaning": "an toàn",
+          "pos": "adjective"
+        },
+        {
+          "word": "crowded",
+          "meaning": "đông người",
+          "pos": "adjective"
+        },
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "slow",
+      "meaning": "chậm",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “chậm”?",
+      "narration": "Từ nào có nghĩa là “chậm”?",
+      "distractors": [
+        {
+          "word": "dangerous",
+          "meaning": "nguy hiểm",
+          "pos": "adjective"
+        },
+        {
+          "word": "empty",
+          "meaning": "không có người bên trong",
+          "pos": "adjective"
+        },
+        {
+          "word": "uncomfortable",
+          "meaning": "không thoải mái",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "safe",
+      "meaning": "an toàn",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “an toàn”?",
+      "narration": "Từ nào có nghĩa là “an toàn”?",
+      "distractors": [
+        {
+          "word": "crowded",
+          "meaning": "đông người",
+          "pos": "adjective"
+        },
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "punctual",
+          "meaning": "đúng giờ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "dangerous",
+      "meaning": "nguy hiểm",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “nguy hiểm”?",
+      "narration": "Từ nào có nghĩa là “nguy hiểm”?",
+      "distractors": [
+        {
+          "word": "empty",
+          "meaning": "không có người bên trong",
+          "pos": "adjective"
+        },
+        {
+          "word": "uncomfortable",
+          "meaning": "không thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "delayed",
+          "meaning": "bị chậm trễ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "crowded",
+      "meaning": "đông người",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “đông người”?",
+      "narration": "Từ nào có nghĩa là “đông người”?",
+      "distractors": [
+        {
+          "word": "comfortable",
+          "meaning": "thoải mái",
+          "pos": "adjective"
+        },
+        {
+          "word": "punctual",
+          "meaning": "đúng giờ",
+          "pos": "adjective"
+        },
+        {
+          "word": "fast",
+          "meaning": "nhanh",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

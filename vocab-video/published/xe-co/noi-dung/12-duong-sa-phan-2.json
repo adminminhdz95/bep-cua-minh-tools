@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 12",
+  "topic": "Đường sá",
+  "part": 2,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "traffic sign",
+      "meaning": "biển báo giao thông",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “biển báo giao thông”?",
+      "narration": "Từ nào có nghĩa là “biển báo giao thông”?",
+      "distractors": [
+        {
+          "word": "tunnel",
+          "meaning": "đường hầm",
+          "pos": "noun"
+        },
+        {
+          "word": "speed bump",
+          "meaning": "gờ giảm tốc",
+          "pos": "noun"
+        },
+        {
+          "word": "roundabout",
+          "meaning": "vòng xuyến",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "lane",
+      "meaning": "làn đường",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phần đường được chia cho xe chạy theo hàng?",
+      "narration": "Từ nào chỉ phần đường được chia cho xe chạy theo hàng?",
+      "distractors": [
+        {
+          "word": "bridge",
+          "meaning": "cầu",
+          "pos": "noun"
+        },
+        {
+          "word": "intersection",
+          "meaning": "nơi các con đường giao nhau",
+          "pos": "noun"
+        },
+        {
+          "word": "sidewalk",
+          "meaning": "vỉa hè",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tunnel",
+      "meaning": "đường hầm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đường hầm”?",
+      "narration": "Từ nào có nghĩa là “đường hầm”?",
+      "distractors": [
+        {
+          "word": "speed bump",
+          "meaning": "gờ giảm tốc",
+          "pos": "noun"
+        },
+        {
+          "word": "roundabout",
+          "meaning": "vòng xuyến",
+          "pos": "noun"
+        },
+        {
+          "word": "crosswalk",
+          "meaning": "vạch sang đường cho người đi bộ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "meaning": "cầu",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ công trình nối hai bờ sông để xe đi qua?",
+      "narration": "Từ nào chỉ công trình nối hai bờ sông để xe đi qua?",
+      "distractors": [
+        {
+          "word": "intersection",
+          "meaning": "nơi các con đường giao nhau",
+          "pos": "noun"
+        },
+        {
+          "word": "sidewalk",
+          "meaning": "vỉa hè",
+          "pos": "noun"
+        },
+        {
+          "word": "traffic light",
+          "meaning": "đèn tín hiệu giao thông",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "speed bump",
+      "meaning": "gờ giảm tốc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gờ giảm tốc”?",
+      "narration": "Từ nào có nghĩa là “gờ giảm tốc”?",
+      "distractors": [
+        {
+          "word": "roundabout",
+          "meaning": "vòng xuyến",
+          "pos": "noun"
+        },
+        {
+          "word": "crosswalk",
+          "meaning": "vạch sang đường cho người đi bộ",
+          "pos": "noun"
+        },
+        {
+          "word": "traffic sign",
+          "meaning": "biển báo giao thông",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

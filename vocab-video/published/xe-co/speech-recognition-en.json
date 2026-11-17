@@ -1,0 +1,370 @@
+[
+  {
+    "video": 2,
+    "language": "en",
+    "expected": "ambulance fire engine police car tractor bulldozer",
+    "recognized": "ambulance, fire engine, police car, tractor, bulldozer.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.56,
+        "text": " ambulance, fire engine, police car, tractor, bulldozer.",
+        "avg_logprob": -0.31770361171049233
+      }
+    ]
+  },
+  {
+    "video": 3,
+    "language": "en",
+    "expected": "bus train tram subway coach",
+    "recognized": "Bus. Train. Tram. Subway. Coach.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.56,
+        "text": " Bus.",
+        "avg_logprob": -0.3269372530605482
+      },
+      {
+        "start": 1.56,
+        "end": 3.16,
+        "text": " Train.",
+        "avg_logprob": -0.3269372530605482
+      },
+      {
+        "start": 3.16,
+        "end": 4.8,
+        "text": " Tram.",
+        "avg_logprob": -0.3269372530605482
+      },
+      {
+        "start": 4.8,
+        "end": 6.36,
+        "text": " Subway.",
+        "avg_logprob": -0.3269372530605482
+      },
+      {
+        "start": 6.36,
+        "end": 7.2,
+        "text": " Coach.",
+        "avg_logprob": -0.3269372530605482
+      }
+    ]
+  },
+  {
+    "video": 4,
+    "language": "en",
+    "expected": "taxi double-decker school bus trolleybus cable car",
+    "recognized": "taxi, double-decker, school bus, trolley bus, cable car.",
+    "similarity": 0.9900990099009901,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.44,
+        "text": " taxi, double-decker, school bus, trolley bus, cable car.",
+        "avg_logprob": -0.3024836197495461
+      }
+    ]
+  },
+  {
+    "video": 5,
+    "language": "en",
+    "expected": "airplane helicopter hot-air balloon glider seaplane",
+    "recognized": "airplane, helicopter, hot air balloon, glider, sea plane.",
+    "similarity": 0.9902912621359223,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.84,
+        "text": " airplane, helicopter, hot air balloon, glider, sea plane.",
+        "avg_logprob": -0.28361236347871666
+      }
+    ]
+  },
+  {
+    "video": 6,
+    "language": "en",
+    "expected": "ferry canoe sailboat submarine speedboat",
+    "recognized": "ferry, canoe, sailboat, submarine, speedboat.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.6000000000000005,
+        "text": " ferry, canoe, sailboat, submarine, speedboat.",
+        "avg_logprob": -0.36195346117019656
+      }
+    ]
+  },
+  {
+    "video": 9,
+    "language": "en",
+    "expected": "engine steering wheel brake clutch gear stick",
+    "recognized": "engine, steering wheel, brake, clutch, gear stick.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.04,
+        "text": " engine, steering wheel, brake, clutch, gear stick.",
+        "avg_logprob": -0.27826087474822997
+      }
+    ]
+  },
+  {
+    "video": 10,
+    "language": "en",
+    "expected": "seat belt horn rearview mirror speedometer fuel tank",
+    "recognized": "seat belt, horn, rear view mirror, speedometer, fuel tank.",
+    "similarity": 0.9904761904761905,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.120000000000001,
+        "text": " seat belt, horn, rear view mirror, speedometer, fuel tank.",
+        "avg_logprob": -0.29236191345585716
+      }
+    ]
+  },
+  {
+    "video": 11,
+    "language": "en",
+    "expected": "intersection roundabout sidewalk crosswalk traffic light",
+    "recognized": "intersection, roundabout, sidewalk, crosswalk, traffic light.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.6,
+        "text": " intersection, roundabout, sidewalk, crosswalk, traffic light.",
+        "avg_logprob": -0.3199200611561537
+      }
+    ]
+  },
+  {
+    "video": 12,
+    "language": "en",
+    "expected": "traffic sign lane tunnel bridge speed bump",
+    "recognized": "traffic sign, lane, tunnel, bridge, speed bump,",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.44,
+        "text": " traffic sign, lane, tunnel, bridge, speed bump,",
+        "avg_logprob": -0.3742953379948934
+      }
+    ]
+  },
+  {
+    "video": 13,
+    "language": "en",
+    "expected": "driver passenger pedestrian cyclist motorcyclist",
+    "recognized": "driver, passenger, pedestrian, cyclist, motorcyclist.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.48,
+        "text": " driver, passenger, pedestrian, cyclist, motorcyclist.",
+        "avg_logprob": -0.3202096279710531
+      }
+    ]
+  },
+  {
+    "video": 14,
+    "language": "en",
+    "expected": "pilot flight attendant mechanic traffic officer ship captain",
+    "recognized": "pilot, flight attendant, mechanic, traffic officer, ship captain.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.200000000000001,
+        "text": " pilot, flight attendant, mechanic, traffic officer, ship captain.",
+        "avg_logprob": -0.29890621080994606
+      }
+    ]
+  },
+  {
+    "video": 15,
+    "language": "en",
+    "expected": "accelerate decelerate park overtake reverse",
+    "recognized": "accelerate, decelerate, park, overtake, reverse.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.12,
+        "text": " accelerate, decelerate, park, overtake, reverse.",
+        "avg_logprob": -0.3606355469673872
+      }
+    ]
+  },
+  {
+    "video": 16,
+    "language": "en",
+    "expected": "refuel honk steer fasten unfasten",
+    "recognized": "Refuel Honk Steer Fasten Unfassen",
+    "similarity": 0.9696969696969697,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.84,
+        "text": " Refuel",
+        "avg_logprob": -0.46212167966933476
+      },
+      {
+        "start": 1.84,
+        "end": 3.7600000000000002,
+        "text": " Honk",
+        "avg_logprob": -0.46212167966933476
+      },
+      {
+        "start": 3.7600000000000002,
+        "end": 5.32,
+        "text": " Steer",
+        "avg_logprob": -0.46212167966933476
+      },
+      {
+        "start": 5.32,
+        "end": 6.48,
+        "text": " Fasten",
+        "avg_logprob": -0.46212167966933476
+      },
+      {
+        "start": 6.48,
+        "end": 7.48,
+        "text": " Unfassen",
+        "avg_logprob": -0.46212167966933476
+      }
+    ]
+  },
+  {
+    "video": 17,
+    "language": "en",
+    "expected": "ticket fare route schedule bus stop",
+    "recognized": "ticket, fare, route, schedule, bus stop.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.16,
+        "text": " ticket, fare, route, schedule, bus stop.",
+        "avg_logprob": -0.3520000044788633
+      }
+    ]
+  },
+  {
+    "video": 19,
+    "language": "en",
+    "expected": "fast slow safe dangerous crowded",
+    "recognized": "fast, slow, safe, dangerous, crowded.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.6000000000000005,
+        "text": " fast, slow, safe, dangerous, crowded.",
+        "avg_logprob": -0.40501983349139875
+      }
+    ]
+  },
+  {
+    "video": 20,
+    "language": "en",
+    "expected": "empty comfortable uncomfortable punctual delayed",
+    "recognized": "Empty, Comfortable, Uncomfortable, Punctual, Delayed",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.76,
+        "text": " Empty, Comfortable, Uncomfortable, Punctual, Delayed",
+        "avg_logprob": -0.3660126328468323
+      }
+    ]
+  },
+  {
+    "video": 1,
+    "language": "en",
+    "expected": "car motorcycle bicycle truck van",
+    "recognized": "car, motorcycle, bicycle, truck, van.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.36,
+        "text": " car, motorcycle, bicycle, truck, van.",
+        "avg_logprob": -0.30589823539440447
+      }
+    ]
+  },
+  {
+    "video": 7,
+    "language": "en",
+    "expected": "wheel tire door windshield headlight",
+    "recognized": "wheel, tire, door, windshield, headlight.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.44,
+        "text": " wheel, tire, door, windshield, headlight.",
+        "avg_logprob": -0.29319673563752857
+      }
+    ]
+  },
+  {
+    "video": 8,
+    "language": "en",
+    "expected": "taillight bumper hood trunk license plate",
+    "recognized": "tail light, bumper, hood, trunk, license plate.",
+    "similarity": 0.9879518072289156,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.8,
+        "text": " tail light, bumper, hood, trunk, license plate.",
+        "avg_logprob": -0.23502768675486246
+      }
+    ]
+  },
+  {
+    "video": 18,
+    "language": "en",
+    "expected": "train station airport parking lot gas station repair shop",
+    "recognized": "train station, airport, parking lot, gas station, repair shop.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.72,
+        "text": " train station, airport, parking lot, gas station, repair shop.",
+        "avg_logprob": -0.17779742970186121
+      }
+    ]
+  }
+]

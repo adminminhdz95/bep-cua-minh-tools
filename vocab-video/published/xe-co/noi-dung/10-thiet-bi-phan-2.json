@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 10",
+  "topic": "Bộ phận và thiết bị",
+  "part": 2,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "seat belt",
+      "meaning": "dây an toàn",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “dây an toàn”?",
+      "narration": "Từ nào có nghĩa là “dây an toàn”?",
+      "distractors": [
+        {
+          "word": "rearview mirror",
+          "meaning": "gương chiếu hậu bên trong xe",
+          "pos": "noun"
+        },
+        {
+          "word": "fuel tank",
+          "meaning": "bình nhiên liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "steering wheel",
+          "meaning": "vô lăng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "horn",
+      "meaning": "còi xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “còi xe”?",
+      "narration": "Từ nào có nghĩa là “còi xe”?",
+      "distractors": [
+        {
+          "word": "speedometer",
+          "meaning": "đồng hồ đo tốc độ",
+          "pos": "noun"
+        },
+        {
+          "word": "engine",
+          "meaning": "động cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "brake",
+          "meaning": "phanh xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "rearview mirror",
+      "meaning": "gương chiếu hậu bên trong xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gương chiếu hậu bên trong xe”?",
+      "narration": "Từ nào có nghĩa là “gương chiếu hậu bên trong xe”?",
+      "distractors": [
+        {
+          "word": "fuel tank",
+          "meaning": "bình nhiên liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "steering wheel",
+          "meaning": "vô lăng",
+          "pos": "noun"
+        },
+        {
+          "word": "clutch",
+          "meaning": "bộ ly hợp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "speedometer",
+      "meaning": "đồng hồ đo tốc độ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ đồng hồ cho biết xe đang chạy nhanh bao nhiêu?",
+      "narration": "Từ nào chỉ đồng hồ cho biết xe đang chạy nhanh bao nhiêu?",
+      "distractors": [
+        {
+          "word": "engine",
+          "meaning": "động cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "brake",
+          "meaning": "phanh xe",
+          "pos": "noun"
+        },
+        {
+          "word": "gear stick",
+          "meaning": "cần số",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fuel tank",
+      "meaning": "bình nhiên liệu",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ bộ phận chứa xăng hoặc dầu trên xe?",
+      "narration": "Từ nào chỉ bộ phận chứa xăng hoặc dầu trên xe?",
+      "distractors": [
+        {
+          "word": "steering wheel",
+          "meaning": "vô lăng",
+          "pos": "noun"
+        },
+        {
+          "word": "clutch",
+          "meaning": "bộ ly hợp",
+          "pos": "noun"
+        },
+        {
+          "word": "seat belt",
+          "meaning": "dây an toàn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

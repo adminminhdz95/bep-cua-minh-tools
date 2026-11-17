@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 01",
+  "topic": "Xe đường bộ",
+  "part": 1,
+  "think_seconds": 6.733333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "car",
+      "meaning": "ô tô con",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ô tô con”?",
+      "narration": "Từ nào có nghĩa là “ô tô con”?",
+      "distractors": [
+        {
+          "word": "bicycle",
+          "meaning": "xe đạp",
+          "pos": "noun"
+        },
+        {
+          "word": "van",
+          "meaning": "xe tải nhỏ có khoang kín",
+          "pos": "noun"
+        },
+        {
+          "word": "fire engine",
+          "meaning": "xe cứu hỏa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "motorcycle",
+      "meaning": "xe máy",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe máy”?",
+      "narration": "Từ nào có nghĩa là “xe máy”?",
+      "distractors": [
+        {
+          "word": "truck",
+          "meaning": "xe tải",
+          "pos": "noun"
+        },
+        {
+          "word": "ambulance",
+          "meaning": "xe cứu thương",
+          "pos": "noun"
+        },
+        {
+          "word": "police car",
+          "meaning": "xe cảnh sát",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bicycle",
+      "meaning": "xe đạp",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe đạp”?",
+      "narration": "Từ nào có nghĩa là “xe đạp”?",
+      "distractors": [
+        {
+          "word": "van",
+          "meaning": "xe tải nhỏ có khoang kín",
+          "pos": "noun"
+        },
+        {
+          "word": "fire engine",
+          "meaning": "xe cứu hỏa",
+          "pos": "noun"
+        },
+        {
+          "word": "tractor",
+          "meaning": "máy kéo",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "truck",
+      "meaning": "xe tải",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xe tải”?",
+      "narration": "Từ nào có nghĩa là “xe tải”?",
+      "distractors": [
+        {
+          "word": "ambulance",
+          "meaning": "xe cứu thương",
+          "pos": "noun"
+        },
+        {
+          "word": "police car",
+          "meaning": "xe cảnh sát",
+          "pos": "noun"
+        },
+        {
+          "word": "bulldozer",
+          "meaning": "xe ủi đất",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "van",
+      "meaning": "xe tải nhỏ có khoang kín",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ xe tải nhỏ chuyên chở hàng?",
+      "narration": "Từ nào chỉ xe tải nhỏ chuyên chở hàng?",
+      "distractors": [
+        {
+          "word": "fire engine",
+          "meaning": "xe cứu hỏa",
+          "pos": "noun"
+        },
+        {
+          "word": "tractor",
+          "meaning": "máy kéo",
+          "pos": "noun"
+        },
+        {
+          "word": "car",
+          "meaning": "ô tô con",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

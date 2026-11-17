@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 18",
+  "topic": "Hành trình và dịch vụ",
+  "part": 2,
+  "think_seconds": 7.1,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "train station",
+      "meaning": "nhà ga tàu hỏa",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ nơi hành khách lên xuống các đoàn tàu?",
+      "narration": "Từ nào chỉ nơi hành khách lên xuống các đoàn tàu?",
+      "distractors": [
+        {
+          "word": "parking lot",
+          "meaning": "bãi đỗ xe",
+          "pos": "noun"
+        },
+        {
+          "word": "repair shop",
+          "meaning": "tiệm sửa xe",
+          "pos": "noun"
+        },
+        {
+          "word": "fare",
+          "meaning": "tiền cước đi xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "meaning": "sân bay",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “sân bay”?",
+      "narration": "Từ nào có nghĩa là “sân bay”?",
+      "distractors": [
+        {
+          "word": "gas station",
+          "meaning": "trạm bán xăng",
+          "pos": "noun"
+        },
+        {
+          "word": "ticket",
+          "meaning": "vé đi xe",
+          "pos": "noun"
+        },
+        {
+          "word": "route",
+          "meaning": "tuyến đường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "parking lot",
+      "meaning": "bãi đỗ xe",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ khu vực dành riêng cho việc để xe?",
+      "narration": "Từ nào chỉ khu vực dành riêng cho việc để xe?",
+      "distractors": [
+        {
+          "word": "repair shop",
+          "meaning": "tiệm sửa xe",
+          "pos": "noun"
+        },
+        {
+          "word": "fare",
+          "meaning": "tiền cước đi xe",
+          "pos": "noun"
+        },
+        {
+          "word": "schedule",
+          "meaning": "lịch chạy xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "gas station",
+      "meaning": "trạm bán xăng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “trạm bán xăng”?",
+      "narration": "Từ nào có nghĩa là “trạm bán xăng”?",
+      "distractors": [
+        {
+          "word": "ticket",
+          "meaning": "vé đi xe",
+          "pos": "noun"
+        },
+        {
+          "word": "route",
+          "meaning": "tuyến đường",
+          "pos": "noun"
+        },
+        {
+          "word": "bus stop",
+          "meaning": "điểm dừng xe buýt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "repair shop",
+      "meaning": "tiệm sửa xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tiệm sửa xe”?",
+      "narration": "Từ nào có nghĩa là “tiệm sửa xe”?",
+      "distractors": [
+        {
+          "word": "fare",
+          "meaning": "tiền cước đi xe",
+          "pos": "noun"
+        },
+        {
+          "word": "schedule",
+          "meaning": "lịch chạy xe",
+          "pos": "noun"
+        },
+        {
+          "word": "train station",
+          "meaning": "nhà ga tàu hỏa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

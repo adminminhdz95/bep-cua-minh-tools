@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 15",
+  "topic": "Hoạt động với xe",
+  "part": 1,
+  "think_seconds": 7.333333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "accelerate",
+      "meaning": "tăng tốc",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “tăng tốc”?",
+      "narration": "Từ nào có nghĩa là “tăng tốc”?",
+      "distractors": [
+        {
+          "word": "park",
+          "meaning": "đỗ xe",
+          "pos": "verb"
+        },
+        {
+          "word": "reverse",
+          "meaning": "lùi xe",
+          "pos": "verb"
+        },
+        {
+          "word": "honk",
+          "meaning": "bấm còi",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "decelerate",
+      "meaning": "giảm tốc",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “giảm tốc”?",
+      "narration": "Từ nào có nghĩa là “giảm tốc”?",
+      "distractors": [
+        {
+          "word": "overtake",
+          "meaning": "vượt xe phía trước",
+          "pos": "verb"
+        },
+        {
+          "word": "refuel",
+          "meaning": "tiếp nhiên liệu",
+          "pos": "verb"
+        },
+        {
+          "word": "steer",
+          "meaning": "điều khiển hướng xe",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "meaning": "đỗ xe",
+      "pos": "verb",
+      "prompt": "Từ nào chỉ việc đưa xe vào vị trí để xe đứng yên?",
+      "narration": "Từ nào chỉ việc đưa xe vào vị trí để xe đứng yên?",
+      "distractors": [
+        {
+          "word": "reverse",
+          "meaning": "lùi xe",
+          "pos": "verb"
+        },
+        {
+          "word": "honk",
+          "meaning": "bấm còi",
+          "pos": "verb"
+        },
+        {
+          "word": "fasten",
+          "meaning": "thắt chặt dây an toàn",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "overtake",
+      "meaning": "vượt xe phía trước",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “vượt xe phía trước”?",
+      "narration": "Từ nào có nghĩa là “vượt xe phía trước”?",
+      "distractors": [
+        {
+          "word": "refuel",
+          "meaning": "tiếp nhiên liệu",
+          "pos": "verb"
+        },
+        {
+          "word": "steer",
+          "meaning": "điều khiển hướng xe",
+          "pos": "verb"
+        },
+        {
+          "word": "unfasten",
+          "meaning": "tháo dây an toàn",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "reverse",
+      "meaning": "lùi xe",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “lùi xe”?",
+      "narration": "Từ nào có nghĩa là “lùi xe”?",
+      "distractors": [
+        {
+          "word": "honk",
+          "meaning": "bấm còi",
+          "pos": "verb"
+        },
+        {
+          "word": "fasten",
+          "meaning": "thắt chặt dây an toàn",
+          "pos": "verb"
+        },
+        {
+          "word": "accelerate",
+          "meaning": "tăng tốc",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

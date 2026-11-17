@@ -1,0 +1,18 @@
+[
+  {
+    "video": 16,
+    "language": "en",
+    "expected": "refuel honk steer fasten unfasten",
+    "recognized": "Refuel. Honk. Steer. Fasten. Unfasten.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.28,
+        "text": " Refuel. Honk. Steer. Fasten. Unfasten.",
+        "avg_logprob": -0.208351897696654
+      }
+    ]
+  }
+]

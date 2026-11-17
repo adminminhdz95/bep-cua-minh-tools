@@ -92,3 +92,7 @@ Với yêu cầu đọc đầy đủ, đặt `narration` bằng toàn bộ `prom
 ## Đáp án nhiễu gần nghĩa
 
 Người dùng yêu cầu các lựa chọn sai gần nghĩa và cùng nhóm với đáp án đúng, tránh nghĩa lệch quá xa. Chọn cùng loại từ và cùng nhóm ngữ nghĩa; ví dụ câu hỏi về người thân phải dùng các vai trò trong gia đình. Vẫn bảo đảm chỉ một đáp án đúng: phân biệt rõ cháu của ông bà với cháu gọi mình bằng cô/chú, quan hệ huyết thống với quan hệ bên vợ/chồng. Với cụm động từ, dùng các hoạt động gần nhau trong cùng bối cảnh. Phân bố đáp án đúng giữa A–D và kiểm tra nghĩa của cả bốn lựa chọn.
+
+## Yêu cầu đọc rõ hai ngôn ngữ
+
+Người dùng nhấn mạnh đọc đúng tiếng Việt và tiếng Anh. Giữ giọng đã chọn, mã ngôn ngữ `vi` cho toàn bộ câu hỏi và `en` cho đáp án. Khi một thuật ngữ Việt ngắn dễ nghe nhầm, có thể viết câu hỏi mô tả chức năng/ngữ cảnh bằng tiếng Việt tự nhiên; vẫn giữ từ và nghĩa chuẩn trong đáp án. Đặt `narration` bằng câu hỏi hiển thị. Kiểm tra lại MP4 sau mọi lần sửa lời đọc. Nếu dùng ASR, giữ bản chép thực tế và ghi rõ các khác biệt chính tả từ ghép/từ mượn; không tự xem ASR là chứng nhận dấu thanh, trọng âm hoặc giọng bản ngữ, không tuyên bố đã nghe khi không có công cụ nghe.

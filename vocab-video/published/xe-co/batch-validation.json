@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "videos": 20,
+  "questions": 100,
+  "full_vietnamese_questions": 100,
+  "english_answers": 100,
+  "narration_rate": 0.92,
+  "minimum_thinking_seconds_after_narration": 4.0019583333333335,
+  "audio_peak": 0.66245,
+  "max_decoded_frame_mean_difference": 1.8633490869341565,
+  "total_seconds": 952.5,
+  "duration_range_seconds": [
+    43.666666666666664,
+    53.666666666666664
+  ],
+  "note": "Decoded-frame and audio signal checks plus visual inspection; direct listening not claimed."
+}

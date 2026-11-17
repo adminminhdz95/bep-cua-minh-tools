@@ -1,0 +1,802 @@
+[
+  {
+    "video": 2,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “xe cứu thương”? Từ nào có nghĩa là “xe cứu hỏa”? Từ nào có nghĩa là “xe cảnh sát”? Từ nào có nghĩa là “máy kéo”? Từ nào có nghĩa là “xe ủi đất”?",
+    "recognized": "Từ nào có nghĩa là xe cứu thương? Từ nào có nghĩa là xe cứu hỏa? Từ nào có nghĩa là xe cảnh sát? Từ nào có nghĩa là máy kéo? Từ nào có nghĩa là xe ủi đất?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.22,
+        "text": " Từ nào có nghĩa là xe cứu thương?",
+        "avg_logprob": -0.10440174444222156
+      },
+      {
+        "start": 3.08,
+        "end": 6.0,
+        "text": " Từ nào có nghĩa là xe cứu hỏa?",
+        "avg_logprob": -0.10440174444222156
+      },
+      {
+        "start": 6.84,
+        "end": 9.120000000000001,
+        "text": " Từ nào có nghĩa là xe cảnh sát?",
+        "avg_logprob": -0.10440174444222156
+      },
+      {
+        "start": 9.8,
+        "end": 11.44,
+        "text": " Từ nào có nghĩa là máy kéo?",
+        "avg_logprob": -0.10440174444222156
+      },
+      {
+        "start": 12.34,
+        "end": 14.36,
+        "text": " Từ nào có nghĩa là xe ủi đất?",
+        "avg_logprob": -0.10440174444222156
+      }
+    ]
+  },
+  {
+    "video": 3,
+    "language": "vi",
+    "expected": "Từ nào chỉ xe chở khách công cộng chạy theo tuyến trong thành phố? Từ nào có nghĩa là “tàu hỏa”? Từ nào có nghĩa là “xe điện chạy trên đường ray ngoài phố”? Từ nào có nghĩa là “tàu điện ngầm”? Từ nào có nghĩa là “xe khách đường dài”?",
+    "recognized": "Từ nào chỉ xe chở khách công cộng chạy theo tuyến trong thành phố? Từ nào có nghĩa là tàu hỏa? Từ nào có nghĩa là xe điện chạy trên đường ray ngoài phố? Từ nào có nghĩa là tàu điện ngầm? Từ nào có nghĩa là xe khách đường dài?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": " Từ nào chỉ xe chở khách công cộng chạy theo tuyến trong thành phố?",
+        "avg_logprob": -0.0694999228811489
+      },
+      {
+        "start": 4.18,
+        "end": 6.12,
+        "text": " Từ nào có nghĩa là tàu hỏa?",
+        "avg_logprob": -0.0694999228811489
+      },
+      {
+        "start": 6.78,
+        "end": 10.48,
+        "text": " Từ nào có nghĩa là xe điện chạy trên đường ray ngoài phố?",
+        "avg_logprob": -0.0694999228811489
+      },
+      {
+        "start": 11.4,
+        "end": 13.38,
+        "text": " Từ nào có nghĩa là tàu điện ngầm?",
+        "avg_logprob": -0.0694999228811489
+      },
+      {
+        "start": 14.040000000000001,
+        "end": 16.96,
+        "text": " Từ nào có nghĩa là xe khách đường dài?",
+        "avg_logprob": -0.0694999228811489
+      }
+    ]
+  },
+  {
+    "video": 4,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “xe tắc xi”? Từ nào có nghĩa là “xe buýt hai tầng”? Từ nào có nghĩa là “xe buýt đưa đón học sinh”? Từ nào có nghĩa là “xe buýt điện lấy điện từ dây phía trên”? Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+    "recognized": "Từ nào có nghĩa là xe taxi? Từ nào có nghĩa là xe buýt hai tầng? Từ nào có nghĩa là xe buýt đưa đón học sinh? Từ nào có nghĩa là xe buýt điện lấy điện từ dây phía trên? Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+    "similarity": 0.9907407407407407,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.2800000000000002,
+        "text": " Từ nào có nghĩa là xe taxi?",
+        "avg_logprob": -0.09670091514448517
+      },
+      {
+        "start": 3.22,
+        "end": 5.94,
+        "text": " Từ nào có nghĩa là xe buýt hai tầng?",
+        "avg_logprob": -0.09670091514448517
+      },
+      {
+        "start": 6.8,
+        "end": 9.84,
+        "text": " Từ nào có nghĩa là xe buýt đưa đón học sinh?",
+        "avg_logprob": -0.09670091514448517
+      },
+      {
+        "start": 10.48,
+        "end": 14.64,
+        "text": " Từ nào có nghĩa là xe buýt điện lấy điện từ dây phía trên?",
+        "avg_logprob": -0.09670091514448517
+      },
+      {
+        "start": 15.4,
+        "end": 18.02,
+        "text": " Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+        "avg_logprob": -0.09670091514448517
+      }
+    ]
+  },
+  {
+    "video": 5,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “máy bay”? Từ nào có nghĩa là “trực thăng”? Từ nào có nghĩa là “khinh khí cầu”? Từ nào chỉ máy bay bay nhờ luồng khí mà không dùng động cơ? Từ nào có nghĩa là “thủy phi cơ”?",
+    "recognized": "Từ nào có nghĩa là máy bay? Từ nào có nghĩa là trực thăng? Từ nào có nghĩa là khinh khí cầu? Từ nào chỉ máy bay bay nhờ luồng khí mà không dùng động cơ? Từ nào có nghĩa là thủy phi cơ?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.94,
+        "text": " Từ nào có nghĩa là máy bay?",
+        "avg_logprob": -0.08307888145957674
+      },
+      {
+        "start": 2.72,
+        "end": 4.62,
+        "text": " Từ nào có nghĩa là trực thăng?",
+        "avg_logprob": -0.08307888145957674
+      },
+      {
+        "start": 5.38,
+        "end": 7.72,
+        "text": " Từ nào có nghĩa là khinh khí cầu?",
+        "avg_logprob": -0.08307888145957674
+      },
+      {
+        "start": 8.38,
+        "end": 11.58,
+        "text": " Từ nào chỉ máy bay bay nhờ luồng khí mà không dùng động cơ?",
+        "avg_logprob": -0.08307888145957674
+      },
+      {
+        "start": 12.34,
+        "end": 14.42,
+        "text": " Từ nào có nghĩa là thủy phi cơ?",
+        "avg_logprob": -0.08307888145957674
+      }
+    ]
+  },
+  {
+    "video": 6,
+    "language": "vi",
+    "expected": "Từ nào chỉ phương tiện chở người và xe qua sông? Từ nào chỉ xuồng nhỏ di chuyển nhờ sức người? Từ nào chỉ thuyền di chuyển nhờ sức gió? Từ nào có nghĩa là “tàu ngầm”? Từ nào có nghĩa là “xuồng cao tốc”?",
+    "recognized": "Từ nào chỉ phương tiện chở người và xe qua sông? Từ nào chỉ xuồng nhỏ di chuyển nhờ sức người? Từ nào chỉ thuyền di chuyển nhờ sức gió? Từ nào có nghĩa là tàu ngầm? Từ nào có nghĩa là xuồng cao tốc?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.04,
+        "text": " Từ nào chỉ phương tiện chở người và xe qua sông?",
+        "avg_logprob": -0.08088701619551732
+      },
+      {
+        "start": 3.74,
+        "end": 6.46,
+        "text": " Từ nào chỉ xuồng nhỏ di chuyển nhờ sức người?",
+        "avg_logprob": -0.08088701619551732
+      },
+      {
+        "start": 7.26,
+        "end": 9.9,
+        "text": " Từ nào chỉ thuyền di chuyển nhờ sức gió?",
+        "avg_logprob": -0.08088701619551732
+      },
+      {
+        "start": 10.700000000000001,
+        "end": 12.86,
+        "text": " Từ nào có nghĩa là tàu ngầm?",
+        "avg_logprob": -0.08088701619551732
+      },
+      {
+        "start": 13.52,
+        "end": 15.8,
+        "text": " Từ nào có nghĩa là xuồng cao tốc?",
+        "avg_logprob": -0.08088701619551732
+      }
+    ]
+  },
+  {
+    "video": 9,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “động cơ”? Từ nào có nghĩa là “vô lăng”? Từ nào chỉ bộ phận giúp xe giảm tốc hoặc dừng lại? Từ nào có nghĩa là “bộ ly hợp”? Từ nào có nghĩa là “cần số”?",
+    "recognized": "Từ nào có nghĩa là động cơ? Từ nào có nghĩa là vô lăng? Từ nào chỉ bộ phận giúp xe giảm tốc hoặc dừng lại? Từ nào có nghĩa là bộ ly hợp? Từ nào có nghĩa là cần số?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.98,
+        "text": " Từ nào có nghĩa là động cơ?",
+        "avg_logprob": -0.0739570164386137
+      },
+      {
+        "start": 2.8000000000000003,
+        "end": 4.46,
+        "text": " Từ nào có nghĩa là vô lăng?",
+        "avg_logprob": -0.0739570164386137
+      },
+      {
+        "start": 5.14,
+        "end": 8.040000000000001,
+        "text": " Từ nào chỉ bộ phận giúp xe giảm tốc hoặc dừng lại?",
+        "avg_logprob": -0.0739570164386137
+      },
+      {
+        "start": 8.86,
+        "end": 11.3,
+        "text": " Từ nào có nghĩa là bộ ly hợp?",
+        "avg_logprob": -0.0739570164386137
+      },
+      {
+        "start": 12.0,
+        "end": 14.040000000000001,
+        "text": " Từ nào có nghĩa là cần số?",
+        "avg_logprob": -0.0739570164386137
+      }
+    ]
+  },
+  {
+    "video": 10,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “dây an toàn”? Từ nào có nghĩa là “còi xe”? Từ nào có nghĩa là “gương chiếu hậu bên trong xe”? Từ nào chỉ đồng hồ cho biết xe đang chạy nhanh bao nhiêu? Từ nào chỉ bộ phận chứa xăng hoặc dầu trên xe?",
+    "recognized": "Từ nào có nghĩa là dây an toàn? Từ nào có nghĩa là còi xe? Từ nào có nghĩa là gương chiếu hậu bên trong xe? Từ nào chỉ đồng hồ cho biết xe đang chạy nhanh bao nhiêu? Từ nào chỉ bộ phận chứa xăng hoặc dầu trên xe?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.18,
+        "text": " Từ nào có nghĩa là dây an toàn?",
+        "avg_logprob": -0.07605756171047688
+      },
+      {
+        "start": 2.98,
+        "end": 4.84,
+        "text": " Từ nào có nghĩa là còi xe?",
+        "avg_logprob": -0.07605756171047688
+      },
+      {
+        "start": 5.64,
+        "end": 9.14,
+        "text": " Từ nào có nghĩa là gương chiếu hậu bên trong xe?",
+        "avg_logprob": -0.07605756171047688
+      },
+      {
+        "start": 9.88,
+        "end": 12.82,
+        "text": " Từ nào chỉ đồng hồ cho biết xe đang chạy nhanh bao nhiêu?",
+        "avg_logprob": -0.07605756171047688
+      },
+      {
+        "start": 13.68,
+        "end": 16.64,
+        "text": " Từ nào chỉ bộ phận chứa xăng hoặc dầu trên xe?",
+        "avg_logprob": -0.07605756171047688
+      }
+    ]
+  },
+  {
+    "video": 11,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “nơi các con đường giao nhau”? Từ nào có nghĩa là “vòng xuyến”? Từ nào có nghĩa là “vỉa hè”? Từ nào chỉ phần đường dành cho người đi bộ băng qua? Từ nào có nghĩa là “đèn tín hiệu giao thông”?",
+    "recognized": "Từ nào có nghĩa là nơi các con đường giao nhau? Từ nào có nghĩa là vòng xuyến? Từ nào có nghĩa là vỉa hè? Từ nào chỉ phần đường dành cho người đi bộ băng qua? Từ nào có nghĩa là đèn tín hiệu giao thông?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": " Từ nào có nghĩa là nơi các con đường giao nhau?",
+        "avg_logprob": -0.09495809838012025
+      },
+      {
+        "start": 4.14,
+        "end": 5.78,
+        "text": " Từ nào có nghĩa là vòng xuyến?",
+        "avg_logprob": -0.09495809838012025
+      },
+      {
+        "start": 6.44,
+        "end": 8.700000000000001,
+        "text": " Từ nào có nghĩa là vỉa hè?",
+        "avg_logprob": -0.09495809838012025
+      },
+      {
+        "start": 9.68,
+        "end": 12.52,
+        "text": " Từ nào chỉ phần đường dành cho người đi bộ băng qua?",
+        "avg_logprob": -0.09495809838012025
+      },
+      {
+        "start": 13.38,
+        "end": 16.18,
+        "text": " Từ nào có nghĩa là đèn tín hiệu giao thông?",
+        "avg_logprob": -0.09495809838012025
+      }
+    ]
+  },
+  {
+    "video": 12,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “biển báo giao thông”? Từ nào chỉ phần đường được chia cho xe chạy theo hàng? Từ nào có nghĩa là “đường hầm”? Từ nào chỉ công trình nối hai bờ sông để xe đi qua? Từ nào có nghĩa là “gờ giảm tốc”?",
+    "recognized": "Từ nào có nghĩa là biển báo giao thông? Từ nào chỉ phần đường được chia cho xe chạy theo hàng? Từ nào có nghĩa là đường hầm? Từ nào chỉ công trình nối hai bờ sông để xe đi qua? Từ nào có nghĩa là gờ giảm tốc?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.7600000000000002,
+        "text": " Từ nào có nghĩa là biển báo giao thông?",
+        "avg_logprob": -0.07505508805526064
+      },
+      {
+        "start": 3.62,
+        "end": 6.48,
+        "text": " Từ nào chỉ phần đường được chia cho xe chạy theo hàng?",
+        "avg_logprob": -0.07505508805526064
+      },
+      {
+        "start": 7.3,
+        "end": 9.0,
+        "text": " Từ nào có nghĩa là đường hầm?",
+        "avg_logprob": -0.07505508805526064
+      },
+      {
+        "start": 9.8,
+        "end": 13.26,
+        "text": " Từ nào chỉ công trình nối hai bờ sông để xe đi qua?",
+        "avg_logprob": -0.07505508805526064
+      },
+      {
+        "start": 13.92,
+        "end": 16.36,
+        "text": " Từ nào có nghĩa là gờ giảm tốc?",
+        "avg_logprob": -0.07505508805526064
+      }
+    ]
+  },
+  {
+    "video": 13,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “người lái ô tô”? Từ nào có nghĩa là “hành khách”? Từ nào có nghĩa là “người đi bộ”? Từ nào có nghĩa là “người đi xe đạp”? Từ nào có nghĩa là “người đi xe máy”?",
+    "recognized": "Từ nào có nghĩa là người lái ô tô? Từ nào có nghĩa là hành khách? Từ nào có nghĩa là người đi bộ? Từ nào có nghĩa là người đi xe đạp? Từ nào có nghĩa là người đi xe máy?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.9,
+        "text": " Từ nào có nghĩa là người lái ô tô?",
+        "avg_logprob": -0.10060168899498977
+      },
+      {
+        "start": 3.72,
+        "end": 5.58,
+        "text": " Từ nào có nghĩa là hành khách?",
+        "avg_logprob": -0.10060168899498977
+      },
+      {
+        "start": 6.32,
+        "end": 8.56,
+        "text": " Từ nào có nghĩa là người đi bộ?",
+        "avg_logprob": -0.10060168899498977
+      },
+      {
+        "start": 9.34,
+        "end": 11.58,
+        "text": " Từ nào có nghĩa là người đi xe đạp?",
+        "avg_logprob": -0.10060168899498977
+      },
+      {
+        "start": 12.26,
+        "end": 14.3,
+        "text": " Từ nào có nghĩa là người đi xe máy?",
+        "avg_logprob": -0.10060168899498977
+      }
+    ]
+  },
+  {
+    "video": 14,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “phi công”? Từ nào chỉ người phục vụ hành khách trên máy bay? Từ nào có nghĩa là “thợ sửa xe”? Từ nào có nghĩa là “cảnh sát giao thông”? Từ nào có nghĩa là “thuyền trưởng”?",
+    "recognized": "Từ nào có nghĩa là phi công? Từ nào chỉ người phục vụ hành khách trên máy bay? Từ nào có nghĩa là thợ sửa xe? Từ nào có nghĩa là cảnh sát giao thông? Từ nào có nghĩa là thuyền trưởng?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.04,
+        "text": " Từ nào có nghĩa là phi công?",
+        "avg_logprob": -0.09330852670841906
+      },
+      {
+        "start": 2.88,
+        "end": 5.1000000000000005,
+        "text": " Từ nào chỉ người phục vụ hành khách trên máy bay?",
+        "avg_logprob": -0.09330852670841906
+      },
+      {
+        "start": 5.82,
+        "end": 7.96,
+        "text": " Từ nào có nghĩa là thợ sửa xe?",
+        "avg_logprob": -0.09330852670841906
+      },
+      {
+        "start": 8.74,
+        "end": 10.620000000000001,
+        "text": " Từ nào có nghĩa là cảnh sát giao thông?",
+        "avg_logprob": -0.09330852670841906
+      },
+      {
+        "start": 11.38,
+        "end": 13.1,
+        "text": " Từ nào có nghĩa là thuyền trưởng?",
+        "avg_logprob": -0.09330852670841906
+      }
+    ]
+  },
+  {
+    "video": 15,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “tăng tốc”? Từ nào có nghĩa là “giảm tốc”? Từ nào chỉ việc đưa xe vào vị trí để xe đứng yên? Từ nào có nghĩa là “vượt xe phía trước”? Từ nào có nghĩa là “lùi xe”?",
+    "recognized": "Từ nào có nghĩa là tăng tốc? Từ nào có nghĩa là giảm tốc? Từ nào chỉ việc đưa xe vào vị trí để xe đứng yên? Từ nào có nghĩa là vượt xe phía trước? Từ nào có nghĩa là lùi xe?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.7,
+        "text": " Từ nào có nghĩa là tăng tốc?",
+        "avg_logprob": -0.09657879901486774
+      },
+      {
+        "start": 2.38,
+        "end": 4.16,
+        "text": " Từ nào có nghĩa là giảm tốc?",
+        "avg_logprob": -0.09657879901486774
+      },
+      {
+        "start": 4.86,
+        "end": 7.78,
+        "text": " Từ nào chỉ việc đưa xe vào vị trí để xe đứng yên?",
+        "avg_logprob": -0.09657879901486774
+      },
+      {
+        "start": 8.6,
+        "end": 10.92,
+        "text": " Từ nào có nghĩa là vượt xe phía trước?",
+        "avg_logprob": -0.09657879901486774
+      },
+      {
+        "start": 11.68,
+        "end": 13.38,
+        "text": " Từ nào có nghĩa là lùi xe?",
+        "avg_logprob": -0.09657879901486774
+      }
+    ]
+  },
+  {
+    "video": 16,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “tiếp nhiên liệu”? Từ nào chỉ việc tạo tiếng kêu để báo hiệu cho xe khác? Từ nào có nghĩa là “điều khiển hướng xe”? Từ nào có nghĩa là “thắt chặt dây an toàn”? Từ nào có nghĩa là “tháo dây an toàn”?",
+    "recognized": "Từ nào có nghĩa là tiếp nhiên liệu? Từ nào chỉ việc tạo tiếng kêu để báo hiệu cho xe khác? Từ nào có nghĩa là điều khiển hướng xe? Từ nào có nghĩa là thắt chặt dây an toàn? Từ nào có nghĩa là tháo dây an toàn?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.24,
+        "text": " Từ nào có nghĩa là tiếp nhiên liệu?",
+        "avg_logprob": -0.08167336640819427
+      },
+      {
+        "start": 3.0,
+        "end": 6.16,
+        "text": " Từ nào chỉ việc tạo tiếng kêu để báo hiệu cho xe khác?",
+        "avg_logprob": -0.08167336640819427
+      },
+      {
+        "start": 6.82,
+        "end": 9.78,
+        "text": " Từ nào có nghĩa là điều khiển hướng xe?",
+        "avg_logprob": -0.08167336640819427
+      },
+      {
+        "start": 10.56,
+        "end": 13.52,
+        "text": " Từ nào có nghĩa là thắt chặt dây an toàn?",
+        "avg_logprob": -0.08167336640819427
+      },
+      {
+        "start": 14.34,
+        "end": 16.94,
+        "text": " Từ nào có nghĩa là tháo dây an toàn?",
+        "avg_logprob": -0.08167336640819427
+      }
+    ]
+  },
+  {
+    "video": 17,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “vé đi xe”? Từ nào có nghĩa là “tiền cước đi xe”? Từ nào có nghĩa là “tuyến đường”? Từ nào có nghĩa là “lịch chạy xe”? Từ nào có nghĩa là “điểm dừng xe buýt”?",
+    "recognized": "Từ nào có nghĩa là vé đi xe? Từ nào có nghĩa là tiền cước đi xe? Từ nào có nghĩa là tuyến đường? Từ nào có nghĩa là lịch chạy xe? Từ nào có nghĩa là điểm dừng xe buýt?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": " Từ nào có nghĩa là vé đi xe?",
+        "avg_logprob": -0.0901004628962781
+      },
+      {
+        "start": 3.16,
+        "end": 5.8,
+        "text": " Từ nào có nghĩa là tiền cước đi xe?",
+        "avg_logprob": -0.0901004628962781
+      },
+      {
+        "start": 6.640000000000001,
+        "end": 8.540000000000001,
+        "text": " Từ nào có nghĩa là tuyến đường?",
+        "avg_logprob": -0.0901004628962781
+      },
+      {
+        "start": 9.4,
+        "end": 11.22,
+        "text": " Từ nào có nghĩa là lịch chạy xe?",
+        "avg_logprob": -0.0901004628962781
+      },
+      {
+        "start": 12.02,
+        "end": 14.4,
+        "text": " Từ nào có nghĩa là điểm dừng xe buýt?",
+        "avg_logprob": -0.0901004628962781
+      }
+    ]
+  },
+  {
+    "video": 19,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “nhanh”? Từ nào có nghĩa là “chậm”? Từ nào có nghĩa là “an toàn”? Từ nào có nghĩa là “nguy hiểm”? Từ nào có nghĩa là “đông người”?",
+    "recognized": "Từ nào có nghĩa là nhanh? Từ nào có nghĩa là chậm? Từ nào có nghĩa là an toàn? Từ nào có nghĩa là nguy hiểm? Từ nào có nghĩa là đông người?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.74,
+        "text": " Từ nào có nghĩa là nhanh?",
+        "avg_logprob": -0.11874996748433184
+      },
+      {
+        "start": 2.38,
+        "end": 3.84,
+        "text": " Từ nào có nghĩa là chậm?",
+        "avg_logprob": -0.11874996748433184
+      },
+      {
+        "start": 4.62,
+        "end": 6.7,
+        "text": " Từ nào có nghĩa là an toàn?",
+        "avg_logprob": -0.11874996748433184
+      },
+      {
+        "start": 7.4,
+        "end": 9.22,
+        "text": " Từ nào có nghĩa là nguy hiểm?",
+        "avg_logprob": -0.11874996748433184
+      },
+      {
+        "start": 10.0,
+        "end": 12.32,
+        "text": " Từ nào có nghĩa là đông người?",
+        "avg_logprob": -0.11874996748433184
+      }
+    ]
+  },
+  {
+    "video": 20,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “không có người bên trong”? Từ nào có nghĩa là “thoải mái”? Từ nào có nghĩa là “không thoải mái”? Từ nào có nghĩa là “đúng giờ”? Từ nào có nghĩa là “bị chậm trễ”?",
+    "recognized": "Từ nào có nghĩa là không có người bên trong? Từ nào có nghĩa là thoải mái? Từ nào có nghĩa là không thoải mái? Từ nào có nghĩa là đúng giờ? Từ nào có nghĩa là bị chậm trễ?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.9,
+        "text": " Từ nào có nghĩa là không có người bên trong?",
+        "avg_logprob": -0.07940060000967335
+      },
+      {
+        "start": 3.56,
+        "end": 5.44,
+        "text": " Từ nào có nghĩa là thoải mái?",
+        "avg_logprob": -0.07940060000967335
+      },
+      {
+        "start": 6.24,
+        "end": 8.2,
+        "text": " Từ nào có nghĩa là không thoải mái?",
+        "avg_logprob": -0.07940060000967335
+      },
+      {
+        "start": 8.8,
+        "end": 10.66,
+        "text": " Từ nào có nghĩa là đúng giờ?",
+        "avg_logprob": -0.07940060000967335
+      },
+      {
+        "start": 11.74,
+        "end": 13.6,
+        "text": " Từ nào có nghĩa là bị chậm trễ?",
+        "avg_logprob": -0.07940060000967335
+      }
+    ]
+  },
+  {
+    "video": 1,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “ô tô con”? Từ nào có nghĩa là “xe máy”? Từ nào có nghĩa là “xe đạp”? Từ nào có nghĩa là “xe tải”? Từ nào chỉ xe tải nhỏ chuyên chở hàng?",
+    "recognized": "Từ nào có nghĩa là ô tô con? Từ nào có nghĩa là xe máy? Từ nào có nghĩa là xe đạp? Từ nào có nghĩa là xe tải? Từ nào chỉ xe tải nhỏ chuyên chở hàng?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.14,
+        "text": " Từ nào có nghĩa là ô tô con?",
+        "avg_logprob": -0.10249051094055175
+      },
+      {
+        "start": 3.02,
+        "end": 4.8,
+        "text": " Từ nào có nghĩa là xe máy?",
+        "avg_logprob": -0.10249051094055175
+      },
+      {
+        "start": 5.5600000000000005,
+        "end": 7.68,
+        "text": " Từ nào có nghĩa là xe đạp?",
+        "avg_logprob": -0.10249051094055175
+      },
+      {
+        "start": 8.34,
+        "end": 10.38,
+        "text": " Từ nào có nghĩa là xe tải?",
+        "avg_logprob": -0.10249051094055175
+      },
+      {
+        "start": 11.200000000000001,
+        "end": 13.540000000000001,
+        "text": " Từ nào chỉ xe tải nhỏ chuyên chở hàng?",
+        "avg_logprob": -0.10249051094055175
+      }
+    ]
+  },
+  {
+    "video": 7,
+    "language": "vi",
+    "expected": "Từ nào chỉ bộ phận hình tròn nằm dưới gầm xe? Từ nào có nghĩa là “lốp xe”? Từ nào có nghĩa là “cửa xe”? Từ nào chỉ tấm kính ở ngay phía trước người lái? Từ nào có nghĩa là “đèn pha phía trước”?",
+    "recognized": "Từ nào chỉ bộ phần hình tròn nằm dưới gầm xe? Từ nào có nghĩa là lốp xe? Từ nào có nghĩa là cửa xe? Từ nào chỉ tấm kính ở ngay phía trước người lái? Từ nào có nghĩa là đèn pha phía trước?",
+    "similarity": 0.9945054945054945,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.72,
+        "text": " Từ nào chỉ bộ phần hình tròn nằm dưới gầm xe?",
+        "avg_logprob": -0.08746534413412997
+      },
+      {
+        "start": 3.56,
+        "end": 5.36,
+        "text": " Từ nào có nghĩa là lốp xe?",
+        "avg_logprob": -0.08746534413412997
+      },
+      {
+        "start": 6.1000000000000005,
+        "end": 8.18,
+        "text": " Từ nào có nghĩa là cửa xe?",
+        "avg_logprob": -0.08746534413412997
+      },
+      {
+        "start": 8.92,
+        "end": 11.4,
+        "text": " Từ nào chỉ tấm kính ở ngay phía trước người lái?",
+        "avg_logprob": -0.08746534413412997
+      },
+      {
+        "start": 12.1,
+        "end": 14.700000000000001,
+        "text": " Từ nào có nghĩa là đèn pha phía trước?",
+        "avg_logprob": -0.08746534413412997
+      }
+    ]
+  },
+  {
+    "video": 8,
+    "language": "vi",
+    "expected": "Từ nào có nghĩa là “đèn hậu”? Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chạm? Từ nào có nghĩa là “nắp khoang động cơ”? Từ nào có nghĩa là “cốp hành lý phía sau”? Từ nào có nghĩa là “biển số xe”?",
+    "recognized": "Từ nào có nghĩa là đèn hậu? Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chảm? Từ nào có nghĩa là nắp khoang động cơ? Từ nào có nghĩa là cốp hành lý phía sau? Từ nào có nghĩa là biển số xe?",
+    "similarity": 0.9947089947089947,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.74,
+        "text": " Từ nào có nghĩa là đèn hậu?",
+        "avg_logprob": -0.08411531350047317
+      },
+      {
+        "start": 2.54,
+        "end": 6.0600000000000005,
+        "text": " Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chảm?",
+        "avg_logprob": -0.08411531350047317
+      },
+      {
+        "start": 6.86,
+        "end": 9.34,
+        "text": " Từ nào có nghĩa là nắp khoang động cơ?",
+        "avg_logprob": -0.08411531350047317
+      },
+      {
+        "start": 10.14,
+        "end": 12.780000000000001,
+        "text": " Từ nào có nghĩa là cốp hành lý phía sau?",
+        "avg_logprob": -0.08411531350047317
+      },
+      {
+        "start": 13.48,
+        "end": 15.76,
+        "text": " Từ nào có nghĩa là biển số xe?",
+        "avg_logprob": -0.08411531350047317
+      }
+    ]
+  },
+  {
+    "video": 18,
+    "language": "vi",
+    "expected": "Từ nào chỉ nơi hành khách lên xuống các đoàn tàu? Từ nào có nghĩa là “sân bay”? Từ nào chỉ khu vực dành riêng cho việc để xe? Từ nào có nghĩa là “trạm bán xăng”? Từ nào có nghĩa là “tiệm sửa xe”?",
+    "recognized": "Từ nào chỉ nơi hẳn khắp lên xuống các đoàn tàu? Từ nào có nghĩa là sân bay? Từ nào chỉ khu vực dành riêng cho việc để xe? Từ nào có nghĩa là trạm bán xăng? Từ nào có nghĩa là tiệm sửa xe?",
+    "similarity": 0.9781420765027322,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.7600000000000002,
+        "text": " Từ nào chỉ nơi hẳn khắp lên xuống các đoàn tàu?",
+        "avg_logprob": -0.09245550764414172
+      },
+      {
+        "start": 3.58,
+        "end": 5.2,
+        "text": " Từ nào có nghĩa là sân bay?",
+        "avg_logprob": -0.09245550764414172
+      },
+      {
+        "start": 5.96,
+        "end": 8.4,
+        "text": " Từ nào chỉ khu vực dành riêng cho việc để xe?",
+        "avg_logprob": -0.09245550764414172
+      },
+      {
+        "start": 9.16,
+        "end": 11.1,
+        "text": " Từ nào có nghĩa là trạm bán xăng?",
+        "avg_logprob": -0.09245550764414172
+      },
+      {
+        "start": 11.94,
+        "end": 13.94,
+        "text": " Từ nào có nghĩa là tiệm sửa xe?",
+        "avg_logprob": -0.09245550764414172
+      }
+    ]
+  }
+]

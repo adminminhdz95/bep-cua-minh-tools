@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 05",
+  "topic": "Đường thủy và hàng không",
+  "part": 1,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2.3333333333333335,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "airplane",
+      "meaning": "máy bay",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “máy bay”?",
+      "narration": "Từ nào có nghĩa là “máy bay”?",
+      "distractors": [
+        {
+          "word": "ferry",
+          "meaning": "phà",
+          "pos": "noun"
+        },
+        {
+          "word": "sailboat",
+          "meaning": "thuyền buồm",
+          "pos": "noun"
+        },
+        {
+          "word": "submarine",
+          "meaning": "tàu ngầm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "helicopter",
+      "meaning": "trực thăng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “trực thăng”?",
+      "narration": "Từ nào có nghĩa là “trực thăng”?",
+      "distractors": [
+        {
+          "word": "glider",
+          "meaning": "máy bay lượn không động cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "ferry",
+          "meaning": "phà",
+          "pos": "noun"
+        },
+        {
+          "word": "sailboat",
+          "meaning": "thuyền buồm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hot-air balloon",
+      "meaning": "khinh khí cầu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “khinh khí cầu”?",
+      "narration": "Từ nào có nghĩa là “khinh khí cầu”?",
+      "distractors": [
+        {
+          "word": "seaplane",
+          "meaning": "thủy phi cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "canoe",
+          "meaning": "xuồng nhỏ chèo bằng mái chèo rời",
+          "pos": "noun"
+        },
+        {
+          "word": "submarine",
+          "meaning": "tàu ngầm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "glider",
+      "meaning": "máy bay lượn không động cơ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ máy bay bay nhờ luồng khí mà không dùng động cơ?",
+      "narration": "Từ nào chỉ máy bay bay nhờ luồng khí mà không dùng động cơ?",
+      "distractors": [
+        {
+          "word": "ferry",
+          "meaning": "phà",
+          "pos": "noun"
+        },
+        {
+          "word": "sailboat",
+          "meaning": "thuyền buồm",
+          "pos": "noun"
+        },
+        {
+          "word": "speedboat",
+          "meaning": "xuồng cao tốc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "seaplane",
+      "meaning": "thủy phi cơ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thủy phi cơ”?",
+      "narration": "Từ nào có nghĩa là “thủy phi cơ”?",
+      "distractors": [
+        {
+          "word": "canoe",
+          "meaning": "xuồng nhỏ chèo bằng mái chèo rời",
+          "pos": "noun"
+        },
+        {
+          "word": "submarine",
+          "meaning": "tàu ngầm",
+          "pos": "noun"
+        },
+        {
+          "word": "airplane",
+          "meaning": "máy bay",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

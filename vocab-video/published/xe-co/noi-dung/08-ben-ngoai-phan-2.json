@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 08",
+  "topic": "Bộ phận bên ngoài xe",
+  "part": 2,
+  "think_seconds": 7.966666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "taillight",
+      "meaning": "đèn hậu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đèn hậu”?",
+      "narration": "Từ nào có nghĩa là “đèn hậu”?",
+      "distractors": [
+        {
+          "word": "hood",
+          "meaning": "nắp khoang động cơ",
+          "pos": "noun"
+        },
+        {
+          "word": "license plate",
+          "meaning": "biển số xe",
+          "pos": "noun"
+        },
+        {
+          "word": "tire",
+          "meaning": "lốp xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bumper",
+      "meaning": "cản xe",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chạm?",
+      "narration": "Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chạm?",
+      "distractors": [
+        {
+          "word": "trunk",
+          "meaning": "cốp hành lý phía sau",
+          "pos": "noun"
+        },
+        {
+          "word": "wheel",
+          "meaning": "bánh xe",
+          "pos": "noun"
+        },
+        {
+          "word": "door",
+          "meaning": "cửa xe",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hood",
+      "meaning": "nắp khoang động cơ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nắp khoang động cơ”?",
+      "narration": "Từ nào có nghĩa là “nắp khoang động cơ”?",
+      "distractors": [
+        {
+          "word": "license plate",
+          "meaning": "biển số xe",
+          "pos": "noun"
+        },
+        {
+          "word": "tire",
+          "meaning": "lốp xe",
+          "pos": "noun"
+        },
+        {
+          "word": "windshield",
+          "meaning": "kính chắn gió phía trước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "trunk",
+      "meaning": "cốp hành lý phía sau",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cốp hành lý phía sau”?",
+      "narration": "Từ nào có nghĩa là “cốp hành lý phía sau”?",
+      "distractors": [
+        {
+          "word": "wheel",
+          "meaning": "bánh xe",
+          "pos": "noun"
+        },
+        {
+          "word": "door",
+          "meaning": "cửa xe",
+          "pos": "noun"
+        },
+        {
+          "word": "headlight",
+          "meaning": "đèn pha phía trước",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "license plate",
+      "meaning": "biển số xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “biển số xe”?",
+      "narration": "Từ nào có nghĩa là “biển số xe”?",
+      "distractors": [
+        {
+          "word": "tire",
+          "meaning": "lốp xe",
+          "pos": "noun"
+        },
+        {
+          "word": "windshield",
+          "meaning": "kính chắn gió phía trước",
+          "pos": "noun"
+        },
+        {
+          "word": "taillight",
+          "meaning": "đèn hậu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 14",
+  "topic": "Người tham gia giao thông",
+  "part": 2,
+  "think_seconds": 6.566666666666666,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pilot",
+      "meaning": "phi công",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phi công”?",
+      "narration": "Từ nào có nghĩa là “phi công”?",
+      "distractors": [
+        {
+          "word": "mechanic",
+          "meaning": "thợ sửa xe",
+          "pos": "noun"
+        },
+        {
+          "word": "ship captain",
+          "meaning": "thuyền trưởng",
+          "pos": "noun"
+        },
+        {
+          "word": "passenger",
+          "meaning": "hành khách",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "flight attendant",
+      "meaning": "tiếp viên hàng không",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ người phục vụ hành khách trên máy bay?",
+      "narration": "Từ nào chỉ người phục vụ hành khách trên máy bay?",
+      "distractors": [
+        {
+          "word": "traffic officer",
+          "meaning": "cảnh sát giao thông",
+          "pos": "noun"
+        },
+        {
+          "word": "driver",
+          "meaning": "người lái ô tô",
+          "pos": "noun"
+        },
+        {
+          "word": "pedestrian",
+          "meaning": "người đi bộ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "thợ sửa xe",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thợ sửa xe”?",
+      "narration": "Từ nào có nghĩa là “thợ sửa xe”?",
+      "distractors": [
+        {
+          "word": "ship captain",
+          "meaning": "thuyền trưởng",
+          "pos": "noun"
+        },
+        {
+          "word": "passenger",
+          "meaning": "hành khách",
+          "pos": "noun"
+        },
+        {
+          "word": "cyclist",
+          "meaning": "người đi xe đạp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "traffic officer",
+      "meaning": "cảnh sát giao thông",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cảnh sát giao thông”?",
+      "narration": "Từ nào có nghĩa là “cảnh sát giao thông”?",
+      "distractors": [
+        {
+          "word": "driver",
+          "meaning": "người lái ô tô",
+          "pos": "noun"
+        },
+        {
+          "word": "pedestrian",
+          "meaning": "người đi bộ",
+          "pos": "noun"
+        },
+        {
+          "word": "motorcyclist",
+          "meaning": "người đi xe máy",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ship captain",
+      "meaning": "thuyền trưởng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thuyền trưởng”?",
+      "narration": "Từ nào có nghĩa là “thuyền trưởng”?",
+      "distractors": [
+        {
+          "word": "passenger",
+          "meaning": "hành khách",
+          "pos": "noun"
+        },
+        {
+          "word": "cyclist",
+          "meaning": "người đi xe đạp",
+          "pos": "noun"
+        },
+        {
+          "word": "pilot",
+          "meaning": "phi công",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

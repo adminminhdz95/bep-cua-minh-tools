@@ -14,3 +14,4 @@
 - [100 từ gia đình — 20 video, đọc trọn câu hỏi](vocab-video/published/gia-dinh/README.md)
 - [100 từ động vật — 20 video, đọc trọn câu hỏi](vocab-video/published/dong-vat/README.md)
 - [100 từ trường học — 20 video, đọc trọn câu hỏi](vocab-video/published/truong-hoc/README.md)
+- [100 từ xe cộ — 20 video, đọc trọn câu hỏi](vocab-video/published/xe-co/README.md)

@@ -1,0 +1,131 @@
+{
+  "title": "XE CỘ 16",
+  "topic": "Hoạt động với xe",
+  "part": 2,
+  "think_seconds": 7.5,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "refuel",
+      "meaning": "tiếp nhiên liệu",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “tiếp nhiên liệu”?",
+      "narration": "Từ nào có nghĩa là “tiếp nhiên liệu”?",
+      "distractors": [
+        {
+          "word": "steer",
+          "meaning": "điều khiển hướng xe",
+          "pos": "verb"
+        },
+        {
+          "word": "unfasten",
+          "meaning": "tháo dây an toàn",
+          "pos": "verb"
+        },
+        {
+          "word": "decelerate",
+          "meaning": "giảm tốc",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "honk",
+      "meaning": "bấm còi",
+      "pos": "verb",
+      "prompt": "Từ nào chỉ việc tạo tiếng kêu để báo hiệu cho xe khác?",
+      "narration": "Từ nào chỉ việc tạo tiếng kêu để báo hiệu cho xe khác?",
+      "distractors": [
+        {
+          "word": "fasten",
+          "meaning": "thắt chặt dây an toàn",
+          "pos": "verb"
+        },
+        {
+          "word": "accelerate",
+          "meaning": "tăng tốc",
+          "pos": "verb"
+        },
+        {
+          "word": "park",
+          "meaning": "đỗ xe",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "steer",
+      "meaning": "điều khiển hướng xe",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “điều khiển hướng xe”?",
+      "narration": "Từ nào có nghĩa là “điều khiển hướng xe”?",
+      "distractors": [
+        {
+          "word": "unfasten",
+          "meaning": "tháo dây an toàn",
+          "pos": "verb"
+        },
+        {
+          "word": "decelerate",
+          "meaning": "giảm tốc",
+          "pos": "verb"
+        },
+        {
+          "word": "overtake",
+          "meaning": "vượt xe phía trước",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "fasten",
+      "meaning": "thắt chặt dây an toàn",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “thắt chặt dây an toàn”?",
+      "narration": "Từ nào có nghĩa là “thắt chặt dây an toàn”?",
+      "distractors": [
+        {
+          "word": "accelerate",
+          "meaning": "tăng tốc",
+          "pos": "verb"
+        },
+        {
+          "word": "park",
+          "meaning": "đỗ xe",
+          "pos": "verb"
+        },
+        {
+          "word": "reverse",
+          "meaning": "lùi xe",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "unfasten",
+      "meaning": "tháo dây an toàn",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “tháo dây an toàn”?",
+      "narration": "Từ nào có nghĩa là “tháo dây an toàn”?",
+      "distractors": [
+        {
+          "word": "decelerate",
+          "meaning": "giảm tốc",
+          "pos": "verb"
+        },
+        {
+          "word": "overtake",
+          "meaning": "vượt xe phía trước",
+          "pos": "verb"
+        },
+        {
+          "word": "refuel",
+          "meaning": "tiếp nhiên liệu",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

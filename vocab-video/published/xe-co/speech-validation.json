@@ -1,0 +1,231 @@
+{
+  "status": "automated_review_with_remaining_vietnamese_uncertainties",
+  "videos": 20,
+  "vietnamese_questions": 100,
+  "english_answers": 100,
+  "vietnamese_exact_video_transcripts": 16,
+  "english_matching_video_transcripts_ignoring_spacing_hyphens": 19,
+  "english_additional_check": [
+    {
+      "video": 16,
+      "language": "en",
+      "expected": "refuel honk steer fasten unfasten",
+      "recognized": "Refuel. Honk. Steer. Fasten. Unfasten.",
+      "similarity": 1.0,
+      "exact": true,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.28,
+          "text": " Refuel. Honk. Steer. Fasten. Unfasten.",
+          "avg_logprob": -0.208351897696654
+        }
+      ]
+    }
+  ],
+  "vietnamese_differences": [
+    {
+      "video": 4,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “xe tắc xi”? Từ nào có nghĩa là “xe buýt hai tầng”? Từ nào có nghĩa là “xe buýt đưa đón học sinh”? Từ nào có nghĩa là “xe buýt điện lấy điện từ dây phía trên”? Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+      "recognized": "Từ nào có nghĩa là xe taxi? Từ nào có nghĩa là xe buýt hai tầng? Từ nào có nghĩa là xe buýt đưa đón học sinh? Từ nào có nghĩa là xe buýt điện lấy điện từ dây phía trên? Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+      "similarity": 0.9907407407407407,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.2800000000000002,
+          "text": " Từ nào có nghĩa là xe taxi?",
+          "avg_logprob": -0.09670091514448517
+        },
+        {
+          "start": 3.22,
+          "end": 5.94,
+          "text": " Từ nào có nghĩa là xe buýt hai tầng?",
+          "avg_logprob": -0.09670091514448517
+        },
+        {
+          "start": 6.8,
+          "end": 9.84,
+          "text": " Từ nào có nghĩa là xe buýt đưa đón học sinh?",
+          "avg_logprob": -0.09670091514448517
+        },
+        {
+          "start": 10.48,
+          "end": 14.64,
+          "text": " Từ nào có nghĩa là xe buýt điện lấy điện từ dây phía trên?",
+          "avg_logprob": -0.09670091514448517
+        },
+        {
+          "start": 15.4,
+          "end": 18.02,
+          "text": " Từ nào chỉ phương tiện chở người treo trên dây cáp?",
+          "avg_logprob": -0.09670091514448517
+        }
+      ]
+    },
+    {
+      "video": 7,
+      "language": "vi",
+      "expected": "Từ nào chỉ bộ phận hình tròn nằm dưới gầm xe? Từ nào có nghĩa là “lốp xe”? Từ nào có nghĩa là “cửa xe”? Từ nào chỉ tấm kính ở ngay phía trước người lái? Từ nào có nghĩa là “đèn pha phía trước”?",
+      "recognized": "Từ nào chỉ bộ phần hình tròn nằm dưới gầm xe? Từ nào có nghĩa là lốp xe? Từ nào có nghĩa là cửa xe? Từ nào chỉ tấm kính ở ngay phía trước người lái? Từ nào có nghĩa là đèn pha phía trước?",
+      "similarity": 0.9945054945054945,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.72,
+          "text": " Từ nào chỉ bộ phần hình tròn nằm dưới gầm xe?",
+          "avg_logprob": -0.08746534413412997
+        },
+        {
+          "start": 3.56,
+          "end": 5.36,
+          "text": " Từ nào có nghĩa là lốp xe?",
+          "avg_logprob": -0.08746534413412997
+        },
+        {
+          "start": 6.1000000000000005,
+          "end": 8.18,
+          "text": " Từ nào có nghĩa là cửa xe?",
+          "avg_logprob": -0.08746534413412997
+        },
+        {
+          "start": 8.92,
+          "end": 11.4,
+          "text": " Từ nào chỉ tấm kính ở ngay phía trước người lái?",
+          "avg_logprob": -0.08746534413412997
+        },
+        {
+          "start": 12.1,
+          "end": 14.700000000000001,
+          "text": " Từ nào có nghĩa là đèn pha phía trước?",
+          "avg_logprob": -0.08746534413412997
+        }
+      ]
+    },
+    {
+      "video": 8,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “đèn hậu”? Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chạm? Từ nào có nghĩa là “nắp khoang động cơ”? Từ nào có nghĩa là “cốp hành lý phía sau”? Từ nào có nghĩa là “biển số xe”?",
+      "recognized": "Từ nào có nghĩa là đèn hậu? Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chảm? Từ nào có nghĩa là nắp khoang động cơ? Từ nào có nghĩa là cốp hành lý phía sau? Từ nào có nghĩa là biển số xe?",
+      "similarity": 0.9947089947089947,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.74,
+          "text": " Từ nào có nghĩa là đèn hậu?",
+          "avg_logprob": -0.08411531350047317
+        },
+        {
+          "start": 2.54,
+          "end": 6.0600000000000005,
+          "text": " Từ nào chỉ bộ phận bảo vệ đầu hoặc đuôi xe khi va chảm?",
+          "avg_logprob": -0.08411531350047317
+        },
+        {
+          "start": 6.86,
+          "end": 9.34,
+          "text": " Từ nào có nghĩa là nắp khoang động cơ?",
+          "avg_logprob": -0.08411531350047317
+        },
+        {
+          "start": 10.14,
+          "end": 12.780000000000001,
+          "text": " Từ nào có nghĩa là cốp hành lý phía sau?",
+          "avg_logprob": -0.08411531350047317
+        },
+        {
+          "start": 13.48,
+          "end": 15.76,
+          "text": " Từ nào có nghĩa là biển số xe?",
+          "avg_logprob": -0.08411531350047317
+        }
+      ]
+    },
+    {
+      "video": 18,
+      "language": "vi",
+      "expected": "Từ nào chỉ nơi hành khách lên xuống các đoàn tàu? Từ nào có nghĩa là “sân bay”? Từ nào chỉ khu vực dành riêng cho việc để xe? Từ nào có nghĩa là “trạm bán xăng”? Từ nào có nghĩa là “tiệm sửa xe”?",
+      "recognized": "Từ nào chỉ nơi hẳn khắp lên xuống các đoàn tàu? Từ nào có nghĩa là sân bay? Từ nào chỉ khu vực dành riêng cho việc để xe? Từ nào có nghĩa là trạm bán xăng? Từ nào có nghĩa là tiệm sửa xe?",
+      "similarity": 0.9781420765027322,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.7600000000000002,
+          "text": " Từ nào chỉ nơi hẳn khắp lên xuống các đoàn tàu?",
+          "avg_logprob": -0.09245550764414172
+        },
+        {
+          "start": 3.58,
+          "end": 5.2,
+          "text": " Từ nào có nghĩa là sân bay?",
+          "avg_logprob": -0.09245550764414172
+        },
+        {
+          "start": 5.96,
+          "end": 8.4,
+          "text": " Từ nào chỉ khu vực dành riêng cho việc để xe?",
+          "avg_logprob": -0.09245550764414172
+        },
+        {
+          "start": 9.16,
+          "end": 11.1,
+          "text": " Từ nào có nghĩa là trạm bán xăng?",
+          "avg_logprob": -0.09245550764414172
+        },
+        {
+          "start": 11.94,
+          "end": 13.94,
+          "text": " Từ nào có nghĩa là tiệm sửa xe?",
+          "avg_logprob": -0.09245550764414172
+        }
+      ]
+    }
+  ],
+  "english_differences": [
+    {
+      "video": 16,
+      "language": "en",
+      "expected": "refuel honk steer fasten unfasten",
+      "recognized": "Refuel Honk Steer Fasten Unfassen",
+      "similarity": 0.9696969696969697,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.84,
+          "text": " Refuel",
+          "avg_logprob": -0.46212167966933476
+        },
+        {
+          "start": 1.84,
+          "end": 3.7600000000000002,
+          "text": " Honk",
+          "avg_logprob": -0.46212167966933476
+        },
+        {
+          "start": 3.7600000000000002,
+          "end": 5.32,
+          "text": " Steer",
+          "avg_logprob": -0.46212167966933476
+        },
+        {
+          "start": 5.32,
+          "end": 6.48,
+          "text": " Fasten",
+          "avg_logprob": -0.46212167966933476
+        },
+        {
+          "start": 6.48,
+          "end": 7.48,
+          "text": " Unfassen",
+          "avg_logprob": -0.46212167966933476
+        }
+      ]
+    }
+  ],
+  "limitation": "ASR is not a phonetic assessment or direct listening. Remaining Vietnamese differences require listening before claiming perfect pronunciation."
+}
