@@ -81,4 +81,3 @@ Bản chép thực tế: Từ nào có nghĩa là thuốc mỡ bôi ngoài da? T
 Câu hỏi: Từ nào có nghĩa là “thẻ bảo hiểm”? Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diện? Từ nào có nghĩa là “kết quả xét nghiệm”? Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện? Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?
 
 Bản chép thực tế: Từ nào có nghĩa là thẻ bảo hiểm? Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diễn? Từ nào có nghĩa là kết quả xét nghiệm? Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện? Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?
-
