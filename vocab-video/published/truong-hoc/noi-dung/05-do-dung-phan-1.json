@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 05",
+  "topic": "Đồ dùng học tập",
+  "part": 1,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "pencil",
+      "meaning": "cây bút chì",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ loại bút viết ra nét màu xám và tẩy được?",
+      "narration": "Từ nào chỉ loại bút viết ra nét màu xám và tẩy được?",
+      "distractors": [
+        {
+          "word": "eraser",
+          "meaning": "cục tẩy",
+          "pos": "noun"
+        },
+        {
+          "word": "notebook",
+          "meaning": "vở ghi",
+          "pos": "noun"
+        },
+        {
+          "word": "backpack",
+          "meaning": "ba lô",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pen",
+      "meaning": "bút mực",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bút mực”?",
+      "narration": "Từ nào có nghĩa là “bút mực”?",
+      "distractors": [
+        {
+          "word": "ruler",
+          "meaning": "thước kẻ",
+          "pos": "noun"
+        },
+        {
+          "word": "textbook",
+          "meaning": "sách giáo khoa",
+          "pos": "noun"
+        },
+        {
+          "word": "pencil case",
+          "meaning": "hộp bút",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "eraser",
+      "meaning": "cục tẩy",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cục tẩy”?",
+      "narration": "Từ nào có nghĩa là “cục tẩy”?",
+      "distractors": [
+        {
+          "word": "notebook",
+          "meaning": "vở ghi",
+          "pos": "noun"
+        },
+        {
+          "word": "backpack",
+          "meaning": "ba lô",
+          "pos": "noun"
+        },
+        {
+          "word": "pencil sharpener",
+          "meaning": "đồ gọt đầu bút chì",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ruler",
+      "meaning": "thước kẻ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thước kẻ”?",
+      "narration": "Từ nào có nghĩa là “thước kẻ”?",
+      "distractors": [
+        {
+          "word": "textbook",
+          "meaning": "sách giáo khoa",
+          "pos": "noun"
+        },
+        {
+          "word": "pencil case",
+          "meaning": "hộp bút",
+          "pos": "noun"
+        },
+        {
+          "word": "folder",
+          "meaning": "bìa đựng tài liệu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "notebook",
+      "meaning": "vở ghi",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ tập giấy đóng thành quyển để ghi bài?",
+      "narration": "Từ nào chỉ tập giấy đóng thành quyển để ghi bài?",
+      "distractors": [
+        {
+          "word": "backpack",
+          "meaning": "ba lô",
+          "pos": "noun"
+        },
+        {
+          "word": "pencil sharpener",
+          "meaning": "đồ gọt đầu bút chì",
+          "pos": "noun"
+        },
+        {
+          "word": "pencil",
+          "meaning": "cây bút chì",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

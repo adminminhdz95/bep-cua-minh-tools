@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 18",
+  "topic": "Hoạt động trong lớp",
+  "part": 2,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "ask a question",
+      "meaning": "đặt câu hỏi",
+      "pos": "verb phrase",
+      "prompt": "Từ nào có nghĩa là “đặt câu hỏi”?",
+      "narration": "Từ nào có nghĩa là “đặt câu hỏi”?",
+      "distractors": [
+        {
+          "word": "work in pairs",
+          "meaning": "làm việc theo cặp",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "line up",
+          "meaning": "xếp hàng",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "open your book",
+          "meaning": "mở quyển sách",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "answer a question",
+      "meaning": "trả lời một câu hỏi",
+      "pos": "verb phrase",
+      "prompt": "Từ nào có nghĩa là “trả lời một câu hỏi”?",
+      "narration": "Từ nào có nghĩa là “trả lời một câu hỏi”?",
+      "distractors": [
+        {
+          "word": "hand in your homework",
+          "meaning": "nộp bài tập về nhà",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "raise your hand",
+          "meaning": "giơ tay lên",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close your book",
+          "meaning": "gấp quyển sách lại",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "work in pairs",
+      "meaning": "làm việc theo cặp",
+      "pos": "verb phrase",
+      "prompt": "Từ nào có nghĩa là “làm việc theo cặp”?",
+      "narration": "Từ nào có nghĩa là “làm việc theo cặp”?",
+      "distractors": [
+        {
+          "word": "line up",
+          "meaning": "xếp hàng",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "open your book",
+          "meaning": "mở quyển sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "turn the page",
+          "meaning": "chuyển sang trang sách tiếp theo",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "hand in your homework",
+      "meaning": "nộp bài tập về nhà",
+      "pos": "verb phrase",
+      "prompt": "Từ nào có nghĩa là “nộp bài tập về nhà”?",
+      "narration": "Từ nào có nghĩa là “nộp bài tập về nhà”?",
+      "distractors": [
+        {
+          "word": "raise your hand",
+          "meaning": "giơ tay lên",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "close your book",
+          "meaning": "gấp quyển sách lại",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "take notes",
+          "meaning": "ghi lại các ý chính",
+          "pos": "verb phrase"
+        }
+      ]
+    },
+    {
+      "word": "line up",
+      "meaning": "xếp hàng",
+      "pos": "verb phrase",
+      "prompt": "Từ nào có nghĩa là “xếp hàng”?",
+      "narration": "Từ nào có nghĩa là “xếp hàng”?",
+      "distractors": [
+        {
+          "word": "open your book",
+          "meaning": "mở quyển sách",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "turn the page",
+          "meaning": "chuyển sang trang sách tiếp theo",
+          "pos": "verb phrase"
+        },
+        {
+          "word": "ask a question",
+          "meaning": "đặt câu hỏi",
+          "pos": "verb phrase"
+        }
+      ]
+    }
+  ]
+}

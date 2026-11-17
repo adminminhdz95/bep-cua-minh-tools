@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 12",
+  "topic": "Thời gian và nề nếp",
+  "part": 2,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "semester",
+      "meaning": "học kỳ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “học kỳ”?",
+      "narration": "Từ nào có nghĩa là “học kỳ”?",
+      "distractors": [
+        {
+          "word": "school holiday",
+          "meaning": "ngày nghỉ học",
+          "pos": "noun"
+        },
+        {
+          "word": "deadline",
+          "meaning": "hạn nộp bài",
+          "pos": "noun"
+        },
+        {
+          "word": "timetable",
+          "meaning": "thời khóa biểu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "school day",
+      "meaning": "ngày đi học",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ngày đi học”?",
+      "narration": "Từ nào có nghĩa là “ngày đi học”?",
+      "distractors": [
+        {
+          "word": "lunchtime",
+          "meaning": "giờ ăn trưa",
+          "pos": "noun"
+        },
+        {
+          "word": "lesson",
+          "meaning": "tiết học",
+          "pos": "noun"
+        },
+        {
+          "word": "break",
+          "meaning": "giờ giải lao",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "school holiday",
+      "meaning": "ngày nghỉ học",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ngày nghỉ học”?",
+      "narration": "Từ nào có nghĩa là “ngày nghỉ học”?",
+      "distractors": [
+        {
+          "word": "deadline",
+          "meaning": "hạn nộp bài",
+          "pos": "noun"
+        },
+        {
+          "word": "timetable",
+          "meaning": "thời khóa biểu",
+          "pos": "noun"
+        },
+        {
+          "word": "school assembly",
+          "meaning": "buổi tập trung toàn trường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "lunchtime",
+      "meaning": "giờ ăn trưa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “giờ ăn trưa”?",
+      "narration": "Từ nào có nghĩa là “giờ ăn trưa”?",
+      "distractors": [
+        {
+          "word": "lesson",
+          "meaning": "tiết học",
+          "pos": "noun"
+        },
+        {
+          "word": "break",
+          "meaning": "giờ giải lao",
+          "pos": "noun"
+        },
+        {
+          "word": "attendance",
+          "meaning": "việc có mặt ở lớp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "deadline",
+      "meaning": "hạn nộp bài",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ thời điểm cuối cùng phải nộp bài?",
+      "narration": "Từ nào chỉ thời điểm cuối cùng phải nộp bài?",
+      "distractors": [
+        {
+          "word": "timetable",
+          "meaning": "thời khóa biểu",
+          "pos": "noun"
+        },
+        {
+          "word": "school assembly",
+          "meaning": "buổi tập trung toàn trường",
+          "pos": "noun"
+        },
+        {
+          "word": "semester",
+          "meaning": "học kỳ",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

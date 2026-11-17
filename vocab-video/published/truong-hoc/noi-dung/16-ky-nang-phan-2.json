@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 16",
+  "topic": "Kỹ năng học tập",
+  "part": 2,
+  "think_seconds": 6.733333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "spell",
+      "meaning": "đánh vần",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “đánh vần”?",
+      "narration": "Từ nào có nghĩa là “đánh vần”?",
+      "distractors": [
+        {
+          "word": "calculate",
+          "meaning": "tính toán",
+          "pos": "verb"
+        },
+        {
+          "word": "revise",
+          "meaning": "ôn bài",
+          "pos": "verb"
+        },
+        {
+          "word": "write",
+          "meaning": "viết",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "draw",
+      "meaning": "vẽ",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “vẽ”?",
+      "narration": "Từ nào có nghĩa là “vẽ”?",
+      "distractors": [
+        {
+          "word": "memorize",
+          "meaning": "ghi nhớ",
+          "pos": "verb"
+        },
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "listen",
+          "meaning": "lắng nghe",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "calculate",
+      "meaning": "tính toán",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “tính toán”?",
+      "narration": "Từ nào có nghĩa là “tính toán”?",
+      "distractors": [
+        {
+          "word": "revise",
+          "meaning": "ôn bài",
+          "pos": "verb"
+        },
+        {
+          "word": "write",
+          "meaning": "viết",
+          "pos": "verb"
+        },
+        {
+          "word": "speak",
+          "meaning": "nói",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "memorize",
+      "meaning": "ghi nhớ",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “ghi nhớ”?",
+      "narration": "Từ nào có nghĩa là “ghi nhớ”?",
+      "distractors": [
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        },
+        {
+          "word": "listen",
+          "meaning": "lắng nghe",
+          "pos": "verb"
+        },
+        {
+          "word": "count",
+          "meaning": "đếm",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "revise",
+      "meaning": "ôn bài",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “ôn bài”?",
+      "narration": "Từ nào có nghĩa là “ôn bài”?",
+      "distractors": [
+        {
+          "word": "write",
+          "meaning": "viết",
+          "pos": "verb"
+        },
+        {
+          "word": "speak",
+          "meaning": "nói",
+          "pos": "verb"
+        },
+        {
+          "word": "spell",
+          "meaning": "đánh vần",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

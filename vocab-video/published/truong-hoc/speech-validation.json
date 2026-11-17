@@ -1,0 +1,25 @@
+{
+  "method": "Independent local faster-whisper ASR of speech regions decoded from final MP4 files; English small model, Vietnamese large-v3-turbo; no expected-text prompt.",
+  "english_answers_recognized": 100,
+  "english_video_transcripts_exact": 20,
+  "vietnamese_video_transcripts_exact": 17,
+  "vietnamese_video_transcripts_total": 20,
+  "vietnamese_asr_differences": [
+    {
+      "video": 6,
+      "expected": "Từ nào chỉ sách dùng để học theo chương trình? Từ nào có nghĩa là “ba lô”? Từ nào có nghĩa là “hộp bút”? Từ nào chỉ dụng cụ dùng để gọt nhọn bút chì? Từ nào chỉ bìa dùng để đựng giấy tờ?",
+      "recognized": "Từ nào chỉ sách dùng để học theo chương trình? Từ nào có nghĩa là ba lô? Từ nào có nghĩa là hộp bút? Từ nào chỉ dụng cụ dùng để gọt nhọn bút chì? Từ nào chỉ bia dùng để đựng giấy tờ?"
+    },
+    {
+      "video": 17,
+      "expected": "Từ nào có nghĩa là “giơ tay lên”? Từ nào có nghĩa là “mở quyển sách”? Từ nào có nghĩa là “gấp quyển sách lại”? Từ nào có nghĩa là “chuyển sang trang sách tiếp theo”? Từ nào có nghĩa là “ghi lại các ý chính”?",
+      "recognized": "Từ nào có nghĩa là dơ tay lên? Từ nào có nghĩa là mở quyển sách? Từ nào có nghĩa là gấp quyển sách lại? Từ nào có nghĩa là chuyển sang trang sách tiếp theo? Từ nào có nghĩa là ghi lại các ý chính?"
+    },
+    {
+      "video": 18,
+      "expected": "Từ nào có nghĩa là “đặt câu hỏi”? Từ nào có nghĩa là “trả lời một câu hỏi”? Từ nào có nghĩa là “làm việc theo cặp”? Từ nào có nghĩa là “nộp bài tập về nhà”? Từ nào có nghĩa là “xếp hàng”?",
+      "recognized": "Từ nào có nghĩa là đặt câu hỏi? Từ nào có nghĩa là trả lời một câu hỏi? Từ nào có nghĩa là làm việc theo cạp? Từ nào có nghĩa là nộ bài tập về nhà? Từ nào có nghĩa là xếp hàng?"
+    }
+  ],
+  "limitations": "ASR checks intelligibility and content, not phonetic perfection or native accent. No direct listening was available; remaining Vietnamese differences require listening review."
+}

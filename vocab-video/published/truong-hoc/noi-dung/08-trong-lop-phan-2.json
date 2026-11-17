@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 08",
+  "topic": "Đồ vật trong lớp",
+  "part": 2,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "marker",
+      "meaning": "bút viết bảng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bút viết bảng”?",
+      "narration": "Từ nào có nghĩa là “bút viết bảng”?",
+      "distractors": [
+        {
+          "word": "screen",
+          "meaning": "màn chiếu",
+          "pos": "noun"
+        },
+        {
+          "word": "globe",
+          "meaning": "quả địa cầu",
+          "pos": "noun"
+        },
+        {
+          "word": "chair",
+          "meaning": "ghế ngồi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "projector",
+      "meaning": "máy chiếu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “máy chiếu”?",
+      "narration": "Từ nào có nghĩa là “máy chiếu”?",
+      "distractors": [
+        {
+          "word": "clock",
+          "meaning": "đồng hồ treo tường",
+          "pos": "noun"
+        },
+        {
+          "word": "desk",
+          "meaning": "bàn học",
+          "pos": "noun"
+        },
+        {
+          "word": "whiteboard",
+          "meaning": "bảng trắng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "screen",
+      "meaning": "màn chiếu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “màn chiếu”?",
+      "narration": "Từ nào có nghĩa là “màn chiếu”?",
+      "distractors": [
+        {
+          "word": "globe",
+          "meaning": "quả địa cầu",
+          "pos": "noun"
+        },
+        {
+          "word": "chair",
+          "meaning": "ghế ngồi",
+          "pos": "noun"
+        },
+        {
+          "word": "blackboard",
+          "meaning": "bảng đen",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "clock",
+      "meaning": "đồng hồ treo tường",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đồng hồ treo tường”?",
+      "narration": "Từ nào có nghĩa là “đồng hồ treo tường”?",
+      "distractors": [
+        {
+          "word": "desk",
+          "meaning": "bàn học",
+          "pos": "noun"
+        },
+        {
+          "word": "whiteboard",
+          "meaning": "bảng trắng",
+          "pos": "noun"
+        },
+        {
+          "word": "chalk",
+          "meaning": "phấn viết bảng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "globe",
+      "meaning": "quả địa cầu",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ mô hình hình cầu của Trái Đất?",
+      "narration": "Từ nào chỉ mô hình hình cầu của Trái Đất?",
+      "distractors": [
+        {
+          "word": "chair",
+          "meaning": "ghế ngồi",
+          "pos": "noun"
+        },
+        {
+          "word": "blackboard",
+          "meaning": "bảng đen",
+          "pos": "noun"
+        },
+        {
+          "word": "marker",
+          "meaning": "bút viết bảng",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

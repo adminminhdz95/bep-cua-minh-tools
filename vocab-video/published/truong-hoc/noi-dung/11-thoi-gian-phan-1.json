@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 11",
+  "topic": "Thời gian và nề nếp",
+  "part": 1,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "lesson",
+      "meaning": "tiết học",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tiết học”?",
+      "narration": "Từ nào có nghĩa là “tiết học”?",
+      "distractors": [
+        {
+          "word": "break",
+          "meaning": "giờ giải lao",
+          "pos": "noun"
+        },
+        {
+          "word": "attendance",
+          "meaning": "việc có mặt ở lớp",
+          "pos": "noun"
+        },
+        {
+          "word": "school day",
+          "meaning": "ngày đi học",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "timetable",
+      "meaning": "thời khóa biểu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thời khóa biểu”?",
+      "narration": "Từ nào có nghĩa là “thời khóa biểu”?",
+      "distractors": [
+        {
+          "word": "school assembly",
+          "meaning": "buổi tập trung toàn trường",
+          "pos": "noun"
+        },
+        {
+          "word": "semester",
+          "meaning": "học kỳ",
+          "pos": "noun"
+        },
+        {
+          "word": "school holiday",
+          "meaning": "ngày nghỉ học",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "break",
+      "meaning": "giờ giải lao",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “giờ giải lao”?",
+      "narration": "Từ nào có nghĩa là “giờ giải lao”?",
+      "distractors": [
+        {
+          "word": "attendance",
+          "meaning": "việc có mặt ở lớp",
+          "pos": "noun"
+        },
+        {
+          "word": "school day",
+          "meaning": "ngày đi học",
+          "pos": "noun"
+        },
+        {
+          "word": "lunchtime",
+          "meaning": "giờ ăn trưa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "school assembly",
+      "meaning": "buổi tập trung toàn trường",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “buổi tập trung toàn trường”?",
+      "narration": "Từ nào có nghĩa là “buổi tập trung toàn trường”?",
+      "distractors": [
+        {
+          "word": "semester",
+          "meaning": "học kỳ",
+          "pos": "noun"
+        },
+        {
+          "word": "school holiday",
+          "meaning": "ngày nghỉ học",
+          "pos": "noun"
+        },
+        {
+          "word": "deadline",
+          "meaning": "hạn nộp bài",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "attendance",
+      "meaning": "việc có mặt ở lớp",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “việc có mặt ở lớp”?",
+      "narration": "Từ nào có nghĩa là “việc có mặt ở lớp”?",
+      "distractors": [
+        {
+          "word": "school day",
+          "meaning": "ngày đi học",
+          "pos": "noun"
+        },
+        {
+          "word": "lunchtime",
+          "meaning": "giờ ăn trưa",
+          "pos": "noun"
+        },
+        {
+          "word": "lesson",
+          "meaning": "tiết học",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 13",
+  "topic": "Bài tập và đánh giá",
+  "part": 1,
+  "think_seconds": 7.066666666666666,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "homework",
+      "meaning": "bài tập về nhà",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bài tập về nhà”?",
+      "narration": "Từ nào có nghĩa là “bài tập về nhà”?",
+      "distractors": [
+        {
+          "word": "report card",
+          "meaning": "phiếu báo kết quả học tập",
+          "pos": "noun"
+        },
+        {
+          "word": "question",
+          "meaning": "câu hỏi",
+          "pos": "noun"
+        },
+        {
+          "word": "score",
+          "meaning": "điểm số",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "worksheet",
+      "meaning": "phiếu bài tập",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phiếu bài tập”?",
+      "narration": "Từ nào có nghĩa là “phiếu bài tập”?",
+      "distractors": [
+        {
+          "word": "certificate",
+          "meaning": "giấy chứng nhận",
+          "pos": "noun"
+        },
+        {
+          "word": "answer",
+          "meaning": "câu trả lời",
+          "pos": "noun"
+        },
+        {
+          "word": "mistake",
+          "meaning": "lỗi mắc phải",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "report card",
+      "meaning": "phiếu báo kết quả học tập",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phiếu báo kết quả học tập”?",
+      "narration": "Từ nào có nghĩa là “phiếu báo kết quả học tập”?",
+      "distractors": [
+        {
+          "word": "question",
+          "meaning": "câu hỏi",
+          "pos": "noun"
+        },
+        {
+          "word": "score",
+          "meaning": "điểm số",
+          "pos": "noun"
+        },
+        {
+          "word": "spelling test",
+          "meaning": "bài kiểm tra chính tả",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "certificate",
+      "meaning": "giấy chứng nhận",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “giấy chứng nhận”?",
+      "narration": "Từ nào có nghĩa là “giấy chứng nhận”?",
+      "distractors": [
+        {
+          "word": "answer",
+          "meaning": "câu trả lời",
+          "pos": "noun"
+        },
+        {
+          "word": "mistake",
+          "meaning": "lỗi mắc phải",
+          "pos": "noun"
+        },
+        {
+          "word": "final exam",
+          "meaning": "bài thi cuối kỳ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "question",
+      "meaning": "câu hỏi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “câu hỏi”?",
+      "narration": "Từ nào có nghĩa là “câu hỏi”?",
+      "distractors": [
+        {
+          "word": "score",
+          "meaning": "điểm số",
+          "pos": "noun"
+        },
+        {
+          "word": "spelling test",
+          "meaning": "bài kiểm tra chính tả",
+          "pos": "noun"
+        },
+        {
+          "word": "homework",
+          "meaning": "bài tập về nhà",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

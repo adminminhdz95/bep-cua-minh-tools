@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 06",
+  "topic": "Đồ dùng học tập",
+  "part": 2,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "textbook",
+      "meaning": "sách giáo khoa",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ sách dùng để học theo chương trình?",
+      "narration": "Từ nào chỉ sách dùng để học theo chương trình?",
+      "distractors": [
+        {
+          "word": "pencil case",
+          "meaning": "hộp bút",
+          "pos": "noun"
+        },
+        {
+          "word": "folder",
+          "meaning": "bìa đựng tài liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "pen",
+          "meaning": "bút mực",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "backpack",
+      "meaning": "ba lô",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ba lô”?",
+      "narration": "Từ nào có nghĩa là “ba lô”?",
+      "distractors": [
+        {
+          "word": "pencil sharpener",
+          "meaning": "đồ gọt đầu bút chì",
+          "pos": "noun"
+        },
+        {
+          "word": "pencil",
+          "meaning": "cây bút chì",
+          "pos": "noun"
+        },
+        {
+          "word": "eraser",
+          "meaning": "cục tẩy",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pencil case",
+      "meaning": "hộp bút",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hộp bút”?",
+      "narration": "Từ nào có nghĩa là “hộp bút”?",
+      "distractors": [
+        {
+          "word": "folder",
+          "meaning": "bìa đựng tài liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "pen",
+          "meaning": "bút mực",
+          "pos": "noun"
+        },
+        {
+          "word": "ruler",
+          "meaning": "thước kẻ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pencil sharpener",
+      "meaning": "đồ gọt đầu bút chì",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ dụng cụ dùng để gọt nhọn bút chì?",
+      "narration": "Từ nào chỉ dụng cụ dùng để gọt nhọn bút chì?",
+      "distractors": [
+        {
+          "word": "pencil",
+          "meaning": "cây bút chì",
+          "pos": "noun"
+        },
+        {
+          "word": "eraser",
+          "meaning": "cục tẩy",
+          "pos": "noun"
+        },
+        {
+          "word": "notebook",
+          "meaning": "vở ghi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "folder",
+      "meaning": "bìa đựng tài liệu",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ bìa dùng để đựng giấy tờ?",
+      "narration": "Từ nào chỉ bìa dùng để đựng giấy tờ?",
+      "distractors": [
+        {
+          "word": "pen",
+          "meaning": "bút mực",
+          "pos": "noun"
+        },
+        {
+          "word": "ruler",
+          "meaning": "thước kẻ",
+          "pos": "noun"
+        },
+        {
+          "word": "textbook",
+          "meaning": "sách giáo khoa",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

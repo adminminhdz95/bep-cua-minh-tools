@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 03",
+  "topic": "Địa điểm trong trường",
+  "part": 1,
+  "think_seconds": 6.8,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "classroom",
+      "meaning": "phòng học",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phòng học”?",
+      "narration": "Từ nào có nghĩa là “phòng học”?",
+      "distractors": [
+        {
+          "word": "playground",
+          "meaning": "sân chơi",
+          "pos": "noun"
+        },
+        {
+          "word": "laboratory",
+          "meaning": "phòng làm thí nghiệm",
+          "pos": "noun"
+        },
+        {
+          "word": "computer room",
+          "meaning": "phòng máy tính",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "library",
+      "meaning": "thư viện",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thư viện”?",
+      "narration": "Từ nào có nghĩa là “thư viện”?",
+      "distractors": [
+        {
+          "word": "cafeteria",
+          "meaning": "nhà ăn",
+          "pos": "noun"
+        },
+        {
+          "word": "gymnasium",
+          "meaning": "nhà tập thể thao",
+          "pos": "noun"
+        },
+        {
+          "word": "art room",
+          "meaning": "phòng mỹ thuật",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "playground",
+      "meaning": "sân chơi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “sân chơi”?",
+      "narration": "Từ nào có nghĩa là “sân chơi”?",
+      "distractors": [
+        {
+          "word": "laboratory",
+          "meaning": "phòng làm thí nghiệm",
+          "pos": "noun"
+        },
+        {
+          "word": "computer room",
+          "meaning": "phòng máy tính",
+          "pos": "noun"
+        },
+        {
+          "word": "music room",
+          "meaning": "phòng âm nhạc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cafeteria",
+      "meaning": "nhà ăn",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nhà ăn”?",
+      "narration": "Từ nào có nghĩa là “nhà ăn”?",
+      "distractors": [
+        {
+          "word": "gymnasium",
+          "meaning": "nhà tập thể thao",
+          "pos": "noun"
+        },
+        {
+          "word": "art room",
+          "meaning": "phòng mỹ thuật",
+          "pos": "noun"
+        },
+        {
+          "word": "auditorium",
+          "meaning": "hội trường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "laboratory",
+      "meaning": "phòng làm thí nghiệm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phòng làm thí nghiệm”?",
+      "narration": "Từ nào có nghĩa là “phòng làm thí nghiệm”?",
+      "distractors": [
+        {
+          "word": "computer room",
+          "meaning": "phòng máy tính",
+          "pos": "noun"
+        },
+        {
+          "word": "music room",
+          "meaning": "phòng âm nhạc",
+          "pos": "noun"
+        },
+        {
+          "word": "classroom",
+          "meaning": "phòng học",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 19",
+  "topic": "Trạng thái trong lớp",
+  "part": 1,
+  "think_seconds": 6.666666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "absent",
+      "meaning": "vắng mặt",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “vắng mặt”?",
+      "narration": "Từ nào có nghĩa là “vắng mặt”?",
+      "distractors": [
+        {
+          "word": "late",
+          "meaning": "muộn",
+          "pos": "adjective"
+        },
+        {
+          "word": "quiet",
+          "meaning": "yên lặng",
+          "pos": "adjective"
+        },
+        {
+          "word": "correct",
+          "meaning": "đúng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "meaning": "có mặt",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “có mặt”?",
+      "narration": "Từ nào có nghĩa là “có mặt”?",
+      "distractors": [
+        {
+          "word": "early",
+          "meaning": "sớm",
+          "pos": "adjective"
+        },
+        {
+          "word": "noisy",
+          "meaning": "gây nhiều tiếng ồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "incorrect",
+          "meaning": "sai",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "late",
+      "meaning": "muộn",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “muộn”?",
+      "narration": "Từ nào có nghĩa là “muộn”?",
+      "distractors": [
+        {
+          "word": "quiet",
+          "meaning": "yên lặng",
+          "pos": "adjective"
+        },
+        {
+          "word": "correct",
+          "meaning": "đúng",
+          "pos": "adjective"
+        },
+        {
+          "word": "easy",
+          "meaning": "dễ",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "early",
+      "meaning": "sớm",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “sớm”?",
+      "narration": "Từ nào có nghĩa là “sớm”?",
+      "distractors": [
+        {
+          "word": "noisy",
+          "meaning": "gây nhiều tiếng ồn",
+          "pos": "adjective"
+        },
+        {
+          "word": "incorrect",
+          "meaning": "sai",
+          "pos": "adjective"
+        },
+        {
+          "word": "difficult",
+          "meaning": "khó",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "quiet",
+      "meaning": "yên lặng",
+      "pos": "adjective",
+      "prompt": "Từ nào có nghĩa là “yên lặng”?",
+      "narration": "Từ nào có nghĩa là “yên lặng”?",
+      "distractors": [
+        {
+          "word": "correct",
+          "meaning": "đúng",
+          "pos": "adjective"
+        },
+        {
+          "word": "easy",
+          "meaning": "dễ",
+          "pos": "adjective"
+        },
+        {
+          "word": "absent",
+          "meaning": "vắng mặt",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

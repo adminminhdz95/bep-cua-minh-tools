@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 07",
+  "topic": "Đồ vật trong lớp",
+  "part": 1,
+  "think_seconds": 6.9,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "desk",
+      "meaning": "bàn học",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bàn học”?",
+      "narration": "Từ nào có nghĩa là “bàn học”?",
+      "distractors": [
+        {
+          "word": "whiteboard",
+          "meaning": "bảng trắng",
+          "pos": "noun"
+        },
+        {
+          "word": "chalk",
+          "meaning": "phấn viết bảng",
+          "pos": "noun"
+        },
+        {
+          "word": "projector",
+          "meaning": "máy chiếu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "meaning": "ghế ngồi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ghế ngồi”?",
+      "narration": "Từ nào có nghĩa là “ghế ngồi”?",
+      "distractors": [
+        {
+          "word": "blackboard",
+          "meaning": "bảng đen",
+          "pos": "noun"
+        },
+        {
+          "word": "marker",
+          "meaning": "bút viết bảng",
+          "pos": "noun"
+        },
+        {
+          "word": "screen",
+          "meaning": "màn chiếu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "whiteboard",
+      "meaning": "bảng trắng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bảng trắng”?",
+      "narration": "Từ nào có nghĩa là “bảng trắng”?",
+      "distractors": [
+        {
+          "word": "chalk",
+          "meaning": "phấn viết bảng",
+          "pos": "noun"
+        },
+        {
+          "word": "projector",
+          "meaning": "máy chiếu",
+          "pos": "noun"
+        },
+        {
+          "word": "clock",
+          "meaning": "đồng hồ treo tường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "blackboard",
+      "meaning": "bảng đen",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bảng đen”?",
+      "narration": "Từ nào có nghĩa là “bảng đen”?",
+      "distractors": [
+        {
+          "word": "marker",
+          "meaning": "bút viết bảng",
+          "pos": "noun"
+        },
+        {
+          "word": "screen",
+          "meaning": "màn chiếu",
+          "pos": "noun"
+        },
+        {
+          "word": "globe",
+          "meaning": "quả địa cầu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chalk",
+      "meaning": "phấn viết bảng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phấn viết bảng”?",
+      "narration": "Từ nào có nghĩa là “phấn viết bảng”?",
+      "distractors": [
+        {
+          "word": "projector",
+          "meaning": "máy chiếu",
+          "pos": "noun"
+        },
+        {
+          "word": "clock",
+          "meaning": "đồng hồ treo tường",
+          "pos": "noun"
+        },
+        {
+          "word": "desk",
+          "meaning": "bàn học",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

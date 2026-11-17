@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 01",
+  "topic": "Những người ở trường",
+  "part": 1,
+  "think_seconds": 6.833333333333333,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "teacher",
+      "meaning": "giáo viên",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “giáo viên”?",
+      "narration": "Từ nào có nghĩa là “giáo viên”?",
+      "distractors": [
+        {
+          "word": "librarian",
+          "meaning": "thủ thư",
+          "pos": "noun"
+        },
+        {
+          "word": "principal",
+          "meaning": "hiệu trưởng",
+          "pos": "noun"
+        },
+        {
+          "word": "caretaker",
+          "meaning": "người trông coi trường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "student",
+      "meaning": "học sinh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “học sinh”?",
+      "narration": "Từ nào có nghĩa là “học sinh”?",
+      "distractors": [
+        {
+          "word": "principal",
+          "meaning": "hiệu trưởng",
+          "pos": "noun"
+        },
+        {
+          "word": "school nurse",
+          "meaning": "nhân viên y tế trường học",
+          "pos": "noun"
+        },
+        {
+          "word": "caretaker",
+          "meaning": "người trông coi trường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "principal",
+      "meaning": "hiệu trưởng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hiệu trưởng”?",
+      "narration": "Từ nào có nghĩa là “hiệu trưởng”?",
+      "distractors": [
+        {
+          "word": "classmate",
+          "meaning": "bạn cùng lớp",
+          "pos": "noun"
+        },
+        {
+          "word": "coach",
+          "meaning": "huấn luyện viên",
+          "pos": "noun"
+        },
+        {
+          "word": "school counselor",
+          "meaning": "chuyên viên tư vấn học đường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "librarian",
+      "meaning": "thủ thư",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thủ thư”?",
+      "narration": "Từ nào có nghĩa là “thủ thư”?",
+      "distractors": [
+        {
+          "word": "teaching assistant",
+          "meaning": "người hỗ trợ giáo viên trong lớp",
+          "pos": "noun"
+        },
+        {
+          "word": "school nurse",
+          "meaning": "nhân viên y tế trường học",
+          "pos": "noun"
+        },
+        {
+          "word": "caretaker",
+          "meaning": "người trông coi trường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "classmate",
+      "meaning": "bạn cùng lớp",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bạn cùng lớp”?",
+      "narration": "Từ nào có nghĩa là “bạn cùng lớp”?",
+      "distractors": [
+        {
+          "word": "principal",
+          "meaning": "hiệu trưởng",
+          "pos": "noun"
+        },
+        {
+          "word": "school nurse",
+          "meaning": "nhân viên y tế trường học",
+          "pos": "noun"
+        },
+        {
+          "word": "caretaker",
+          "meaning": "người trông coi trường",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

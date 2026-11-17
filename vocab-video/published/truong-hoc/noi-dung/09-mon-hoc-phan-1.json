@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 09",
+  "topic": "Các môn học",
+  "part": 1,
+  "think_seconds": 6.566666666666666,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "mathematics",
+      "meaning": "môn toán",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn toán”?",
+      "narration": "Từ nào có nghĩa là “môn toán”?",
+      "distractors": [
+        {
+          "word": "Vietnamese",
+          "meaning": "môn tiếng Việt",
+          "pos": "noun"
+        },
+        {
+          "word": "history",
+          "meaning": "môn lịch sử",
+          "pos": "noun"
+        },
+        {
+          "word": "music",
+          "meaning": "môn âm nhạc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "English",
+      "meaning": "môn tiếng Anh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn tiếng Anh”?",
+      "narration": "Từ nào có nghĩa là “môn tiếng Anh”?",
+      "distractors": [
+        {
+          "word": "science",
+          "meaning": "môn khoa học",
+          "pos": "noun"
+        },
+        {
+          "word": "geography",
+          "meaning": "môn địa lý",
+          "pos": "noun"
+        },
+        {
+          "word": "art",
+          "meaning": "môn mỹ thuật",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "Vietnamese",
+      "meaning": "môn tiếng Việt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn tiếng Việt”?",
+      "narration": "Từ nào có nghĩa là “môn tiếng Việt”?",
+      "distractors": [
+        {
+          "word": "history",
+          "meaning": "môn lịch sử",
+          "pos": "noun"
+        },
+        {
+          "word": "music",
+          "meaning": "môn âm nhạc",
+          "pos": "noun"
+        },
+        {
+          "word": "physical education",
+          "meaning": "môn giáo dục thể chất",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "science",
+      "meaning": "môn khoa học",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn khoa học”?",
+      "narration": "Từ nào có nghĩa là “môn khoa học”?",
+      "distractors": [
+        {
+          "word": "geography",
+          "meaning": "môn địa lý",
+          "pos": "noun"
+        },
+        {
+          "word": "art",
+          "meaning": "môn mỹ thuật",
+          "pos": "noun"
+        },
+        {
+          "word": "information technology",
+          "meaning": "môn công nghệ thông tin",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "history",
+      "meaning": "môn lịch sử",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn lịch sử”?",
+      "narration": "Từ nào có nghĩa là “môn lịch sử”?",
+      "distractors": [
+        {
+          "word": "music",
+          "meaning": "môn âm nhạc",
+          "pos": "noun"
+        },
+        {
+          "word": "physical education",
+          "meaning": "môn giáo dục thể chất",
+          "pos": "noun"
+        },
+        {
+          "word": "mathematics",
+          "meaning": "môn toán",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

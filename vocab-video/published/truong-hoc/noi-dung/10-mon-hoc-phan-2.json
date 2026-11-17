@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 10",
+  "topic": "Các môn học",
+  "part": 2,
+  "think_seconds": 7.7,
+  "reveal_seconds": 2.566666666666667,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "geography",
+      "meaning": "môn địa lý",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn địa lý”?",
+      "narration": "Từ nào có nghĩa là “môn địa lý”?",
+      "distractors": [
+        {
+          "word": "art",
+          "meaning": "môn mỹ thuật",
+          "pos": "noun"
+        },
+        {
+          "word": "information technology",
+          "meaning": "môn công nghệ thông tin",
+          "pos": "noun"
+        },
+        {
+          "word": "English",
+          "meaning": "môn tiếng Anh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "music",
+      "meaning": "môn âm nhạc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn âm nhạc”?",
+      "narration": "Từ nào có nghĩa là “môn âm nhạc”?",
+      "distractors": [
+        {
+          "word": "physical education",
+          "meaning": "môn giáo dục thể chất",
+          "pos": "noun"
+        },
+        {
+          "word": "mathematics",
+          "meaning": "môn toán",
+          "pos": "noun"
+        },
+        {
+          "word": "Vietnamese",
+          "meaning": "môn tiếng Việt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "art",
+      "meaning": "môn mỹ thuật",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn mỹ thuật”?",
+      "narration": "Từ nào có nghĩa là “môn mỹ thuật”?",
+      "distractors": [
+        {
+          "word": "information technology",
+          "meaning": "môn công nghệ thông tin",
+          "pos": "noun"
+        },
+        {
+          "word": "English",
+          "meaning": "môn tiếng Anh",
+          "pos": "noun"
+        },
+        {
+          "word": "science",
+          "meaning": "môn khoa học",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "physical education",
+      "meaning": "môn giáo dục thể chất",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn giáo dục thể chất”?",
+      "narration": "Từ nào có nghĩa là “môn giáo dục thể chất”?",
+      "distractors": [
+        {
+          "word": "mathematics",
+          "meaning": "môn toán",
+          "pos": "noun"
+        },
+        {
+          "word": "Vietnamese",
+          "meaning": "môn tiếng Việt",
+          "pos": "noun"
+        },
+        {
+          "word": "history",
+          "meaning": "môn lịch sử",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "information technology",
+      "meaning": "môn công nghệ thông tin",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “môn công nghệ thông tin”?",
+      "narration": "Từ nào có nghĩa là “môn công nghệ thông tin”?",
+      "distractors": [
+        {
+          "word": "English",
+          "meaning": "môn tiếng Anh",
+          "pos": "noun"
+        },
+        {
+          "word": "science",
+          "meaning": "môn khoa học",
+          "pos": "noun"
+        },
+        {
+          "word": "geography",
+          "meaning": "môn địa lý",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

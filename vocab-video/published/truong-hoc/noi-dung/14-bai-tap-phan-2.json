@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 14",
+  "topic": "Bài tập và đánh giá",
+  "part": 2,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "answer",
+      "meaning": "câu trả lời",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “câu trả lời”?",
+      "narration": "Từ nào có nghĩa là “câu trả lời”?",
+      "distractors": [
+        {
+          "word": "mistake",
+          "meaning": "lỗi mắc phải",
+          "pos": "noun"
+        },
+        {
+          "word": "final exam",
+          "meaning": "bài thi cuối kỳ",
+          "pos": "noun"
+        },
+        {
+          "word": "worksheet",
+          "meaning": "phiếu bài tập",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "score",
+      "meaning": "điểm số",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “điểm số”?",
+      "narration": "Từ nào có nghĩa là “điểm số”?",
+      "distractors": [
+        {
+          "word": "spelling test",
+          "meaning": "bài kiểm tra chính tả",
+          "pos": "noun"
+        },
+        {
+          "word": "homework",
+          "meaning": "bài tập về nhà",
+          "pos": "noun"
+        },
+        {
+          "word": "report card",
+          "meaning": "phiếu báo kết quả học tập",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "mistake",
+      "meaning": "lỗi mắc phải",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “lỗi mắc phải”?",
+      "narration": "Từ nào có nghĩa là “lỗi mắc phải”?",
+      "distractors": [
+        {
+          "word": "final exam",
+          "meaning": "bài thi cuối kỳ",
+          "pos": "noun"
+        },
+        {
+          "word": "worksheet",
+          "meaning": "phiếu bài tập",
+          "pos": "noun"
+        },
+        {
+          "word": "certificate",
+          "meaning": "giấy chứng nhận",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "spelling test",
+      "meaning": "bài kiểm tra chính tả",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bài kiểm tra chính tả”?",
+      "narration": "Từ nào có nghĩa là “bài kiểm tra chính tả”?",
+      "distractors": [
+        {
+          "word": "homework",
+          "meaning": "bài tập về nhà",
+          "pos": "noun"
+        },
+        {
+          "word": "report card",
+          "meaning": "phiếu báo kết quả học tập",
+          "pos": "noun"
+        },
+        {
+          "word": "question",
+          "meaning": "câu hỏi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "final exam",
+      "meaning": "bài thi cuối kỳ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bài thi cuối kỳ”?",
+      "narration": "Từ nào có nghĩa là “bài thi cuối kỳ”?",
+      "distractors": [
+        {
+          "word": "worksheet",
+          "meaning": "phiếu bài tập",
+          "pos": "noun"
+        },
+        {
+          "word": "certificate",
+          "meaning": "giấy chứng nhận",
+          "pos": "noun"
+        },
+        {
+          "word": "answer",
+          "meaning": "câu trả lời",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

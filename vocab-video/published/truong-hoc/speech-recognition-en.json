@@ -1,0 +1,352 @@
+[
+  {
+    "video": 1,
+    "language": "en",
+    "expected": "teacher student principal librarian classmate",
+    "recognized": "teacher, student, principal, librarian, classmate.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "text": " teacher, student, principal, librarian, classmate.",
+        "avg_logprob": -0.3427636963980539
+      }
+    ]
+  },
+  {
+    "video": 2,
+    "language": "en",
+    "expected": "teaching assistant coach school nurse school counselor caretaker",
+    "recognized": "teaching assistant, coach, school nurse, school counselor, caretaker.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.96,
+        "text": " teaching assistant, coach, school nurse, school counselor,",
+        "avg_logprob": -0.39816721230745317
+      },
+      {
+        "start": 7.96,
+        "end": 10.0,
+        "text": " caretaker.",
+        "avg_logprob": -0.39816721230745317
+      }
+    ]
+  },
+  {
+    "video": 3,
+    "language": "en",
+    "expected": "classroom library playground cafeteria laboratory",
+    "recognized": "classroom, library, playground, cafeteria, laboratory.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.4,
+        "text": " classroom, library, playground, cafeteria, laboratory.",
+        "avg_logprob": -0.28411759780003476
+      }
+    ]
+  },
+  {
+    "video": 4,
+    "language": "en",
+    "expected": "gymnasium computer room art room music room auditorium",
+    "recognized": "gymnasium, computer room, art room, music room, auditorium.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.8,
+        "text": " gymnasium, computer room, art room, music room, auditorium.",
+        "avg_logprob": -0.26511188243564804
+      }
+    ]
+  },
+  {
+    "video": 5,
+    "language": "en",
+    "expected": "pencil pen eraser ruler notebook",
+    "recognized": "pencil, pen, eraser, ruler, notebook.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.2,
+        "text": " pencil, pen, eraser, ruler, notebook.",
+        "avg_logprob": -0.3856653433579665
+      }
+    ]
+  },
+  {
+    "video": 6,
+    "language": "en",
+    "expected": "textbook backpack pencil case pencil sharpener folder",
+    "recognized": "textbook, backpack, pencil case, pencil sharpener, folder.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.84,
+        "text": " textbook, backpack, pencil case, pencil sharpener, folder.",
+        "avg_logprob": -0.33764004707336426
+      }
+    ]
+  },
+  {
+    "video": 7,
+    "language": "en",
+    "expected": "desk chair whiteboard blackboard chalk",
+    "recognized": "desk, chair, whiteboard, blackboard, chalk.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.6000000000000005,
+        "text": " desk, chair, whiteboard, blackboard, chalk.",
+        "avg_logprob": -0.36179240942001345
+      }
+    ]
+  },
+  {
+    "video": 8,
+    "language": "en",
+    "expected": "marker projector screen clock globe",
+    "recognized": "marker, projector, screen, clock, globe.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.36,
+        "text": " marker, projector, screen, clock, globe.",
+        "avg_logprob": -0.32612676803882307
+      }
+    ]
+  },
+  {
+    "video": 9,
+    "language": "en",
+    "expected": "mathematics English Vietnamese science history",
+    "recognized": "Mathematics, English, Vietnamese, Science, History.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.48,
+        "text": " Mathematics, English, Vietnamese, Science, History.",
+        "avg_logprob": -0.38420275918075014
+      }
+    ]
+  },
+  {
+    "video": 10,
+    "language": "en",
+    "expected": "geography music art physical education information technology",
+    "recognized": "geography, music, art, physical education, information technology.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.64,
+        "text": " geography, music, art, physical education, information technology.",
+        "avg_logprob": -0.3242582003275553
+      }
+    ]
+  },
+  {
+    "video": 11,
+    "language": "en",
+    "expected": "lesson timetable break school assembly attendance",
+    "recognized": "Lesson, timetable, break, school assembly, attendance.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "text": " Lesson, timetable, break, school assembly, attendance.",
+        "avg_logprob": -0.2937926124123966
+      }
+    ]
+  },
+  {
+    "video": 12,
+    "language": "en",
+    "expected": "semester school day school holiday lunchtime deadline",
+    "recognized": "semester, school day, school holiday, lunchtime, deadline.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "text": " semester, school day, school holiday, lunchtime, deadline.",
+        "avg_logprob": -0.36008172668516636
+      }
+    ]
+  },
+  {
+    "video": 13,
+    "language": "en",
+    "expected": "homework worksheet report card certificate question",
+    "recognized": "homework, worksheet, report card, certificate, question.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.44,
+        "text": " homework, worksheet, report card, certificate, question.",
+        "avg_logprob": -0.33097477682999205
+      }
+    ]
+  },
+  {
+    "video": 14,
+    "language": "en",
+    "expected": "answer score mistake spelling test final exam",
+    "recognized": "answer, score, mistake, spelling test, final exam.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.0,
+        "text": " answer, score, mistake, spelling test, final exam.",
+        "avg_logprob": -0.313747251033783
+      }
+    ]
+  },
+  {
+    "video": 15,
+    "language": "en",
+    "expected": "read write listen speak count",
+    "recognized": "read, write, listen, speak, count.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.92,
+        "text": " read, write, listen, speak, count.",
+        "avg_logprob": -0.4312226497209989
+      }
+    ]
+  },
+  {
+    "video": 16,
+    "language": "en",
+    "expected": "spell draw calculate memorize revise",
+    "recognized": "spell, draw, calculate, memorize, revise.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.640000000000001,
+        "text": " spell, draw, calculate, memorize, revise.",
+        "avg_logprob": -0.3007400861153236
+      }
+    ]
+  },
+  {
+    "video": 17,
+    "language": "en",
+    "expected": "raise your hand open your book close your book turn the page take notes",
+    "recognized": "Raise your hand. Open your book. Close your book. Turn the page. Take notes.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.6000000000000005,
+        "text": " Raise your hand. Open your book. Close your book. Turn the page. Take notes.",
+        "avg_logprob": -0.24144813147458163
+      }
+    ]
+  },
+  {
+    "video": 18,
+    "language": "en",
+    "expected": "ask a question answer a question work in pairs hand in your homework line up",
+    "recognized": "Ask a question. Answer a question. Work in pairs. Hand in your homework. Line up.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Ask a question.",
+        "avg_logprob": -0.35513990348385227
+      },
+      {
+        "start": 2.0,
+        "end": 3.6,
+        "text": " Answer a question.",
+        "avg_logprob": -0.35513990348385227
+      },
+      {
+        "start": 3.6,
+        "end": 5.5,
+        "text": " Work in pairs.",
+        "avg_logprob": -0.35513990348385227
+      },
+      {
+        "start": 5.5,
+        "end": 7.16,
+        "text": " Hand in your homework.",
+        "avg_logprob": -0.35513990348385227
+      },
+      {
+        "start": 7.16,
+        "end": 8.0,
+        "text": " Line up.",
+        "avg_logprob": -0.35513990348385227
+      }
+    ]
+  },
+  {
+    "video": 19,
+    "language": "en",
+    "expected": "absent present late early quiet",
+    "recognized": "absent, present, late, early, quiet.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.2,
+        "text": " absent, present, late, early, quiet.",
+        "avg_logprob": -0.3938396985714252
+      }
+    ]
+  },
+  {
+    "video": 20,
+    "language": "en",
+    "expected": "noisy correct incorrect easy difficult",
+    "recognized": "noisy, correct, incorrect, easy, difficult",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.36,
+        "text": " noisy, correct, incorrect, easy, difficult",
+        "avg_logprob": -0.3571134532491366
+      }
+    ]
+  }
+]

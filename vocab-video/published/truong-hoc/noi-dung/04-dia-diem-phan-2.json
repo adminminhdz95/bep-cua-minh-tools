@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 04",
+  "topic": "Địa điểm trong trường",
+  "part": 2,
+  "think_seconds": 6.666666666666667,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "gymnasium",
+      "meaning": "nhà tập thể thao",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nhà tập thể thao”?",
+      "narration": "Từ nào có nghĩa là “nhà tập thể thao”?",
+      "distractors": [
+        {
+          "word": "art room",
+          "meaning": "phòng mỹ thuật",
+          "pos": "noun"
+        },
+        {
+          "word": "auditorium",
+          "meaning": "hội trường",
+          "pos": "noun"
+        },
+        {
+          "word": "library",
+          "meaning": "thư viện",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "computer room",
+      "meaning": "phòng máy tính",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phòng máy tính”?",
+      "narration": "Từ nào có nghĩa là “phòng máy tính”?",
+      "distractors": [
+        {
+          "word": "music room",
+          "meaning": "phòng âm nhạc",
+          "pos": "noun"
+        },
+        {
+          "word": "classroom",
+          "meaning": "phòng học",
+          "pos": "noun"
+        },
+        {
+          "word": "playground",
+          "meaning": "sân chơi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "art room",
+      "meaning": "phòng mỹ thuật",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phòng mỹ thuật”?",
+      "narration": "Từ nào có nghĩa là “phòng mỹ thuật”?",
+      "distractors": [
+        {
+          "word": "auditorium",
+          "meaning": "hội trường",
+          "pos": "noun"
+        },
+        {
+          "word": "library",
+          "meaning": "thư viện",
+          "pos": "noun"
+        },
+        {
+          "word": "cafeteria",
+          "meaning": "nhà ăn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "music room",
+      "meaning": "phòng âm nhạc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phòng âm nhạc”?",
+      "narration": "Từ nào có nghĩa là “phòng âm nhạc”?",
+      "distractors": [
+        {
+          "word": "classroom",
+          "meaning": "phòng học",
+          "pos": "noun"
+        },
+        {
+          "word": "playground",
+          "meaning": "sân chơi",
+          "pos": "noun"
+        },
+        {
+          "word": "laboratory",
+          "meaning": "phòng làm thí nghiệm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "auditorium",
+      "meaning": "hội trường",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hội trường”?",
+      "narration": "Từ nào có nghĩa là “hội trường”?",
+      "distractors": [
+        {
+          "word": "library",
+          "meaning": "thư viện",
+          "pos": "noun"
+        },
+        {
+          "word": "cafeteria",
+          "meaning": "nhà ăn",
+          "pos": "noun"
+        },
+        {
+          "word": "gymnasium",
+          "meaning": "nhà tập thể thao",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

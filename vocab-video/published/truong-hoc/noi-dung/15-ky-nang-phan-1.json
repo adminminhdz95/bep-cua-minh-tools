@@ -1,0 +1,131 @@
+{
+  "title": "TRƯỜNG HỌC 15",
+  "topic": "Kỹ năng học tập",
+  "part": 1,
+  "think_seconds": 6.233333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "read",
+      "meaning": "đọc",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “đọc”?",
+      "narration": "Từ nào có nghĩa là “đọc”?",
+      "distractors": [
+        {
+          "word": "listen",
+          "meaning": "lắng nghe",
+          "pos": "verb"
+        },
+        {
+          "word": "count",
+          "meaning": "đếm",
+          "pos": "verb"
+        },
+        {
+          "word": "draw",
+          "meaning": "vẽ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "write",
+      "meaning": "viết",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “viết”?",
+      "narration": "Từ nào có nghĩa là “viết”?",
+      "distractors": [
+        {
+          "word": "speak",
+          "meaning": "nói",
+          "pos": "verb"
+        },
+        {
+          "word": "spell",
+          "meaning": "đánh vần",
+          "pos": "verb"
+        },
+        {
+          "word": "calculate",
+          "meaning": "tính toán",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "listen",
+      "meaning": "lắng nghe",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “lắng nghe”?",
+      "narration": "Từ nào có nghĩa là “lắng nghe”?",
+      "distractors": [
+        {
+          "word": "count",
+          "meaning": "đếm",
+          "pos": "verb"
+        },
+        {
+          "word": "draw",
+          "meaning": "vẽ",
+          "pos": "verb"
+        },
+        {
+          "word": "memorize",
+          "meaning": "ghi nhớ",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "speak",
+      "meaning": "nói",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “nói”?",
+      "narration": "Từ nào có nghĩa là “nói”?",
+      "distractors": [
+        {
+          "word": "spell",
+          "meaning": "đánh vần",
+          "pos": "verb"
+        },
+        {
+          "word": "calculate",
+          "meaning": "tính toán",
+          "pos": "verb"
+        },
+        {
+          "word": "revise",
+          "meaning": "ôn bài",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "count",
+      "meaning": "đếm",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “đếm”?",
+      "narration": "Từ nào có nghĩa là “đếm”?",
+      "distractors": [
+        {
+          "word": "draw",
+          "meaning": "vẽ",
+          "pos": "verb"
+        },
+        {
+          "word": "memorize",
+          "meaning": "ghi nhớ",
+          "pos": "verb"
+        },
+        {
+          "word": "read",
+          "meaning": "đọc",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}
