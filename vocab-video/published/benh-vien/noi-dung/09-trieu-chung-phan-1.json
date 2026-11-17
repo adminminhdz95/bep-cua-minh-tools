@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 09",
+  "topic": "Triệu chứng thường gặp",
+  "part": 1,
+  "think_seconds": 7.066666666666666,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "fever",
+      "meaning": "sốt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “sốt”?",
+      "narration": "Từ nào có nghĩa là “sốt”?",
+      "distractors": [
+        {
+          "word": "headache",
+          "meaning": "cơn đau đầu",
+          "pos": "noun"
+        },
+        {
+          "word": "stomachache",
+          "meaning": "cơn đau bụng",
+          "pos": "noun"
+        },
+        {
+          "word": "nausea",
+          "meaning": "cảm giác buồn nôn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cough",
+      "meaning": "cơn ho",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cơn ho”?",
+      "narration": "Từ nào có nghĩa là “cơn ho”?",
+      "distractors": [
+        {
+          "word": "sore throat",
+          "meaning": "tình trạng đau họng",
+          "pos": "noun"
+        },
+        {
+          "word": "dizziness",
+          "meaning": "cảm giác chóng mặt",
+          "pos": "noun"
+        },
+        {
+          "word": "fatigue",
+          "meaning": "tình trạng mệt mỏi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "headache",
+      "meaning": "cơn đau đầu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cơn đau đầu”?",
+      "narration": "Từ nào có nghĩa là “cơn đau đầu”?",
+      "distractors": [
+        {
+          "word": "stomachache",
+          "meaning": "cơn đau bụng",
+          "pos": "noun"
+        },
+        {
+          "word": "nausea",
+          "meaning": "cảm giác buồn nôn",
+          "pos": "noun"
+        },
+        {
+          "word": "shortness of breath",
+          "meaning": "tình trạng khó thở",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sore throat",
+      "meaning": "tình trạng đau họng",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ cảm giác đau rát ở cổ họng khi nuốt?",
+      "narration": "Từ nào chỉ cảm giác đau rát ở cổ họng khi nuốt?",
+      "distractors": [
+        {
+          "word": "dizziness",
+          "meaning": "cảm giác chóng mặt",
+          "pos": "noun"
+        },
+        {
+          "word": "fatigue",
+          "meaning": "tình trạng mệt mỏi",
+          "pos": "noun"
+        },
+        {
+          "word": "chest pain",
+          "meaning": "cơn đau ngực",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "stomachache",
+      "meaning": "cơn đau bụng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cơn đau bụng”?",
+      "narration": "Từ nào có nghĩa là “cơn đau bụng”?",
+      "distractors": [
+        {
+          "word": "nausea",
+          "meaning": "cảm giác buồn nôn",
+          "pos": "noun"
+        },
+        {
+          "word": "shortness of breath",
+          "meaning": "tình trạng khó thở",
+          "pos": "noun"
+        },
+        {
+          "word": "fever",
+          "meaning": "sốt",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿Video,Chủ đề,Phần,Từ vựng,Thời lượng (giây),File MP4
+1,Nhân viên y tế,1,"doctor, nurse, surgeon, dentist, pharmacist",48.0,01-nhan-vien-phan-1.mp4
+2,Nhân viên y tế,2,"midwife, paramedic, radiologist, anesthesiologist, physiotherapist",50.666666666666664,02-nhan-vien-phan-2.mp4
+3,Khu vực trong bệnh viện,1,"waiting room, operating room, emergency department, intensive care unit, maternity ward",50.5,03-khu-vuc-phan-1.mp4
+4,Khu vực trong bệnh viện,2,"reception desk, laboratory, pharmacy, examination room, recovery room",53.0,04-khu-vuc-phan-2.mp4
+5,Dụng cụ khám bệnh,1,"stethoscope, thermometer, blood pressure monitor, pulse oximeter, reflex hammer",51.833333333333336,05-dung-cu-phan-1.mp4
+6,Dụng cụ khám bệnh,2,"otoscope, syringe, needle, tongue depressor, tweezers",50.166666666666664,06-dung-cu-phan-2.mp4
+7,Vật dụng chăm sóc,1,"bandage, gauze, medical tape, cotton ball, wound dressing",55.0,07-vat-dung-phan-1.mp4
+8,Vật dụng chăm sóc,2,"wheelchair, stretcher, crutch, walking frame, hospital bed",54.5,08-vat-dung-phan-2.mp4
+9,Triệu chứng thường gặp,1,"fever, cough, headache, sore throat, stomachache",46.166666666666664,09-trieu-chung-phan-1.mp4
+10,Triệu chứng thường gặp,2,"dizziness, nausea, fatigue, shortness of breath, chest pain",48.0,10-trieu-chung-phan-2.mp4
+11,Tình trạng sức khỏe,1,"fracture, sprain, bruise, burn, cut",46.333333333333336,11-tinh-trang-phan-1.mp4
+12,Tình trạng sức khỏe,2,"infection, allergy, asthma, diabetes, anemia",53.166666666666664,12-tinh-trang-phan-2.mp4
+13,Khám và xét nghiệm,1,"blood test, urine test, X-ray, ultrasound, CT scan",55.833333333333336,13-xet-nghiem-phan-1.mp4
+14,Khám và xét nghiệm,2,"MRI scan, electrocardiogram, biopsy, vision test, hearing test",53.666666666666664,14-xet-nghiem-phan-2.mp4
+15,Thuốc và điều trị,1,"painkiller, antibiotic, antihistamine, antiseptic, vaccine",55.333333333333336,15-dieu-tri-phan-1.mp4
+16,Thuốc và điều trị,2,"ointment, eye drops, nasal spray, cough syrup, inhaler",48.5,16-dieu-tri-phan-2.mp4
+17,Hoạt động tại bệnh viện,1,"examine, diagnose, prescribe, vaccinate, disinfect",46.333333333333336,17-hoat-dong-phan-1.mp4
+18,Hoạt động tại bệnh viện,2,"admit, discharge, recover, rehabilitate, monitor",56.166666666666664,18-hoat-dong-phan-2.mp4
+19,Hồ sơ và thông tin,1,"appointment, prescription, medical record, referral letter, consent form",48.833333333333336,19-ho-so-phan-1.mp4
+20,Hồ sơ và thông tin,2,"insurance card, patient wristband, test result, hospital bill, discharge summary",51.666666666666664,20-ho-so-phan-2.mp4

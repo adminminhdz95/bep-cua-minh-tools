@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 03",
+  "topic": "Khu vực trong bệnh viện",
+  "part": 1,
+  "think_seconds": 7.433333333333334,
+  "reveal_seconds": 2.6666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "waiting room",
+      "meaning": "phòng chờ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ căn phòng để mọi người ngồi đợi đến lượt khám?",
+      "narration": "Từ nào chỉ căn phòng để mọi người ngồi đợi đến lượt khám?",
+      "distractors": [
+        {
+          "word": "emergency department",
+          "meaning": "khoa cấp cứu",
+          "pos": "noun"
+        },
+        {
+          "word": "maternity ward",
+          "meaning": "khu sản khoa",
+          "pos": "noun"
+        },
+        {
+          "word": "laboratory",
+          "meaning": "phòng xét nghiệm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "operating room",
+      "meaning": "phòng mổ",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “phòng mổ”?",
+      "narration": "Từ nào có nghĩa là “phòng mổ”?",
+      "distractors": [
+        {
+          "word": "intensive care unit",
+          "meaning": "khoa hồi sức tích cực",
+          "pos": "noun"
+        },
+        {
+          "word": "reception desk",
+          "meaning": "quầy tiếp đón",
+          "pos": "noun"
+        },
+        {
+          "word": "pharmacy",
+          "meaning": "nhà thuốc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "emergency department",
+      "meaning": "khoa cấp cứu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “khoa cấp cứu”?",
+      "narration": "Từ nào có nghĩa là “khoa cấp cứu”?",
+      "distractors": [
+        {
+          "word": "maternity ward",
+          "meaning": "khu sản khoa",
+          "pos": "noun"
+        },
+        {
+          "word": "laboratory",
+          "meaning": "phòng xét nghiệm",
+          "pos": "noun"
+        },
+        {
+          "word": "examination room",
+          "meaning": "phòng khám bệnh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "intensive care unit",
+      "meaning": "khoa hồi sức tích cực",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “khoa hồi sức tích cực”?",
+      "narration": "Từ nào có nghĩa là “khoa hồi sức tích cực”?",
+      "distractors": [
+        {
+          "word": "reception desk",
+          "meaning": "quầy tiếp đón",
+          "pos": "noun"
+        },
+        {
+          "word": "pharmacy",
+          "meaning": "nhà thuốc",
+          "pos": "noun"
+        },
+        {
+          "word": "recovery room",
+          "meaning": "phòng hồi tỉnh sau phẫu thuật",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "maternity ward",
+      "meaning": "khu sản khoa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “khu sản khoa”?",
+      "narration": "Từ nào có nghĩa là “khu sản khoa”?",
+      "distractors": [
+        {
+          "word": "laboratory",
+          "meaning": "phòng xét nghiệm",
+          "pos": "noun"
+        },
+        {
+          "word": "examination room",
+          "meaning": "phòng khám bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "waiting room",
+          "meaning": "phòng chờ",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

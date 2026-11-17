@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 17",
+  "topic": "Hoạt động tại bệnh viện",
+  "part": 1,
+  "think_seconds": 7.266666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "examine",
+      "meaning": "thăm khám người bệnh",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “thăm khám người bệnh”?",
+      "narration": "Từ nào có nghĩa là “thăm khám người bệnh”?",
+      "distractors": [
+        {
+          "word": "prescribe",
+          "meaning": "kê đơn thuốc",
+          "pos": "verb"
+        },
+        {
+          "word": "disinfect",
+          "meaning": "khử trùng",
+          "pos": "verb"
+        },
+        {
+          "word": "discharge",
+          "meaning": "cho người bệnh xuất viện",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "diagnose",
+      "meaning": "chẩn đoán bệnh",
+      "pos": "verb",
+      "prompt": "Động từ nào chỉ việc xác định người bệnh đang mắc bệnh gì?",
+      "narration": "Động từ nào chỉ việc xác định người bệnh đang mắc bệnh gì?",
+      "distractors": [
+        {
+          "word": "vaccinate",
+          "meaning": "tiêm chủng",
+          "pos": "verb"
+        },
+        {
+          "word": "admit",
+          "meaning": "tiếp nhận người bệnh vào điều trị nội trú",
+          "pos": "verb"
+        },
+        {
+          "word": "recover",
+          "meaning": "hồi phục sức khỏe",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "prescribe",
+      "meaning": "kê đơn thuốc",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “kê đơn thuốc”?",
+      "narration": "Từ nào có nghĩa là “kê đơn thuốc”?",
+      "distractors": [
+        {
+          "word": "disinfect",
+          "meaning": "khử trùng",
+          "pos": "verb"
+        },
+        {
+          "word": "discharge",
+          "meaning": "cho người bệnh xuất viện",
+          "pos": "verb"
+        },
+        {
+          "word": "rehabilitate",
+          "meaning": "phục hồi chức năng cho người bệnh",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "vaccinate",
+      "meaning": "tiêm chủng",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “tiêm chủng”?",
+      "narration": "Từ nào có nghĩa là “tiêm chủng”?",
+      "distractors": [
+        {
+          "word": "admit",
+          "meaning": "tiếp nhận người bệnh vào điều trị nội trú",
+          "pos": "verb"
+        },
+        {
+          "word": "recover",
+          "meaning": "hồi phục sức khỏe",
+          "pos": "verb"
+        },
+        {
+          "word": "monitor",
+          "meaning": "theo dõi tình trạng người bệnh",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "disinfect",
+      "meaning": "khử trùng",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “khử trùng”?",
+      "narration": "Từ nào có nghĩa là “khử trùng”?",
+      "distractors": [
+        {
+          "word": "discharge",
+          "meaning": "cho người bệnh xuất viện",
+          "pos": "verb"
+        },
+        {
+          "word": "rehabilitate",
+          "meaning": "phục hồi chức năng cho người bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "examine",
+          "meaning": "thăm khám người bệnh",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

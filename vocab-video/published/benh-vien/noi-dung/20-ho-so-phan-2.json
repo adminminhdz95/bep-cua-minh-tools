@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 20",
+  "topic": "Hồ sơ và thông tin",
+  "part": 2,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2.566666666666667,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "insurance card",
+      "meaning": "thẻ bảo hiểm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thẻ bảo hiểm”?",
+      "narration": "Từ nào có nghĩa là “thẻ bảo hiểm”?",
+      "distractors": [
+        {
+          "word": "test result",
+          "meaning": "kết quả xét nghiệm",
+          "pos": "noun"
+        },
+        {
+          "word": "discharge summary",
+          "meaning": "bản tóm tắt điều trị khi xuất viện",
+          "pos": "noun"
+        },
+        {
+          "word": "prescription",
+          "meaning": "đơn thuốc",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "patient wristband",
+      "meaning": "vòng đeo tay nhận diện người bệnh",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diện?",
+      "narration": "Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diện?",
+      "distractors": [
+        {
+          "word": "hospital bill",
+          "meaning": "hóa đơn viện phí",
+          "pos": "noun"
+        },
+        {
+          "word": "appointment",
+          "meaning": "lịch hẹn khám bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "medical record",
+          "meaning": "hồ sơ bệnh án",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "test result",
+      "meaning": "kết quả xét nghiệm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “kết quả xét nghiệm”?",
+      "narration": "Từ nào có nghĩa là “kết quả xét nghiệm”?",
+      "distractors": [
+        {
+          "word": "discharge summary",
+          "meaning": "bản tóm tắt điều trị khi xuất viện",
+          "pos": "noun"
+        },
+        {
+          "word": "prescription",
+          "meaning": "đơn thuốc",
+          "pos": "noun"
+        },
+        {
+          "word": "referral letter",
+          "meaning": "giấy chuyển khám chuyên khoa",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hospital bill",
+      "meaning": "hóa đơn viện phí",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện?",
+      "narration": "Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện?",
+      "distractors": [
+        {
+          "word": "appointment",
+          "meaning": "lịch hẹn khám bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "medical record",
+          "meaning": "hồ sơ bệnh án",
+          "pos": "noun"
+        },
+        {
+          "word": "consent form",
+          "meaning": "giấy chấp thuận điều trị",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "discharge summary",
+      "meaning": "bản tóm tắt điều trị khi xuất viện",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?",
+      "narration": "Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?",
+      "distractors": [
+        {
+          "word": "prescription",
+          "meaning": "đơn thuốc",
+          "pos": "noun"
+        },
+        {
+          "word": "referral letter",
+          "meaning": "giấy chuyển khám chuyên khoa",
+          "pos": "noun"
+        },
+        {
+          "word": "insurance card",
+          "meaning": "thẻ bảo hiểm",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

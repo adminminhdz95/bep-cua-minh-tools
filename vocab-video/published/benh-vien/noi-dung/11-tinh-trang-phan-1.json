@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 11",
+  "topic": "Tình trạng sức khỏe",
+  "part": 1,
+  "think_seconds": 7.0,
+  "reveal_seconds": 2.2666666666666666,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "fracture",
+      "meaning": "tình trạng gãy xương",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tình trạng gãy xương”?",
+      "narration": "Từ nào có nghĩa là “tình trạng gãy xương”?",
+      "distractors": [
+        {
+          "word": "bruise",
+          "meaning": "vết bầm tím",
+          "pos": "noun"
+        },
+        {
+          "word": "cut",
+          "meaning": "vết cắt trên da",
+          "pos": "noun"
+        },
+        {
+          "word": "allergy",
+          "meaning": "tình trạng dị ứng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "sprain",
+      "meaning": "tình trạng bong gân",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tình trạng bong gân”?",
+      "narration": "Từ nào có nghĩa là “tình trạng bong gân”?",
+      "distractors": [
+        {
+          "word": "burn",
+          "meaning": "vết bỏng",
+          "pos": "noun"
+        },
+        {
+          "word": "infection",
+          "meaning": "tình trạng nhiễm trùng",
+          "pos": "noun"
+        },
+        {
+          "word": "asthma",
+          "meaning": "bệnh hen suyễn",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "bruise",
+      "meaning": "vết bầm tím",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vết bầm tím”?",
+      "narration": "Từ nào có nghĩa là “vết bầm tím”?",
+      "distractors": [
+        {
+          "word": "cut",
+          "meaning": "vết cắt trên da",
+          "pos": "noun"
+        },
+        {
+          "word": "allergy",
+          "meaning": "tình trạng dị ứng",
+          "pos": "noun"
+        },
+        {
+          "word": "diabetes",
+          "meaning": "bệnh đái tháo đường",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "burn",
+      "meaning": "vết bỏng",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vết bỏng”?",
+      "narration": "Từ nào có nghĩa là “vết bỏng”?",
+      "distractors": [
+        {
+          "word": "infection",
+          "meaning": "tình trạng nhiễm trùng",
+          "pos": "noun"
+        },
+        {
+          "word": "asthma",
+          "meaning": "bệnh hen suyễn",
+          "pos": "noun"
+        },
+        {
+          "word": "anemia",
+          "meaning": "tình trạng thiếu máu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cut",
+      "meaning": "vết cắt trên da",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vết cắt trên da”?",
+      "narration": "Từ nào có nghĩa là “vết cắt trên da”?",
+      "distractors": [
+        {
+          "word": "allergy",
+          "meaning": "tình trạng dị ứng",
+          "pos": "noun"
+        },
+        {
+          "word": "diabetes",
+          "meaning": "bệnh đái tháo đường",
+          "pos": "noun"
+        },
+        {
+          "word": "fracture",
+          "meaning": "tình trạng gãy xương",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

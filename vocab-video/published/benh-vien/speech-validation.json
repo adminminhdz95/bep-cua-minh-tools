@@ -1,0 +1,516 @@
+{
+  "status": "technical_checks_passed_with_vietnamese_asr_uncertainties",
+  "videos": 20,
+  "questions": 100,
+  "english_answers_recognized": 100,
+  "vietnamese_exact_video_transcripts": 8,
+  "vietnamese_nonidentical_video_transcripts": [
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    15,
+    16,
+    20
+  ],
+  "method": "MP4 spoken regions decoded with FFmpeg; faster-whisper small/large-v3-turbo, no initial text prompt. English compares case/punctuation/compound spacing. ASR is not a phonetic assessment; no direct listening claimed.",
+  "remaining_differences": [
+    {
+      "video": 3,
+      "language": "vi",
+      "expected": "Từ nào chỉ căn phòng để mọi người ngồi đợi đến lượt khám? Từ nào có nghĩa là “phòng mổ”? Từ nào có nghĩa là “khoa cấp cứu”? Từ nào có nghĩa là “khoa hồi sức tích cực”? Từ nào có nghĩa là “khu sản khoa”?",
+      "recognized": "Từ nào chỉ căng phòng để mọi người ngồi đợi đến lượt khám? Từ nào có nghĩa là phòng mổ? Từ nào có nghĩa là khoa cấp cứu? Từ nào có nghĩa là khoa hồi sức tiết cực? Từ nào có nghĩa là khu sản khoa?",
+      "similarity": 0.9815303430079155,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.06,
+          "text": " Từ nào chỉ căng phòng để mọi người ngồi đợi đến lượt khám?",
+          "avg_logprob": -0.07211412338817373
+        },
+        {
+          "start": 3.7800000000000002,
+          "end": 5.5200000000000005,
+          "text": " Từ nào có nghĩa là phòng mổ?",
+          "avg_logprob": -0.07211412338817373
+        },
+        {
+          "start": 6.34,
+          "end": 8.48,
+          "text": " Từ nào có nghĩa là khoa cấp cứu?",
+          "avg_logprob": -0.07211412338817373
+        },
+        {
+          "start": 9.1,
+          "end": 12.26,
+          "text": " Từ nào có nghĩa là khoa hồi sức tiết cực?",
+          "avg_logprob": -0.07211412338817373
+        },
+        {
+          "start": 12.92,
+          "end": 15.540000000000001,
+          "text": " Từ nào có nghĩa là khu sản khoa?",
+          "avg_logprob": -0.07211412338817373
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 5,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “ống nghe y tế”? Từ nào có nghĩa là “nhiệt kế”? Từ nào có nghĩa là “máy đo huyết áp”? Từ nào chỉ máy dùng để đo lượng ô xi bão hòa trong máu? Từ nào chỉ chiếc búa nhỏ bác sĩ dùng để kiểm tra phản xạ?",
+      "recognized": "Từ nào có nghĩa là ống nghe y tế? Từ nào có nghĩa là nhiệt kế? Từ nào có nghĩa là máy đo huyết áp? Từ nào chỉ máy dùng để đo lượng oxy bão hòa trong máu? Từ nào chỉ chiếc búa nhỏ bác sĩ dùng để kiểm tra phản xạ?",
+      "similarity": 0.9878934624697336,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.58,
+          "text": " Từ nào có nghĩa là ống nghe y tế?",
+          "avg_logprob": -0.07476949578239804
+        },
+        {
+          "start": 3.42,
+          "end": 5.2,
+          "text": " Từ nào có nghĩa là nhiệt kế?",
+          "avg_logprob": -0.07476949578239804
+        },
+        {
+          "start": 6.08,
+          "end": 8.8,
+          "text": " Từ nào có nghĩa là máy đo huyết áp?",
+          "avg_logprob": -0.07476949578239804
+        },
+        {
+          "start": 9.46,
+          "end": 12.92,
+          "text": " Từ nào chỉ máy dùng để đo lượng oxy bão hòa trong máu?",
+          "avg_logprob": -0.07476949578239804
+        },
+        {
+          "start": 13.66,
+          "end": 17.1,
+          "text": " Từ nào chỉ chiếc búa nhỏ bác sĩ dùng để kiểm tra phản xạ?",
+          "avg_logprob": -0.07476949578239804
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 6,
+      "language": "vi",
+      "expected": "Từ nào chỉ thiết bị chuyên dùng để khám ống tai? Từ nào có nghĩa là “ống tiêm”? Từ nào có nghĩa là “kim tiêm”? Từ nào chỉ thanh nhỏ bác sĩ dùng để giữ lưỡi khi khám miệng? Từ nào chỉ dụng cụ có hai đầu nhỏ để kẹp và gắp?",
+      "recognized": "Từ nào chỉ thiết bị chuyên dùng để khám ống tai? Từ nào có nghĩa là ống tiêm? Từ nào có nghĩa là kim tiêm? Từ nào chỉ thanh nhỏ bác sĩ dùng để giữ lưỡi khi khám miệng? Từ nào chỉ dùng cụ có hai đầu nhỏ để kẹp và gắp?",
+      "similarity": 0.995260663507109,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.5,
+          "text": " Từ nào chỉ thiết bị chuyên dùng để khám ống tai?",
+          "avg_logprob": -0.06616739862981964
+        },
+        {
+          "start": 3.34,
+          "end": 5.46,
+          "text": " Từ nào có nghĩa là ống tiêm?",
+          "avg_logprob": -0.06616739862981964
+        },
+        {
+          "start": 6.28,
+          "end": 8.2,
+          "text": " Từ nào có nghĩa là kim tiêm?",
+          "avg_logprob": -0.06616739862981964
+        },
+        {
+          "start": 8.98,
+          "end": 12.64,
+          "text": " Từ nào chỉ thanh nhỏ bác sĩ dùng để giữ lưỡi khi khám miệng?",
+          "avg_logprob": -0.06616739862981964
+        },
+        {
+          "start": 13.42,
+          "end": 16.38,
+          "text": " Từ nào chỉ dùng cụ có hai đầu nhỏ để kẹp và gắp?",
+          "avg_logprob": -0.06616739862981964
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 7,
+      "language": "vi",
+      "expected": "Từ nào chỉ dải vải dài cuộn lại, dùng để quấn quanh vết thương? Từ nào có nghĩa là “gạc y tế”? Từ nào có nghĩa là “băng keo y tế”? Từ nào có nghĩa là “viên bông y tế”? Từ nào chỉ miếng đặt lên vết thương để bảo vệ?",
+      "recognized": "Từ nào chỉ giải vải dài cuộn lại, dùng để cuốn quanh vết thương? Từ nào có nghĩa là gạt y tế? Từ nào có nghĩa là băng keo y tế? Từ nào có nghĩa là viên bông y tế? Từ nào chỉ miếng đặt lên vết thương để bảo vệ?",
+      "similarity": 0.9777777777777777,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.62,
+          "text": " Từ nào chỉ giải vải dài cuộn lại, dùng để cuốn quanh vết thương?",
+          "avg_logprob": -0.09329822098854745
+        },
+        {
+          "start": 5.46,
+          "end": 8.08,
+          "text": " Từ nào có nghĩa là gạt y tế?",
+          "avg_logprob": -0.09329822098854745
+        },
+        {
+          "start": 9.0,
+          "end": 11.56,
+          "text": " Từ nào có nghĩa là băng keo y tế?",
+          "avg_logprob": -0.09329822098854745
+        },
+        {
+          "start": 12.44,
+          "end": 14.48,
+          "text": " Từ nào có nghĩa là viên bông y tế?",
+          "avg_logprob": -0.09329822098854745
+        },
+        {
+          "start": 15.36,
+          "end": 17.78,
+          "text": " Từ nào chỉ miếng đặt lên vết thương để bảo vệ?",
+          "avg_logprob": -0.09329822098854745
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 8,
+      "language": "vi",
+      "expected": "Từ nào chỉ chiếc ghế có bánh để người khó đi lại ngồi di chuyển? Từ nào chỉ dụng cụ để nhân viên khiêng người đang nằm? Từ nào chỉ thanh chống giúp người bị đau chân đi lại? Từ nào có nghĩa là “khung tập đi”? Từ nào chỉ chiếc giường dành cho bệnh nhân nằm điều trị?",
+      "recognized": "Từ nào chỉ chiếc ghế có bắn để người khó đi lại ngồi di chuyển? Từ nào chỉ dụng cụ để nhân viên khiêng người đang nằm? Từ nào chỉ thanh chống giúp người bị đau chân đi lại? Từ nào có nghĩa là khung tập đi? Từ nào chỉ chiếc giường dành cho bệnh nhân nằm điều trị?",
+      "similarity": 0.9941747572815534,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.16,
+          "text": " Từ nào chỉ chiếc ghế có bắn để người khó đi lại ngồi di chuyển?",
+          "avg_logprob": -0.07169878536037036
+        },
+        {
+          "start": 4.92,
+          "end": 7.640000000000001,
+          "text": " Từ nào chỉ dụng cụ để nhân viên khiêng người đang nằm?",
+          "avg_logprob": -0.07169878536037036
+        },
+        {
+          "start": 8.32,
+          "end": 11.16,
+          "text": " Từ nào chỉ thanh chống giúp người bị đau chân đi lại?",
+          "avg_logprob": -0.07169878536037036
+        },
+        {
+          "start": 11.98,
+          "end": 14.38,
+          "text": " Từ nào có nghĩa là khung tập đi?",
+          "avg_logprob": -0.07169878536037036
+        },
+        {
+          "start": 15.120000000000001,
+          "end": 17.78,
+          "text": " Từ nào chỉ chiếc giường dành cho bệnh nhân nằm điều trị?",
+          "avg_logprob": -0.07169878536037036
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 9,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “sốt”? Từ nào có nghĩa là “cơn ho”? Từ nào có nghĩa là “cơn đau đầu”? Từ nào chỉ cảm giác đau rát ở cổ họng khi nuốt? Từ nào có nghĩa là “cơn đau bụng”?",
+      "recognized": "Từ nào có nghĩa là sốt? Từ nào có nghĩa là cơn ho? Từ nào có nghĩa là cơn đau đầu? Từ nào chỉ cảm giác đau rác ở cổ hỏng khi nuốt? Từ nào có nghĩa là cơn đau bụng?",
+      "similarity": 0.9873417721518988,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.56,
+          "text": " Từ nào có nghĩa là sốt?",
+          "avg_logprob": -0.09922578746889844
+        },
+        {
+          "start": 2.2,
+          "end": 3.8200000000000003,
+          "text": " Từ nào có nghĩa là cơn ho?",
+          "avg_logprob": -0.09922578746889844
+        },
+        {
+          "start": 4.48,
+          "end": 6.4,
+          "text": " Từ nào có nghĩa là cơn đau đầu?",
+          "avg_logprob": -0.09922578746889844
+        },
+        {
+          "start": 7.08,
+          "end": 9.9,
+          "text": " Từ nào chỉ cảm giác đau rác ở cổ hỏng khi nuốt?",
+          "avg_logprob": -0.09922578746889844
+        },
+        {
+          "start": 10.540000000000001,
+          "end": 12.72,
+          "text": " Từ nào có nghĩa là cơn đau bụng?",
+          "avg_logprob": -0.09922578746889844
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 10,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “cảm giác chóng mặt”? Từ nào chỉ cảm giác muốn nôn ra nhưng chưa nôn? Từ nào có nghĩa là “tình trạng mệt mỏi”? Từ nào có nghĩa là “tình trạng khó thở”? Từ nào có nghĩa là “cơn đau ngực”?",
+      "recognized": "Từ nào có nghĩa là cảm giác chóng mặt? Từ nào chỉ cảm giác muốn nôm ra, nhưng chưa nôm? Từ nào có nghĩa là tình trạng mệt mỏi? Từ nào có nghĩa là tình trạng khó thở? Từ nào có nghĩa là cường đau ngực?",
+      "similarity": 0.9792746113989638,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.66,
+          "text": " Từ nào có nghĩa là cảm giác chóng mặt?",
+          "avg_logprob": -0.10018062283811362
+        },
+        {
+          "start": 3.42,
+          "end": 6.54,
+          "text": " Từ nào chỉ cảm giác muốn nôm ra, nhưng chưa nôm?",
+          "avg_logprob": -0.10018062283811362
+        },
+        {
+          "start": 7.38,
+          "end": 9.6,
+          "text": " Từ nào có nghĩa là tình trạng mệt mỏi?",
+          "avg_logprob": -0.10018062283811362
+        },
+        {
+          "start": 10.38,
+          "end": 12.76,
+          "text": " Từ nào có nghĩa là tình trạng khó thở?",
+          "avg_logprob": -0.10018062283811362
+        },
+        {
+          "start": 13.6,
+          "end": 16.12,
+          "text": " Từ nào có nghĩa là cường đau ngực?",
+          "avg_logprob": -0.10018062283811362
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 12,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “tình trạng nhiễm trùng”? Từ nào chỉ phản ứng quá mức của cơ thể với một chất gây dị ứng? Từ nào chỉ bệnh hen suyễn gây các cơn thở khò khè? Từ nào có nghĩa là “bệnh đái tháo đường”? Từ nào có nghĩa là “tình trạng thiếu máu”?",
+      "recognized": "Từ nào có nghĩa là tình trạng nhiễm trùng? Từ nào chỉ phản ứng qua mức của cơ thể với một chất gây dị ứng? Từ nào chỉ bệnh hèn xuyển gây các cơn thở khò khe? Từ nào có nghĩa là bệnh đái tháo đường? Từ nào có nghĩa là tình trạng thiếu máu?",
+      "similarity": 0.9785407725321889,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.62,
+          "text": " Từ nào có nghĩa là tình trạng nhiễm trùng?",
+          "avg_logprob": -0.08387369708677309
+        },
+        {
+          "start": 3.42,
+          "end": 7.44,
+          "text": " Từ nào chỉ phản ứng qua mức của cơ thể với một chất gây dị ứng?",
+          "avg_logprob": -0.08387369708677309
+        },
+        {
+          "start": 8.24,
+          "end": 11.28,
+          "text": " Từ nào chỉ bệnh hèn xuyển gây các cơn thở khò khe?",
+          "avg_logprob": -0.08387369708677309
+        },
+        {
+          "start": 12.120000000000001,
+          "end": 14.9,
+          "text": " Từ nào có nghĩa là bệnh đái tháo đường?",
+          "avg_logprob": -0.08387369708677309
+        },
+        {
+          "start": 15.76,
+          "end": 18.240000000000002,
+          "text": " Từ nào có nghĩa là tình trạng thiếu máu?",
+          "avg_logprob": -0.08387369708677309
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 13,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “xét nghiệm máu”? Từ nào có nghĩa là “xét nghiệm nước tiểu”? Từ nào chỉ phương pháp chụp X quang? Từ nào có nghĩa là “siêu âm”? Từ nào chỉ phương pháp dùng tia X tạo nhiều ảnh lát cắt của cơ thể?",
+      "recognized": "Từ nào có nghĩa là xét nghiệm máu? Từ nào có nghĩa là xét nghiệm nước tiểu? Từ nào chỉ phương pháp chụp X-quang? Từ nào có nghĩa là siêu âm? Từ nào chỉ phương pháp dùng tia X tạo nhiều ảnh lá cắt của cơ thể?",
+      "similarity": 0.9975308641975309,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.62,
+          "text": " Từ nào có nghĩa là xét nghiệm máu?",
+          "avg_logprob": -0.09928377141657564
+        },
+        {
+          "start": 3.2600000000000002,
+          "end": 5.76,
+          "text": " Từ nào có nghĩa là xét nghiệm nước tiểu?",
+          "avg_logprob": -0.09928377141657564
+        },
+        {
+          "start": 6.6000000000000005,
+          "end": 8.620000000000001,
+          "text": " Từ nào chỉ phương pháp chụp X-quang?",
+          "avg_logprob": -0.09928377141657564
+        },
+        {
+          "start": 9.540000000000001,
+          "end": 11.14,
+          "text": " Từ nào có nghĩa là siêu âm?",
+          "avg_logprob": -0.09928377141657564
+        },
+        {
+          "start": 11.86,
+          "end": 16.32,
+          "text": " Từ nào chỉ phương pháp dùng tia X tạo nhiều ảnh lá cắt của cơ thể?",
+          "avg_logprob": -0.09928377141657564
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 15,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “thuốc giảm đau”? Từ nào có nghĩa là “thuốc kháng sinh”? Từ nào chỉ thuốc kháng histamin dùng để giảm triệu chứng dị ứng? Từ nào chỉ chất dùng để diệt vi khuẩn trên da? Từ nào có nghĩa là “vắc xin”?",
+      "recognized": "Từ nào có nghĩa là thuốc giảm đau? Từ nào có nghĩa là thuốc kháng sinh? Từ nào chỉ thuốc kháng histamine dùng để giảm triệu chứng dị ứng? Từ nào chỉ chất dùng để diệt vi khuẩn trên da? Từ nào có nghĩa là vaccine?",
+      "similarity": 0.9830508474576272,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.34,
+          "text": " Từ nào có nghĩa là thuốc giảm đau?",
+          "avg_logprob": -0.09956566845217059
+        },
+        {
+          "start": 3.0,
+          "end": 5.26,
+          "text": " Từ nào có nghĩa là thuốc kháng sinh?",
+          "avg_logprob": -0.09956566845217059
+        },
+        {
+          "start": 5.96,
+          "end": 10.34,
+          "text": " Từ nào chỉ thuốc kháng histamine dùng để giảm triệu chứng dị ứng?",
+          "avg_logprob": -0.09956566845217059
+        },
+        {
+          "start": 11.24,
+          "end": 14.08,
+          "text": " Từ nào chỉ chất dùng để diệt vi khuẩn trên da?",
+          "avg_logprob": -0.09956566845217059
+        },
+        {
+          "start": 14.94,
+          "end": 16.56,
+          "text": " Từ nào có nghĩa là vaccine?",
+          "avg_logprob": -0.09956566845217059
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 16,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “thuốc mỡ bôi ngoài da”? Từ nào chỉ thuốc dạng giọt dùng trực tiếp cho mắt? Từ nào chỉ thuốc dạng phun sương dùng bên trong mũi? Từ nào có nghĩa là “thuốc ho dạng si rô”? Từ nào có nghĩa là “dụng cụ đưa thuốc dạng hít”?",
+      "recognized": "Từ nào có nghĩa là thuốc mỡ bôi ngoài da? Từ nào chỉ thuốc dạng giọt dùng trực tiếp cho mắt? Từ nào chỉ thuốc dạng phung sương dùng bên trong mũi? Từ nào có nghĩa là thuốc ho dạng si rô? Từ nào có nghĩa là dụng cụ đưa thuốc dạng hít?",
+      "similarity": 0.9978021978021978,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.2,
+          "text": " Từ nào có nghĩa là thuốc mỡ bôi ngoài da?",
+          "avg_logprob": -0.08738447618377101
+        },
+        {
+          "start": 4.16,
+          "end": 7.0600000000000005,
+          "text": " Từ nào chỉ thuốc dạng giọt dùng trực tiếp cho mắt?",
+          "avg_logprob": -0.08738447618377101
+        },
+        {
+          "start": 7.640000000000001,
+          "end": 10.76,
+          "text": " Từ nào chỉ thuốc dạng phung sương dùng bên trong mũi?",
+          "avg_logprob": -0.08738447618377101
+        },
+        {
+          "start": 11.44,
+          "end": 13.9,
+          "text": " Từ nào có nghĩa là thuốc ho dạng si rô?",
+          "avg_logprob": -0.08738447618377101
+        },
+        {
+          "start": 14.700000000000001,
+          "end": 17.5,
+          "text": " Từ nào có nghĩa là dụng cụ đưa thuốc dạng hít?",
+          "avg_logprob": -0.08738447618377101
+        }
+      ],
+      "model": "large-v3-turbo"
+    },
+    {
+      "video": 20,
+      "language": "vi",
+      "expected": "Từ nào có nghĩa là “thẻ bảo hiểm”? Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diện? Từ nào có nghĩa là “kết quả xét nghiệm”? Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện? Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?",
+      "recognized": "Từ nào có nghĩa là thẻ bảo hiểm? Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diễn? Từ nào có nghĩa là kết quả xét nghiệm? Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện? Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?",
+      "similarity": 0.9957446808510638,
+      "exact": false,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.66,
+          "text": " Từ nào có nghĩa là thẻ bảo hiểm?",
+          "avg_logprob": -0.07482451227334169
+        },
+        {
+          "start": 3.56,
+          "end": 6.72,
+          "text": " Từ nào chỉ chiếc vòng mang thông tin bệnh nhân để nhận diễn?",
+          "avg_logprob": -0.07482451227334169
+        },
+        {
+          "start": 7.46,
+          "end": 9.74,
+          "text": " Từ nào có nghĩa là kết quả xét nghiệm?",
+          "avg_logprob": -0.07482451227334169
+        },
+        {
+          "start": 10.540000000000001,
+          "end": 13.16,
+          "text": " Từ nào chỉ tờ kê số tiền phải trả cho bệnh viện?",
+          "avg_logprob": -0.07482451227334169
+        },
+        {
+          "start": 14.0,
+          "end": 17.42,
+          "text": " Từ nào chỉ văn bản tóm tắt quá trình điều trị lúc ra viện?",
+          "avg_logprob": -0.07482451227334169
+        }
+      ],
+      "model": "large-v3-turbo"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 15",
+  "topic": "Thuốc và điều trị",
+  "part": 1,
+  "think_seconds": 8.9,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "painkiller",
+      "meaning": "thuốc giảm đau",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thuốc giảm đau”?",
+      "narration": "Từ nào có nghĩa là “thuốc giảm đau”?",
+      "distractors": [
+        {
+          "word": "antihistamine",
+          "meaning": "thuốc kháng histamin chống dị ứng",
+          "pos": "noun"
+        },
+        {
+          "word": "vaccine",
+          "meaning": "vắc xin",
+          "pos": "noun"
+        },
+        {
+          "word": "eye drops",
+          "meaning": "thuốc nhỏ mắt",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "antibiotic",
+      "meaning": "thuốc kháng sinh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “thuốc kháng sinh”?",
+      "narration": "Từ nào có nghĩa là “thuốc kháng sinh”?",
+      "distractors": [
+        {
+          "word": "antiseptic",
+          "meaning": "chất sát trùng",
+          "pos": "noun"
+        },
+        {
+          "word": "ointment",
+          "meaning": "thuốc mỡ bôi ngoài da",
+          "pos": "noun"
+        },
+        {
+          "word": "nasal spray",
+          "meaning": "thuốc xịt mũi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "antihistamine",
+      "meaning": "thuốc kháng histamin chống dị ứng",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ thuốc kháng histamin dùng để giảm triệu chứng dị ứng?",
+      "narration": "Từ nào chỉ thuốc kháng histamin dùng để giảm triệu chứng dị ứng?",
+      "distractors": [
+        {
+          "word": "vaccine",
+          "meaning": "vắc xin",
+          "pos": "noun"
+        },
+        {
+          "word": "eye drops",
+          "meaning": "thuốc nhỏ mắt",
+          "pos": "noun"
+        },
+        {
+          "word": "cough syrup",
+          "meaning": "thuốc ho dạng si rô",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "antiseptic",
+      "meaning": "chất sát trùng",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ chất dùng để diệt vi khuẩn trên da?",
+      "narration": "Từ nào chỉ chất dùng để diệt vi khuẩn trên da?",
+      "distractors": [
+        {
+          "word": "ointment",
+          "meaning": "thuốc mỡ bôi ngoài da",
+          "pos": "noun"
+        },
+        {
+          "word": "nasal spray",
+          "meaning": "thuốc xịt mũi",
+          "pos": "noun"
+        },
+        {
+          "word": "inhaler",
+          "meaning": "dụng cụ đưa thuốc dạng hít",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "vaccine",
+      "meaning": "vắc xin",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “vắc xin”?",
+      "narration": "Từ nào có nghĩa là “vắc xin”?",
+      "distractors": [
+        {
+          "word": "eye drops",
+          "meaning": "thuốc nhỏ mắt",
+          "pos": "noun"
+        },
+        {
+          "word": "cough syrup",
+          "meaning": "thuốc ho dạng si rô",
+          "pos": "noun"
+        },
+        {
+          "word": "painkiller",
+          "meaning": "thuốc giảm đau",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

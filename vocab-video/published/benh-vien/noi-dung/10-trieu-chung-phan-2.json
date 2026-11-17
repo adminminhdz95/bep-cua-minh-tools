@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 10",
+  "topic": "Triệu chứng thường gặp",
+  "part": 2,
+  "think_seconds": 7.6,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "dizziness",
+      "meaning": "cảm giác chóng mặt",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cảm giác chóng mặt”?",
+      "narration": "Từ nào có nghĩa là “cảm giác chóng mặt”?",
+      "distractors": [
+        {
+          "word": "fatigue",
+          "meaning": "tình trạng mệt mỏi",
+          "pos": "noun"
+        },
+        {
+          "word": "chest pain",
+          "meaning": "cơn đau ngực",
+          "pos": "noun"
+        },
+        {
+          "word": "cough",
+          "meaning": "cơn ho",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "nausea",
+      "meaning": "cảm giác buồn nôn",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ cảm giác muốn nôn ra nhưng chưa nôn?",
+      "narration": "Từ nào chỉ cảm giác muốn nôn ra nhưng chưa nôn?",
+      "distractors": [
+        {
+          "word": "shortness of breath",
+          "meaning": "tình trạng khó thở",
+          "pos": "noun"
+        },
+        {
+          "word": "fever",
+          "meaning": "sốt",
+          "pos": "noun"
+        },
+        {
+          "word": "headache",
+          "meaning": "cơn đau đầu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "fatigue",
+      "meaning": "tình trạng mệt mỏi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tình trạng mệt mỏi”?",
+      "narration": "Từ nào có nghĩa là “tình trạng mệt mỏi”?",
+      "distractors": [
+        {
+          "word": "chest pain",
+          "meaning": "cơn đau ngực",
+          "pos": "noun"
+        },
+        {
+          "word": "cough",
+          "meaning": "cơn ho",
+          "pos": "noun"
+        },
+        {
+          "word": "sore throat",
+          "meaning": "tình trạng đau họng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "shortness of breath",
+      "meaning": "tình trạng khó thở",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “tình trạng khó thở”?",
+      "narration": "Từ nào có nghĩa là “tình trạng khó thở”?",
+      "distractors": [
+        {
+          "word": "fever",
+          "meaning": "sốt",
+          "pos": "noun"
+        },
+        {
+          "word": "headache",
+          "meaning": "cơn đau đầu",
+          "pos": "noun"
+        },
+        {
+          "word": "stomachache",
+          "meaning": "cơn đau bụng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "chest pain",
+      "meaning": "cơn đau ngực",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “cơn đau ngực”?",
+      "narration": "Từ nào có nghĩa là “cơn đau ngực”?",
+      "distractors": [
+        {
+          "word": "cough",
+          "meaning": "cơn ho",
+          "pos": "noun"
+        },
+        {
+          "word": "sore throat",
+          "meaning": "tình trạng đau họng",
+          "pos": "noun"
+        },
+        {
+          "word": "dizziness",
+          "meaning": "cảm giác chóng mặt",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

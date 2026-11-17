@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 18",
+  "topic": "Hoạt động tại bệnh viện",
+  "part": 2,
+  "think_seconds": 9.066666666666666,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "admit",
+      "meaning": "tiếp nhận người bệnh vào điều trị nội trú",
+      "pos": "verb",
+      "prompt": "Trong bệnh viện, động từ nào chỉ việc tiếp nhận bệnh nhân vào điều trị nội trú?",
+      "narration": "Trong bệnh viện, động từ nào chỉ việc tiếp nhận bệnh nhân vào điều trị nội trú?",
+      "distractors": [
+        {
+          "word": "recover",
+          "meaning": "hồi phục sức khỏe",
+          "pos": "verb"
+        },
+        {
+          "word": "monitor",
+          "meaning": "theo dõi tình trạng người bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "diagnose",
+          "meaning": "chẩn đoán bệnh",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "discharge",
+      "meaning": "cho người bệnh xuất viện",
+      "pos": "verb",
+      "prompt": "Trong bệnh viện, động từ nào chỉ việc cho bệnh nhân xuất viện?",
+      "narration": "Trong bệnh viện, động từ nào chỉ việc cho bệnh nhân xuất viện?",
+      "distractors": [
+        {
+          "word": "rehabilitate",
+          "meaning": "phục hồi chức năng cho người bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "examine",
+          "meaning": "thăm khám người bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "prescribe",
+          "meaning": "kê đơn thuốc",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "recover",
+      "meaning": "hồi phục sức khỏe",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “hồi phục sức khỏe”?",
+      "narration": "Từ nào có nghĩa là “hồi phục sức khỏe”?",
+      "distractors": [
+        {
+          "word": "monitor",
+          "meaning": "theo dõi tình trạng người bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "diagnose",
+          "meaning": "chẩn đoán bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "vaccinate",
+          "meaning": "tiêm chủng",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "rehabilitate",
+      "meaning": "phục hồi chức năng cho người bệnh",
+      "pos": "verb",
+      "prompt": "Động từ nào chỉ việc giúp người bệnh phục hồi chức năng?",
+      "narration": "Động từ nào chỉ việc giúp người bệnh phục hồi chức năng?",
+      "distractors": [
+        {
+          "word": "examine",
+          "meaning": "thăm khám người bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "prescribe",
+          "meaning": "kê đơn thuốc",
+          "pos": "verb"
+        },
+        {
+          "word": "disinfect",
+          "meaning": "khử trùng",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "word": "monitor",
+      "meaning": "theo dõi tình trạng người bệnh",
+      "pos": "verb",
+      "prompt": "Từ nào có nghĩa là “theo dõi tình trạng người bệnh”?",
+      "narration": "Từ nào có nghĩa là “theo dõi tình trạng người bệnh”?",
+      "distractors": [
+        {
+          "word": "diagnose",
+          "meaning": "chẩn đoán bệnh",
+          "pos": "verb"
+        },
+        {
+          "word": "vaccinate",
+          "meaning": "tiêm chủng",
+          "pos": "verb"
+        },
+        {
+          "word": "admit",
+          "meaning": "tiếp nhận người bệnh vào điều trị nội trú",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

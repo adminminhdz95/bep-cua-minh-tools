@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 06",
+  "topic": "Dụng cụ khám bệnh",
+  "part": 2,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "otoscope",
+      "meaning": "dụng cụ soi tai",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ thiết bị chuyên dùng để khám ống tai?",
+      "narration": "Từ nào chỉ thiết bị chuyên dùng để khám ống tai?",
+      "distractors": [
+        {
+          "word": "needle",
+          "meaning": "kim tiêm",
+          "pos": "noun"
+        },
+        {
+          "word": "tweezers",
+          "meaning": "nhíp gắp",
+          "pos": "noun"
+        },
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "syringe",
+      "meaning": "ống tiêm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ống tiêm”?",
+      "narration": "Từ nào có nghĩa là “ống tiêm”?",
+      "distractors": [
+        {
+          "word": "tongue depressor",
+          "meaning": "que đè lưỡi",
+          "pos": "noun"
+        },
+        {
+          "word": "stethoscope",
+          "meaning": "ống nghe y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "blood pressure monitor",
+          "meaning": "máy đo huyết áp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "needle",
+      "meaning": "kim tiêm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “kim tiêm”?",
+      "narration": "Từ nào có nghĩa là “kim tiêm”?",
+      "distractors": [
+        {
+          "word": "tweezers",
+          "meaning": "nhíp gắp",
+          "pos": "noun"
+        },
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "pulse oximeter",
+          "meaning": "máy đo độ bão hòa ô xi trong máu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tongue depressor",
+      "meaning": "que đè lưỡi",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ thanh nhỏ bác sĩ dùng để giữ lưỡi khi khám miệng?",
+      "narration": "Từ nào chỉ thanh nhỏ bác sĩ dùng để giữ lưỡi khi khám miệng?",
+      "distractors": [
+        {
+          "word": "stethoscope",
+          "meaning": "ống nghe y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "blood pressure monitor",
+          "meaning": "máy đo huyết áp",
+          "pos": "noun"
+        },
+        {
+          "word": "reflex hammer",
+          "meaning": "búa kiểm tra phản xạ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "tweezers",
+      "meaning": "nhíp gắp",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ dụng cụ có hai đầu nhỏ để kẹp và gắp?",
+      "narration": "Từ nào chỉ dụng cụ có hai đầu nhỏ để kẹp và gắp?",
+      "distractors": [
+        {
+          "word": "thermometer",
+          "meaning": "nhiệt kế",
+          "pos": "noun"
+        },
+        {
+          "word": "pulse oximeter",
+          "meaning": "máy đo độ bão hòa ô xi trong máu",
+          "pos": "noun"
+        },
+        {
+          "word": "otoscope",
+          "meaning": "dụng cụ soi tai",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

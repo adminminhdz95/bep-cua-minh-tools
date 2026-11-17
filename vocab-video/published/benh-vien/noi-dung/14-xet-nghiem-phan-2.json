@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 14",
+  "topic": "Khám và xét nghiệm",
+  "part": 2,
+  "think_seconds": 8.3,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "MRI scan",
+      "meaning": "chụp cộng hưởng từ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phương pháp dùng từ trường mạnh để tạo ảnh bên trong cơ thể?",
+      "narration": "Từ nào chỉ phương pháp dùng từ trường mạnh để tạo ảnh bên trong cơ thể?",
+      "distractors": [
+        {
+          "word": "biopsy",
+          "meaning": "sinh thiết",
+          "pos": "noun"
+        },
+        {
+          "word": "hearing test",
+          "meaning": "kiểm tra thính lực",
+          "pos": "noun"
+        },
+        {
+          "word": "urine test",
+          "meaning": "xét nghiệm nước tiểu",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "electrocardiogram",
+      "meaning": "điện tâm đồ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ bản ghi hoạt động điện của tim?",
+      "narration": "Từ nào chỉ bản ghi hoạt động điện của tim?",
+      "distractors": [
+        {
+          "word": "vision test",
+          "meaning": "kiểm tra thị lực",
+          "pos": "noun"
+        },
+        {
+          "word": "blood test",
+          "meaning": "xét nghiệm máu",
+          "pos": "noun"
+        },
+        {
+          "word": "X-ray",
+          "meaning": "chụp X quang",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "biopsy",
+      "meaning": "sinh thiết",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “sinh thiết”?",
+      "narration": "Từ nào có nghĩa là “sinh thiết”?",
+      "distractors": [
+        {
+          "word": "hearing test",
+          "meaning": "kiểm tra thính lực",
+          "pos": "noun"
+        },
+        {
+          "word": "urine test",
+          "meaning": "xét nghiệm nước tiểu",
+          "pos": "noun"
+        },
+        {
+          "word": "ultrasound",
+          "meaning": "siêu âm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "vision test",
+      "meaning": "kiểm tra thị lực",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “kiểm tra thị lực”?",
+      "narration": "Từ nào có nghĩa là “kiểm tra thị lực”?",
+      "distractors": [
+        {
+          "word": "blood test",
+          "meaning": "xét nghiệm máu",
+          "pos": "noun"
+        },
+        {
+          "word": "X-ray",
+          "meaning": "chụp X quang",
+          "pos": "noun"
+        },
+        {
+          "word": "CT scan",
+          "meaning": "chụp cắt lớp vi tính",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hearing test",
+      "meaning": "kiểm tra thính lực",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ việc kiểm tra khả năng nghe âm thanh?",
+      "narration": "Từ nào chỉ việc kiểm tra khả năng nghe âm thanh?",
+      "distractors": [
+        {
+          "word": "urine test",
+          "meaning": "xét nghiệm nước tiểu",
+          "pos": "noun"
+        },
+        {
+          "word": "ultrasound",
+          "meaning": "siêu âm",
+          "pos": "noun"
+        },
+        {
+          "word": "MRI scan",
+          "meaning": "chụp cộng hưởng từ",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

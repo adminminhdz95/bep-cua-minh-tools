@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 02",
+  "topic": "Nhân viên y tế",
+  "part": 2,
+  "think_seconds": 8.033333333333333,
+  "reveal_seconds": 2.1,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "midwife",
+      "meaning": "hộ sinh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hộ sinh”?",
+      "narration": "Từ nào có nghĩa là “hộ sinh”?",
+      "distractors": [
+        {
+          "word": "radiologist",
+          "meaning": "bác sĩ chẩn đoán hình ảnh",
+          "pos": "noun"
+        },
+        {
+          "word": "physiotherapist",
+          "meaning": "chuyên viên vật lý trị liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "nurse",
+          "meaning": "điều dưỡng",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "paramedic",
+      "meaning": "nhân viên cấp cứu ngoại viện",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nhân viên cấp cứu ngoại viện”?",
+      "narration": "Từ nào có nghĩa là “nhân viên cấp cứu ngoại viện”?",
+      "distractors": [
+        {
+          "word": "anesthesiologist",
+          "meaning": "bác sĩ gây mê",
+          "pos": "noun"
+        },
+        {
+          "word": "pharmacist",
+          "meaning": "dược sĩ",
+          "pos": "noun"
+        },
+        {
+          "word": "surgeon",
+          "meaning": "bác sĩ phẫu thuật",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "radiologist",
+      "meaning": "bác sĩ chẩn đoán hình ảnh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bác sĩ chẩn đoán hình ảnh”?",
+      "narration": "Từ nào có nghĩa là “bác sĩ chẩn đoán hình ảnh”?",
+      "distractors": [
+        {
+          "word": "physiotherapist",
+          "meaning": "chuyên viên vật lý trị liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "nurse",
+          "meaning": "điều dưỡng",
+          "pos": "noun"
+        },
+        {
+          "word": "dentist",
+          "meaning": "nha sĩ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "anesthesiologist",
+      "meaning": "bác sĩ gây mê",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “bác sĩ gây mê”?",
+      "narration": "Từ nào có nghĩa là “bác sĩ gây mê”?",
+      "distractors": [
+        {
+          "word": "physiotherapist",
+          "meaning": "chuyên viên vật lý trị liệu",
+          "pos": "noun"
+        },
+        {
+          "word": "surgeon",
+          "meaning": "bác sĩ phẫu thuật",
+          "pos": "noun"
+        },
+        {
+          "word": "pharmacist",
+          "meaning": "dược sĩ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "physiotherapist",
+      "meaning": "chuyên viên vật lý trị liệu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “chuyên viên vật lý trị liệu”?",
+      "narration": "Từ nào có nghĩa là “chuyên viên vật lý trị liệu”?",
+      "distractors": [
+        {
+          "word": "nurse",
+          "meaning": "điều dưỡng",
+          "pos": "noun"
+        },
+        {
+          "word": "dentist",
+          "meaning": "nha sĩ",
+          "pos": "noun"
+        },
+        {
+          "word": "midwife",
+          "meaning": "hộ sinh",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

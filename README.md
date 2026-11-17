@@ -15,3 +15,4 @@
 - [100 từ động vật — 20 video, đọc trọn câu hỏi](vocab-video/published/dong-vat/README.md)
 - [100 từ trường học — 20 video, đọc trọn câu hỏi](vocab-video/published/truong-hoc/README.md)
 - [100 từ xe cộ — 20 video, đọc trọn câu hỏi](vocab-video/published/xe-co/README.md)
+- [100 từ bệnh viện — 20 video, đọc trọn câu hỏi](vocab-video/published/benh-vien/README.md)

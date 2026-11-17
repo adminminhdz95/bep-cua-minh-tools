@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 05",
+  "topic": "Dụng cụ khám bệnh",
+  "part": 1,
+  "think_seconds": 7.866666666666666,
+  "reveal_seconds": 2.5,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "stethoscope",
+      "meaning": "ống nghe y tế",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “ống nghe y tế”?",
+      "narration": "Từ nào có nghĩa là “ống nghe y tế”?",
+      "distractors": [
+        {
+          "word": "blood pressure monitor",
+          "meaning": "máy đo huyết áp",
+          "pos": "noun"
+        },
+        {
+          "word": "reflex hammer",
+          "meaning": "búa kiểm tra phản xạ",
+          "pos": "noun"
+        },
+        {
+          "word": "syringe",
+          "meaning": "ống tiêm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "thermometer",
+      "meaning": "nhiệt kế",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “nhiệt kế”?",
+      "narration": "Từ nào có nghĩa là “nhiệt kế”?",
+      "distractors": [
+        {
+          "word": "pulse oximeter",
+          "meaning": "máy đo độ bão hòa ô xi trong máu",
+          "pos": "noun"
+        },
+        {
+          "word": "otoscope",
+          "meaning": "dụng cụ soi tai",
+          "pos": "noun"
+        },
+        {
+          "word": "needle",
+          "meaning": "kim tiêm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "blood pressure monitor",
+      "meaning": "máy đo huyết áp",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “máy đo huyết áp”?",
+      "narration": "Từ nào có nghĩa là “máy đo huyết áp”?",
+      "distractors": [
+        {
+          "word": "reflex hammer",
+          "meaning": "búa kiểm tra phản xạ",
+          "pos": "noun"
+        },
+        {
+          "word": "syringe",
+          "meaning": "ống tiêm",
+          "pos": "noun"
+        },
+        {
+          "word": "tongue depressor",
+          "meaning": "que đè lưỡi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "pulse oximeter",
+      "meaning": "máy đo độ bão hòa ô xi trong máu",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ máy dùng để đo lượng ô xi bão hòa trong máu?",
+      "narration": "Từ nào chỉ máy dùng để đo lượng ô xi bão hòa trong máu?",
+      "distractors": [
+        {
+          "word": "otoscope",
+          "meaning": "dụng cụ soi tai",
+          "pos": "noun"
+        },
+        {
+          "word": "needle",
+          "meaning": "kim tiêm",
+          "pos": "noun"
+        },
+        {
+          "word": "tweezers",
+          "meaning": "nhíp gắp",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "reflex hammer",
+      "meaning": "búa kiểm tra phản xạ",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ chiếc búa nhỏ bác sĩ dùng để kiểm tra phản xạ?",
+      "narration": "Từ nào chỉ chiếc búa nhỏ bác sĩ dùng để kiểm tra phản xạ?",
+      "distractors": [
+        {
+          "word": "syringe",
+          "meaning": "ống tiêm",
+          "pos": "noun"
+        },
+        {
+          "word": "tongue depressor",
+          "meaning": "que đè lưỡi",
+          "pos": "noun"
+        },
+        {
+          "word": "stethoscope",
+          "meaning": "ống nghe y tế",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 13",
+  "topic": "Khám và xét nghiệm",
+  "part": 1,
+  "think_seconds": 9.0,
+  "reveal_seconds": 2.1666666666666665,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "blood test",
+      "meaning": "xét nghiệm máu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xét nghiệm máu”?",
+      "narration": "Từ nào có nghĩa là “xét nghiệm máu”?",
+      "distractors": [
+        {
+          "word": "X-ray",
+          "meaning": "chụp X quang",
+          "pos": "noun"
+        },
+        {
+          "word": "CT scan",
+          "meaning": "chụp cắt lớp vi tính",
+          "pos": "noun"
+        },
+        {
+          "word": "electrocardiogram",
+          "meaning": "điện tâm đồ",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "urine test",
+      "meaning": "xét nghiệm nước tiểu",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “xét nghiệm nước tiểu”?",
+      "narration": "Từ nào có nghĩa là “xét nghiệm nước tiểu”?",
+      "distractors": [
+        {
+          "word": "ultrasound",
+          "meaning": "siêu âm",
+          "pos": "noun"
+        },
+        {
+          "word": "MRI scan",
+          "meaning": "chụp cộng hưởng từ",
+          "pos": "noun"
+        },
+        {
+          "word": "biopsy",
+          "meaning": "sinh thiết",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "X-ray",
+      "meaning": "chụp X quang",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phương pháp chụp X quang?",
+      "narration": "Từ nào chỉ phương pháp chụp X quang?",
+      "distractors": [
+        {
+          "word": "CT scan",
+          "meaning": "chụp cắt lớp vi tính",
+          "pos": "noun"
+        },
+        {
+          "word": "electrocardiogram",
+          "meaning": "điện tâm đồ",
+          "pos": "noun"
+        },
+        {
+          "word": "vision test",
+          "meaning": "kiểm tra thị lực",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "ultrasound",
+      "meaning": "siêu âm",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “siêu âm”?",
+      "narration": "Từ nào có nghĩa là “siêu âm”?",
+      "distractors": [
+        {
+          "word": "MRI scan",
+          "meaning": "chụp cộng hưởng từ",
+          "pos": "noun"
+        },
+        {
+          "word": "biopsy",
+          "meaning": "sinh thiết",
+          "pos": "noun"
+        },
+        {
+          "word": "hearing test",
+          "meaning": "kiểm tra thính lực",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "CT scan",
+      "meaning": "chụp cắt lớp vi tính",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ phương pháp dùng tia X tạo nhiều ảnh lát cắt của cơ thể?",
+      "narration": "Từ nào chỉ phương pháp dùng tia X tạo nhiều ảnh lát cắt của cơ thể?",
+      "distractors": [
+        {
+          "word": "electrocardiogram",
+          "meaning": "điện tâm đồ",
+          "pos": "noun"
+        },
+        {
+          "word": "vision test",
+          "meaning": "kiểm tra thị lực",
+          "pos": "noun"
+        },
+        {
+          "word": "blood test",
+          "meaning": "xét nghiệm máu",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

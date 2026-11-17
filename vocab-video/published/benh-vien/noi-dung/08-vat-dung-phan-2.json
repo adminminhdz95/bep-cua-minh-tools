@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 08",
+  "topic": "Vật dụng chăm sóc",
+  "part": 2,
+  "think_seconds": 8.466666666666667,
+  "reveal_seconds": 2.433333333333333,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "wheelchair",
+      "meaning": "xe lăn",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ chiếc ghế có bánh để người khó đi lại ngồi di chuyển?",
+      "narration": "Từ nào chỉ chiếc ghế có bánh để người khó đi lại ngồi di chuyển?",
+      "distractors": [
+        {
+          "word": "crutch",
+          "meaning": "nạng chống khi đi lại",
+          "pos": "noun"
+        },
+        {
+          "word": "hospital bed",
+          "meaning": "giường bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "gauze",
+          "meaning": "gạc y tế",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "stretcher",
+      "meaning": "cáng vận chuyển người bệnh",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ dụng cụ để nhân viên khiêng người đang nằm?",
+      "narration": "Từ nào chỉ dụng cụ để nhân viên khiêng người đang nằm?",
+      "distractors": [
+        {
+          "word": "walking frame",
+          "meaning": "khung tập đi",
+          "pos": "noun"
+        },
+        {
+          "word": "bandage",
+          "meaning": "băng cuộn dùng băng vết thương",
+          "pos": "noun"
+        },
+        {
+          "word": "medical tape",
+          "meaning": "băng keo y tế",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "crutch",
+      "meaning": "nạng chống khi đi lại",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ thanh chống giúp người bị đau chân đi lại?",
+      "narration": "Từ nào chỉ thanh chống giúp người bị đau chân đi lại?",
+      "distractors": [
+        {
+          "word": "hospital bed",
+          "meaning": "giường bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "gauze",
+          "meaning": "gạc y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "cotton ball",
+          "meaning": "viên bông y tế",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "walking frame",
+      "meaning": "khung tập đi",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “khung tập đi”?",
+      "narration": "Từ nào có nghĩa là “khung tập đi”?",
+      "distractors": [
+        {
+          "word": "bandage",
+          "meaning": "băng cuộn dùng băng vết thương",
+          "pos": "noun"
+        },
+        {
+          "word": "medical tape",
+          "meaning": "băng keo y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "wound dressing",
+          "meaning": "miếng che phủ vết thương",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "hospital bed",
+      "meaning": "giường bệnh",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ chiếc giường dành cho bệnh nhân nằm điều trị?",
+      "narration": "Từ nào chỉ chiếc giường dành cho bệnh nhân nằm điều trị?",
+      "distractors": [
+        {
+          "word": "gauze",
+          "meaning": "gạc y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "cotton ball",
+          "meaning": "viên bông y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "wheelchair",
+          "meaning": "xe lăn",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

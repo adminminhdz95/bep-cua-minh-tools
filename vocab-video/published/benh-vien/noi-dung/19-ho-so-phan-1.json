@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 19",
+  "topic": "Hồ sơ và thông tin",
+  "part": 1,
+  "think_seconds": 7.766666666666667,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "appointment",
+      "meaning": "lịch hẹn khám bệnh",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “lịch hẹn khám bệnh”?",
+      "narration": "Từ nào có nghĩa là “lịch hẹn khám bệnh”?",
+      "distractors": [
+        {
+          "word": "medical record",
+          "meaning": "hồ sơ bệnh án",
+          "pos": "noun"
+        },
+        {
+          "word": "consent form",
+          "meaning": "giấy chấp thuận điều trị",
+          "pos": "noun"
+        },
+        {
+          "word": "patient wristband",
+          "meaning": "vòng đeo tay nhận diện người bệnh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "prescription",
+      "meaning": "đơn thuốc",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “đơn thuốc”?",
+      "narration": "Từ nào có nghĩa là “đơn thuốc”?",
+      "distractors": [
+        {
+          "word": "referral letter",
+          "meaning": "giấy chuyển khám chuyên khoa",
+          "pos": "noun"
+        },
+        {
+          "word": "insurance card",
+          "meaning": "thẻ bảo hiểm",
+          "pos": "noun"
+        },
+        {
+          "word": "test result",
+          "meaning": "kết quả xét nghiệm",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "medical record",
+      "meaning": "hồ sơ bệnh án",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “hồ sơ bệnh án”?",
+      "narration": "Từ nào có nghĩa là “hồ sơ bệnh án”?",
+      "distractors": [
+        {
+          "word": "consent form",
+          "meaning": "giấy chấp thuận điều trị",
+          "pos": "noun"
+        },
+        {
+          "word": "patient wristband",
+          "meaning": "vòng đeo tay nhận diện người bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "hospital bill",
+          "meaning": "hóa đơn viện phí",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "referral letter",
+      "meaning": "giấy chuyển khám chuyên khoa",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “giấy chuyển khám chuyên khoa”?",
+      "narration": "Từ nào có nghĩa là “giấy chuyển khám chuyên khoa”?",
+      "distractors": [
+        {
+          "word": "insurance card",
+          "meaning": "thẻ bảo hiểm",
+          "pos": "noun"
+        },
+        {
+          "word": "test result",
+          "meaning": "kết quả xét nghiệm",
+          "pos": "noun"
+        },
+        {
+          "word": "discharge summary",
+          "meaning": "bản tóm tắt điều trị khi xuất viện",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "consent form",
+      "meaning": "giấy chấp thuận điều trị",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “giấy chấp thuận điều trị”?",
+      "narration": "Từ nào có nghĩa là “giấy chấp thuận điều trị”?",
+      "distractors": [
+        {
+          "word": "patient wristband",
+          "meaning": "vòng đeo tay nhận diện người bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "hospital bill",
+          "meaning": "hóa đơn viện phí",
+          "pos": "noun"
+        },
+        {
+          "word": "appointment",
+          "meaning": "lịch hẹn khám bệnh",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "BỆNH VIỆN 07",
+  "topic": "Vật dụng chăm sóc",
+  "part": 1,
+  "think_seconds": 9.0,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "questions": [
+    {
+      "word": "bandage",
+      "meaning": "băng cuộn dùng băng vết thương",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ dải vải dài cuộn lại, dùng để quấn quanh vết thương?",
+      "narration": "Từ nào chỉ dải vải dài cuộn lại, dùng để quấn quanh vết thương?",
+      "distractors": [
+        {
+          "word": "medical tape",
+          "meaning": "băng keo y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "wound dressing",
+          "meaning": "miếng che phủ vết thương",
+          "pos": "noun"
+        },
+        {
+          "word": "stretcher",
+          "meaning": "cáng vận chuyển người bệnh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "gauze",
+      "meaning": "gạc y tế",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “gạc y tế”?",
+      "narration": "Từ nào có nghĩa là “gạc y tế”?",
+      "distractors": [
+        {
+          "word": "cotton ball",
+          "meaning": "viên bông y tế",
+          "pos": "noun"
+        },
+        {
+          "word": "wheelchair",
+          "meaning": "xe lăn",
+          "pos": "noun"
+        },
+        {
+          "word": "crutch",
+          "meaning": "nạng chống khi đi lại",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "medical tape",
+      "meaning": "băng keo y tế",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “băng keo y tế”?",
+      "narration": "Từ nào có nghĩa là “băng keo y tế”?",
+      "distractors": [
+        {
+          "word": "wound dressing",
+          "meaning": "miếng che phủ vết thương",
+          "pos": "noun"
+        },
+        {
+          "word": "stretcher",
+          "meaning": "cáng vận chuyển người bệnh",
+          "pos": "noun"
+        },
+        {
+          "word": "walking frame",
+          "meaning": "khung tập đi",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "cotton ball",
+      "meaning": "viên bông y tế",
+      "pos": "noun",
+      "prompt": "Từ nào có nghĩa là “viên bông y tế”?",
+      "narration": "Từ nào có nghĩa là “viên bông y tế”?",
+      "distractors": [
+        {
+          "word": "wheelchair",
+          "meaning": "xe lăn",
+          "pos": "noun"
+        },
+        {
+          "word": "crutch",
+          "meaning": "nạng chống khi đi lại",
+          "pos": "noun"
+        },
+        {
+          "word": "hospital bed",
+          "meaning": "giường bệnh",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "word": "wound dressing",
+      "meaning": "miếng che phủ vết thương",
+      "pos": "noun",
+      "prompt": "Từ nào chỉ miếng đặt lên vết thương để bảo vệ?",
+      "narration": "Từ nào chỉ miếng đặt lên vết thương để bảo vệ?",
+      "distractors": [
+        {
+          "word": "wheelchair",
+          "meaning": "xe lăn",
+          "pos": "noun"
+        },
+        {
+          "word": "crutch",
+          "meaning": "nạng chống khi đi lại",
+          "pos": "noun"
+        },
+        {
+          "word": "hospital bed",
+          "meaning": "giường bệnh",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
