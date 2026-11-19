@@ -1,0 +1,151 @@
+{
+  "title": "MÀU SẮC 02",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "option_colors": {
+    "red": "#E53935",
+    "blue": "#1565C0",
+    "yellow": "#FFEB3B",
+    "green": "#2E7D32",
+    "orange": "#FB8C00",
+    "purple": "#7B1FA2",
+    "pink": "#F48FB1",
+    "brown": "#795548",
+    "black": "#121212",
+    "white": "#FFFFFF",
+    "gray": "#808080",
+    "beige": "#F5F5DC",
+    "navy": "#000080",
+    "maroon": "#800000",
+    "olive": "#808000",
+    "turquoise": "#40E0D0",
+    "cyan": "#00FFFF",
+    "magenta": "#FF00FF",
+    "gold": "#D4AF37",
+    "silver": "#C0C0C0"
+  },
+  "questions": [
+    {
+      "word": "purple",
+      "meaning": "màu tím",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu tím?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu tím?",
+      "distractors": [
+        {
+          "word": "brown",
+          "meaning": "màu nâu",
+          "pos": "adjective"
+        },
+        {
+          "word": "black",
+          "meaning": "màu đen",
+          "pos": "adjective"
+        },
+        {
+          "word": "white",
+          "meaning": "màu trắng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "pink",
+      "meaning": "màu hồng",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu hồng?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu hồng?",
+      "distractors": [
+        {
+          "word": "blue",
+          "meaning": "màu xanh dương",
+          "pos": "adjective"
+        },
+        {
+          "word": "brown",
+          "meaning": "màu nâu",
+          "pos": "adjective"
+        },
+        {
+          "word": "black",
+          "meaning": "màu đen",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "brown",
+      "meaning": "màu nâu",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu nâu?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu nâu?",
+      "distractors": [
+        {
+          "word": "purple",
+          "meaning": "màu tím",
+          "pos": "adjective"
+        },
+        {
+          "word": "pink",
+          "meaning": "màu hồng",
+          "pos": "adjective"
+        },
+        {
+          "word": "black",
+          "meaning": "màu đen",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "black",
+      "meaning": "màu đen",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu đen?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu đen?",
+      "distractors": [
+        {
+          "word": "purple",
+          "meaning": "màu tím",
+          "pos": "adjective"
+        },
+        {
+          "word": "pink",
+          "meaning": "màu hồng",
+          "pos": "adjective"
+        },
+        {
+          "word": "brown",
+          "meaning": "màu nâu",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "white",
+      "meaning": "màu trắng",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu trắng?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu trắng?",
+      "distractors": [
+        {
+          "word": "purple",
+          "meaning": "màu tím",
+          "pos": "adjective"
+        },
+        {
+          "word": "pink",
+          "meaning": "màu hồng",
+          "pos": "adjective"
+        },
+        {
+          "word": "brown",
+          "meaning": "màu nâu",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

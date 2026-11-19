@@ -122,3 +122,7 @@ Logo tròn **Tiếng Anhh Cùng Minh** tự xuất hiện ở góc trên bên tr
 Khi cần đọc trọn câu hỏi, trường `narration` phải bằng toàn bộ câu hỏi hiển thị. JSON hỗ trợ `narration_rate: 0.92` (giọng Việt chậm hơn một chút, giữ cao độ) và `countdown_after_narration: true` (thanh đếm bắt đầu giảm sau lời đọc). Dành ít nhất 4 giây suy nghĩ sau lời đọc bằng cách tăng `think_seconds` theo thời lượng audio thực tế, không cắt hoặc đọc lướt câu hỏi để ép còn 6 giây.
 
 Bộ ghép âm tự giảm đều mức tín hiệu của đoạn quá lớn xuống đỉnh PCM 65% trước khi mã hóa AAC, để chừa khoảng cho đỉnh phát sinh khi nén. Giữ nguyên độ dài, cao độ và thời điểm lời đọc; validator vẫn kiểm tra đỉnh âm của MP4 thực tế.
+
+## Lựa chọn có màu tương ứng
+
+Thêm trường `option_colors` vào JSON gốc, ví dụ `{"red":"#E53935","blue":"#1565C0","yellow":"#FFEB3B","green":"#2E7D32"}`. Phải khai báo màu HEX sáu chữ số cho mọi từ xuất hiện trong các lựa chọn. Mỗi lựa chọn giữ nguyên màu cả trước và sau đáp án; chữ tự đổi đen/trắng để dễ đọc. Dấu ✓, viền trắng và dòng đáp án đánh dấu lựa chọn đúng. Bỏ trường này để dùng mẫu đáp án xanh thông thường.

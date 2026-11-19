@@ -1,0 +1,151 @@
+{
+  "title": "MÀU SẮC 04",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "option_colors": {
+    "red": "#E53935",
+    "blue": "#1565C0",
+    "yellow": "#FFEB3B",
+    "green": "#2E7D32",
+    "orange": "#FB8C00",
+    "purple": "#7B1FA2",
+    "pink": "#F48FB1",
+    "brown": "#795548",
+    "black": "#121212",
+    "white": "#FFFFFF",
+    "gray": "#808080",
+    "beige": "#F5F5DC",
+    "navy": "#000080",
+    "maroon": "#800000",
+    "olive": "#808000",
+    "turquoise": "#40E0D0",
+    "cyan": "#00FFFF",
+    "magenta": "#FF00FF",
+    "gold": "#D4AF37",
+    "silver": "#C0C0C0"
+  },
+  "questions": [
+    {
+      "word": "turquoise",
+      "meaning": "màu xanh ngọc lam",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu xanh ngọc lam?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu xanh ngọc lam?",
+      "distractors": [
+        {
+          "word": "magenta",
+          "meaning": "màu hồng cánh sen",
+          "pos": "adjective"
+        },
+        {
+          "word": "gold",
+          "meaning": "màu vàng kim",
+          "pos": "adjective"
+        },
+        {
+          "word": "silver",
+          "meaning": "màu bạc",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "cyan",
+      "meaning": "màu xanh lơ",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu xanh lơ?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu xanh lơ?",
+      "distractors": [
+        {
+          "word": "magenta",
+          "meaning": "màu hồng cánh sen",
+          "pos": "adjective"
+        },
+        {
+          "word": "gold",
+          "meaning": "màu vàng kim",
+          "pos": "adjective"
+        },
+        {
+          "word": "silver",
+          "meaning": "màu bạc",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "magenta",
+      "meaning": "màu hồng cánh sen",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu hồng cánh sen?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu hồng cánh sen?",
+      "distractors": [
+        {
+          "word": "turquoise",
+          "meaning": "màu xanh ngọc lam",
+          "pos": "adjective"
+        },
+        {
+          "word": "cyan",
+          "meaning": "màu xanh lơ",
+          "pos": "adjective"
+        },
+        {
+          "word": "gold",
+          "meaning": "màu vàng kim",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "gold",
+      "meaning": "màu vàng kim",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu vàng kim?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu vàng kim?",
+      "distractors": [
+        {
+          "word": "turquoise",
+          "meaning": "màu xanh ngọc lam",
+          "pos": "adjective"
+        },
+        {
+          "word": "magenta",
+          "meaning": "màu hồng cánh sen",
+          "pos": "adjective"
+        },
+        {
+          "word": "silver",
+          "meaning": "màu bạc",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "silver",
+      "meaning": "màu bạc",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu bạc?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu bạc?",
+      "distractors": [
+        {
+          "word": "cyan",
+          "meaning": "màu xanh lơ",
+          "pos": "adjective"
+        },
+        {
+          "word": "magenta",
+          "meaning": "màu hồng cánh sen",
+          "pos": "adjective"
+        },
+        {
+          "word": "gold",
+          "meaning": "màu vàng kim",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

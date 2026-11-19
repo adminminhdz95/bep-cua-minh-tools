@@ -96,3 +96,9 @@ Người dùng yêu cầu các lựa chọn sai gần nghĩa và cùng nhóm v�
 ## Yêu cầu đọc rõ hai ngôn ngữ
 
 Người dùng nhấn mạnh đọc đúng tiếng Việt và tiếng Anh. Giữ giọng đã chọn, mã ngôn ngữ `vi` cho toàn bộ câu hỏi và `en` cho đáp án. Khi một thuật ngữ Việt ngắn dễ nghe nhầm, có thể viết câu hỏi mô tả chức năng/ngữ cảnh bằng tiếng Việt tự nhiên; vẫn giữ từ và nghĩa chuẩn trong đáp án. Đặt `narration` bằng câu hỏi hiển thị. Kiểm tra lại MP4 sau mọi lần sửa lời đọc. Nếu dùng ASR, giữ bản chép thực tế và ghi rõ các khác biệt chính tả từ ghép/từ mượn; không tự xem ASR là chứng nhận dấu thanh, trọng âm hoặc giọng bản ngữ, không tuyên bố đã nghe khi không có công cụ nghe.
+
+## Chủ đề màu sắc
+
+Khi người dùng yêu cầu lựa chọn mang màu tương ứng, đặt `option_colors` ở cấp JSON gốc: ánh xạ từ tiếng Anh sang mã `#RRGGBB` cho mọi đáp án đúng và nhiễu. Bộ dựng giữ màu này ở cả hai giai đoạn, tự chọn chữ đen/trắng theo độ tương phản; đáp án đúng hiện dấu ✓, viền trắng và tên đáp án, không đổi thành nền xanh. Các chủ đề không có `option_colors` giữ mẫu cũ. Kiểm tra màu trong MP4 sau nén, kể cả màu trắng/đen/vàng và trường hợp green là lựa chọn sai. Màu vàng kim và bạc dùng màu phẳng đại diện trên màn hình.
+
+Bộ `vocab-video/published/mau-sac` gồm 20 màu/4 video xem trước không lời do ElevenLabs trả 401 invalid_api_key ngày 19/11/2026. Sau khi người dùng cập nhật secret trong cài đặt, dùng JSON `vocab-video/published/mau-sac/noi-dung` để dựng lại bằng cùng giọng ElevenLabs cho cả hai ngôn ngữ; tính thời lượng từ audio như quy trình trên. Không coi các bản xem trước là video đã có lời.

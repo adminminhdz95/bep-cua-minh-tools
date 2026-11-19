@@ -3,12 +3,43 @@ import json
 from pathlib import Path
 import unittest
 
-from render import prepare, frames
+from render import prepare, frames, card, landscape, color_ink
 
 SAMPLE = json.loads(Path(__file__).with_name('sample.json').read_text())
 
 
 class QuizValidationTests(unittest.TestCase):
+    def test_color_palette_is_complete_and_valid(self):
+        source = copy.deepcopy(SAMPLE)
+        source['option_colors'] = {'young': '#bad'}
+        with self.assertRaisesRegex(ValueError, '#RRGGBB'):
+            prepare(source)
+        source['option_colors'] = {'young': '#ff0000'}
+        with self.assertRaisesRegex(ValueError, 'missing an option'):
+            prepare(source)
+
+    def test_color_cards_retain_their_color_at_reveal(self):
+        source = copy.deepcopy(SAMPLE)
+        source['questions'] = source['questions'][:1]
+        words = [source['questions'][0]['word']] + [d['word'] for d in source['questions'][0]['distractors']]
+        colors = ['#00ff00', '#ffffff', '#000000', '#ffff00']
+        source['option_colors'] = dict(zip(words, colors))
+        data = prepare(source)
+        q = data['questions'][0]
+        bg = landscape()
+        before, after = [card(bg, data, q, 0, reveal) for reveal in (False, True)]
+        for j in range(4):
+            point = (975, 755+j*186+70)
+            self.assertEqual(before.getpixel(point), after.getpixel(point))
+            marker = (142, 755+j*186+40)
+            self.assertEqual(min(after.getpixel(marker)) > 220, j == q['answer'])
+            self.assertFalse(min(before.getpixel(marker)) > 220)
+        # The check stroke is actually visible, even with a font missing ✓.
+        y = 755 + q['answer'] * 186
+        self.assertEqual(after.getpixel((137, y+87)), (0, 0, 0))
+        self.assertEqual(color_ink('#ffffff'), '#000000')
+        self.assertEqual(color_ink('#000000'), '#ffffff')
+
     def test_balanced_positions_for_many_questions(self):
         source = copy.deepcopy(SAMPLE)
         source['questions'] *= 8

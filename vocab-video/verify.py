@@ -9,7 +9,8 @@ import subprocess
 import sys
 import wave
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageColor
+import unicodedata
 
 
 def check(condition, message):
@@ -57,8 +58,17 @@ def verify(video, manifest):
         for offset in (0, think//2, think-1, think, span-1):
             with Image.open(images[i*span+offset]) as im:
                 for j in range(4):
-                    is_green = green(im.getpixel((975, 755+j*186+70)))
-                    check(is_green == (offset >= think and j == q['answer']), f'Wrong answer state, question {i+1}, frame {offset}, option {j}')
+                    if data.get('option_colors'):
+                        key = unicodedata.normalize('NFC', q['options'][j]['word']).strip().casefold()
+                        expected = ImageColor.getrgb(data['option_colors'][key])
+                        actual = im.getpixel((975, 755+j*186+70))[:3]
+                        check(max(abs(a-b) for a,b in zip(expected, actual)) < 28, f'Wrong option color, question {i+1}, option {j}')
+                        marker = im.getpixel((142, 755+j*186+40))[:3]
+                        marked = min(marker) > 220
+                        check(marked == (offset >= think and j == q['answer']), f'Wrong color answer marker, question {i+1}, frame {offset}, option {j}')
+                    else:
+                        is_green = green(im.getpixel((975, 755+j*186+70)))
+                        check(is_green == (offset >= think and j == q['answer']), f'Wrong answer state, question {i+1}, frame {offset}, option {j}')
                 if offset == 0:
                     p = im.getpixel((900, 1660))
                     check(p[0] > 170 and p[1] > 150, 'Timer missing at question start')

@@ -1,0 +1,151 @@
+{
+  "title": "MÀU SẮC 01",
+  "think_seconds": 4,
+  "reveal_seconds": 2,
+  "narration_rate": 0.92,
+  "countdown_after_narration": true,
+  "option_colors": {
+    "red": "#E53935",
+    "blue": "#1565C0",
+    "yellow": "#FFEB3B",
+    "green": "#2E7D32",
+    "orange": "#FB8C00",
+    "purple": "#7B1FA2",
+    "pink": "#F48FB1",
+    "brown": "#795548",
+    "black": "#121212",
+    "white": "#FFFFFF",
+    "gray": "#808080",
+    "beige": "#F5F5DC",
+    "navy": "#000080",
+    "maroon": "#800000",
+    "olive": "#808000",
+    "turquoise": "#40E0D0",
+    "cyan": "#00FFFF",
+    "magenta": "#FF00FF",
+    "gold": "#D4AF37",
+    "silver": "#C0C0C0"
+  },
+  "questions": [
+    {
+      "word": "red",
+      "meaning": "màu đỏ",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu đỏ?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu đỏ?",
+      "distractors": [
+        {
+          "word": "blue",
+          "meaning": "màu xanh dương",
+          "pos": "adjective"
+        },
+        {
+          "word": "yellow",
+          "meaning": "màu vàng",
+          "pos": "adjective"
+        },
+        {
+          "word": "green",
+          "meaning": "màu xanh lá cây",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "blue",
+      "meaning": "màu xanh dương",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu xanh dương?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu xanh dương?",
+      "distractors": [
+        {
+          "word": "red",
+          "meaning": "màu đỏ",
+          "pos": "adjective"
+        },
+        {
+          "word": "orange",
+          "meaning": "màu cam",
+          "pos": "adjective"
+        },
+        {
+          "word": "yellow",
+          "meaning": "màu vàng",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "yellow",
+      "meaning": "màu vàng",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu vàng?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu vàng?",
+      "distractors": [
+        {
+          "word": "blue",
+          "meaning": "màu xanh dương",
+          "pos": "adjective"
+        },
+        {
+          "word": "red",
+          "meaning": "màu đỏ",
+          "pos": "adjective"
+        },
+        {
+          "word": "green",
+          "meaning": "màu xanh lá cây",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "green",
+      "meaning": "màu xanh lá cây",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu xanh lá cây?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu xanh lá cây?",
+      "distractors": [
+        {
+          "word": "red",
+          "meaning": "màu đỏ",
+          "pos": "adjective"
+        },
+        {
+          "word": "yellow",
+          "meaning": "màu vàng",
+          "pos": "adjective"
+        },
+        {
+          "word": "blue",
+          "meaning": "màu xanh dương",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "word": "orange",
+      "meaning": "màu cam",
+      "pos": "adjective",
+      "prompt": "Trong bảng màu này, từ nào chỉ màu cam?",
+      "narration": "Trong bảng màu này, từ nào chỉ màu cam?",
+      "distractors": [
+        {
+          "word": "red",
+          "meaning": "màu đỏ",
+          "pos": "adjective"
+        },
+        {
+          "word": "blue",
+          "meaning": "màu xanh dương",
+          "pos": "adjective"
+        },
+        {
+          "word": "yellow",
+          "meaning": "màu vàng",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

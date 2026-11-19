@@ -8,6 +8,7 @@ import json
 import math
 from pathlib import Path
 import random
+import re
 import shutil
 import subprocess
 import sys
@@ -15,7 +16,7 @@ import tempfile
 import unicodedata
 import uuid
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageColor
 from audio import write_audio
 
 ROOT = Path(__file__).resolve().parent
@@ -46,6 +47,14 @@ def frames(seconds, label):
     return round(seconds * FPS)
 
 
+def color_ink(color):
+    """Choose the higher-contrast black/white text using relative luminance."""
+    rgb = ImageColor.getrgb(color)
+    linear = [c / 255 / 12.92 if c / 255 <= .04045 else ((c / 255 + .055) / 1.055) ** 2.4 for c in rgb]
+    luminance = sum(c * w for c, w in zip(linear, (.2126, .7152, .0722)))
+    return '#000000' if (luminance + .05) / .05 >= 1.05 / (luminance + .05) else '#ffffff'
+
+
 def prepare(source, seed=7):
     data = copy.deepcopy(source)
     data['title'] = text(data.get('title', 'TỪ VỰNG A1'), 'title', 60)
@@ -58,6 +67,17 @@ def prepare(source, seed=7):
         raise ValueError('questions: expected 1–200 questions')
     data['questions'] = questions = [copy.deepcopy(q) for q in questions]
     rng = random.Random(seed)
+    palette = data.get('option_colors')
+    if palette is not None:
+        if not isinstance(palette, dict) or not palette:
+            raise ValueError('option_colors: expected a nonempty word-to-#RRGGBB mapping')
+        cleaned = {}
+        for word, color in palette.items():
+            key = normalize(text(word, 'option_colors word', 65))
+            if key in cleaned or not isinstance(color, str) or not re.fullmatch(r'#[0-9a-fA-F]{6}', color):
+                raise ValueError('option_colors: unique words and #RRGGBB colors required')
+            cleaned[key] = color.lower()
+        data['option_colors'] = palette = cleaned
     # Every complete group of four uses A, B, C, D exactly once.
     slots = []
     for _ in range(math.ceil(len(questions) / 4)):
@@ -81,6 +101,8 @@ def prepare(source, seed=7):
             raise ValueError(f'question {i + 1}: duplicate Vietnamese meanings')
         if any(normalize(o['pos']) != normalize(q['pos']) for o in options):
             raise ValueError(f'question {i + 1}: all options must share a part of speech')
+        if palette is not None and any(normalize(o['word']) not in palette for o in options):
+            raise ValueError(f'question {i + 1}: option_colors missing an option word')
         correct = options.pop(0)
         rng.shuffle(options)
         q['answer'] = slots[i]
@@ -161,15 +183,31 @@ def card(background, data, q, index, reveal):
     for j, option in enumerate(q['options']):
         y = 755 + j * 186
         correct = reveal and j == q['answer']
-        fill = (*GREEN, 255) if correct else (30, 16, 63, 235)
-        ink = '#102e25' if correct else WHITE
-        d.rounded_rectangle((80, y, 1000, y+158), 28, fill=fill, outline=(*GREEN, 255) if correct else (171, 135, 207, 255), width=3)
-        d.ellipse((102, y+35, 182, y+115), fill=(20, 46, 37, 255) if correct else (104, 68, 143, 255))
-        fit(d, 'ABCD'[j], (104, y+38, 180, y+110), size=41)
+        palette = data.get('option_colors')
+        if palette is not None:
+            fill = palette[normalize(option['word'])]
+            ink = color_ink(fill)
+            d.rounded_rectangle((76, y-4, 1004, y+162), 30, fill='#100a20')
+            d.rounded_rectangle((80, y, 1000, y+158), 28, fill=fill, outline='#ffffff' if correct else '#ac9cba', width=8 if correct else 3)
+            d.ellipse((102, y+35, 182, y+115), fill='#ffffff' if correct else '#1e103f')
+            if correct:
+                # Draw the check as geometry; Noto Sans need not contain this glyph.
+                d.line([(122, y+75), (137, y+90), (163, y+59)], fill='#000000', width=8, joint='curve')
+            else:
+                fit(d, 'ABCD'[j], (104, y+38, 180, y+110), size=41)
+        else:
+            fill = (*GREEN, 255) if correct else (30, 16, 63, 235)
+            ink = '#102e25' if correct else WHITE
+            d.rounded_rectangle((80, y, 1000, y+158), 28, fill=fill, outline=(*GREEN, 255) if correct else (171, 135, 207, 255), width=3)
+            d.ellipse((102, y+35, 182, y+115), fill=(20, 46, 37, 255) if correct else (104, 68, 143, 255))
+            fit(d, 'ABCD'[j], (104, y+38, 180, y+110), size=41)
         fit(d, option['word'], (215, y+8, 956, y+91 if reveal else y+150), size=62, minimum=30, fill=ink, align='left')
         if reveal:
             fit(d, option['meaning'], (215, y+86, 956, y+150), size=33, minimum=24, fill=ink, bold=False, align='left')
-    fit(d, 'ĐÁP ÁN ĐÚNG' if reveal else 'BẠN CHỌN ĐÁP ÁN NÀO?', (80, 1535, 1000, 1610), size=33, fill=GREEN if reveal else '#eddfed')
+    status = 'ĐÁP ÁN ĐÚNG' if reveal else 'BẠN CHỌN ĐÁP ÁN NÀO?'
+    if reveal and data.get('option_colors'):
+        status += f': {"ABCD"[q["answer"]]} — {q["word"].upper()}'
+    fit(d, status, (80, 1535, 1000, 1610), size=33, fill=GREEN if reveal else '#eddfed')
     fit(d, 'Mỗi ngày một chút • Tiếng Anh dễ nhớ', (70, 1750, 1010, 1820), size=28, bold=False, fill='#d5c3e6')
     composed = Image.alpha_composite(im, layer)
     logo_path = ROOT / 'assets' / 'logo-tieng-anhh-cung-minh.png'
