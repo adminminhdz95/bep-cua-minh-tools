@@ -16,4 +16,4 @@
 - [100 từ trường học — 20 video, đọc trọn câu hỏi](vocab-video/published/truong-hoc/README.md)
 - [100 từ xe cộ — 20 video, đọc trọn câu hỏi](vocab-video/published/xe-co/README.md)
 - [100 từ bệnh viện — 20 video, đọc trọn câu hỏi](vocab-video/published/benh-vien/README.md)
-- [Màu sắc — 20 từ, 4 video xem trước không lời](vocab-video/published/mau-sac/README.md)
+- [Màu sắc — 20 từ, 4 video có giọng Việt–Anh](vocab-video/published/mau-sac/README.md)

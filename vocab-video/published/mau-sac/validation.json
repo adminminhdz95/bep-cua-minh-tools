@@ -1,5 +1,5 @@
 {
-  "status": "preview_verified_voice_blocked",
+  "status": "technical_checks_passed",
   "videos": 4,
   "questions": 20,
   "size": [
@@ -7,68 +7,88 @@
     1920
   ],
   "fps": 30,
-  "total_seconds": 120,
-  "audio": "Reference countdown and answer cues only. No narration.",
-  "voice_blocker": "ElevenLabs HTTP 401 invalid_api_key",
-  "tests": 24,
-  "visual_review": "Contact sheet and full-size decoded frame inspected for every final video. Checkmark drawn as geometry.",
-  "color_checks": "Option fill compared against specified RGB in actual decoded frames before and after reveal; exactly one answer marker after reveal.",
+  "voice": "Same configured ElevenLabs voice for Vietnamese questions and English answers",
+  "minimum_countdown_after_question_seconds": 4.000645833333333,
+  "total_seconds": 185.83333333333334,
+  "english_answers_recognized": 20,
+  "vietnamese_question_transcripts_exact": 17,
+  "vietnamese_asr_differences": [
+    {
+      "video": 2,
+      "question": 2,
+      "expected": "Trong bảng màu này, từ nào chỉ màu hồng?",
+      "recognized": "Trong bảng màu này, từ nào chỉ màu hông?"
+    },
+    {
+      "video": 3,
+      "question": 4,
+      "expected": "Trong bảng màu này, từ nào chỉ màu đỏ nâu sẫm?",
+      "recognized": "Trong bảng màu này, từ nào chỉ màu đỏ nâu sấm?"
+    },
+    {
+      "video": 4,
+      "question": 1,
+      "expected": "Trong bảng màu này, từ nào chỉ màu xanh ngọc lam?",
+      "recognized": "Trong bảng màu này, từ nào chỉ màu xanh ngọc lám?"
+    }
+  ],
+  "limitation": "ASR is not a phonetic certification; direct listening not claimed.",
   "reports": [
     {
-      "video": "01-mau-sac-phan-1-khong-loi.mp4",
-      "status": "passed",
-      "duration_seconds": 30,
-      "audio_peak": 0.27588,
-      "answer_positions": [
-        "D",
-        "A",
-        "C",
-        "B",
-        "D"
+      "number": 1,
+      "file": "01-mau-sac-phan-1-co-loi.mp4",
+      "words": [
+        "red",
+        "blue",
+        "yellow",
+        "green",
+        "orange"
       ],
-      "questions": 5
+      "duration_seconds": 45.333333333333336,
+      "audio_peak": 0.72955,
+      "status": "passed"
     },
     {
-      "video": "02-mau-sac-phan-2-khong-loi.mp4",
-      "status": "passed",
-      "duration_seconds": 30,
-      "audio_peak": 0.27588,
-      "answer_positions": [
-        "B",
-        "C",
-        "D",
-        "A",
-        "D"
+      "number": 2,
+      "file": "02-mau-sac-phan-2-co-loi.mp4",
+      "words": [
+        "purple",
+        "pink",
+        "brown",
+        "black",
+        "white"
       ],
-      "questions": 5
+      "duration_seconds": 44.5,
+      "audio_peak": 0.65308,
+      "status": "passed"
     },
     {
-      "video": "03-mau-sac-phan-3-khong-loi.mp4",
-      "status": "passed",
-      "duration_seconds": 30,
-      "audio_peak": 0.27588,
-      "answer_positions": [
-        "D",
-        "A",
-        "C",
-        "B",
-        "A"
+      "number": 3,
+      "file": "03-mau-sac-phan-3-co-loi.mp4",
+      "words": [
+        "gray",
+        "beige",
+        "navy",
+        "maroon",
+        "olive"
       ],
-      "questions": 5
+      "duration_seconds": 47.166666666666664,
+      "audio_peak": 0.66263,
+      "status": "passed"
     },
     {
-      "video": "04-mau-sac-phan-4-khong-loi.mp4",
-      "status": "passed",
-      "duration_seconds": 30,
-      "audio_peak": 0.27588,
-      "answer_positions": [
-        "C",
-        "A",
-        "D",
-        "B",
-        "C"
+      "number": 4,
+      "file": "04-mau-sac-phan-4-co-loi.mp4",
+      "words": [
+        "turquoise",
+        "cyan",
+        "magenta",
+        "gold",
+        "silver"
       ],
-      "questions": 5
+      "duration_seconds": 48.833333333333336,
+      "audio_peak": 0.65393,
+      "status": "passed"
     }
   ]
 }

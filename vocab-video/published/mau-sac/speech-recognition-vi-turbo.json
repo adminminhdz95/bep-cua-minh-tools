@@ -1,0 +1,162 @@
+[
+  {
+    "video": 1,
+    "language": "vi",
+    "expected": "Trong bảng màu này, từ nào chỉ màu đỏ? Trong bảng màu này, từ nào chỉ màu xanh dương? Trong bảng màu này, từ nào chỉ màu vàng? Trong bảng màu này, từ nào chỉ màu xanh lá cây? Trong bảng màu này, từ nào chỉ màu cam?",
+    "recognized": "Trong bảng màu này, từ nào chỉ màu đỏ? Trong bảng màu này, từ nào chỉ màu xanh dương? Trong bảng màu này, từ nào chỉ màu vàng? Trong bảng màu này, từ nào chỉ màu xanh lá cây? Trong bảng màu này, từ nào chỉ màu cam?",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.52,
+        "text": " Trong bảng màu này, từ nào chỉ màu đỏ?",
+        "avg_logprob": -0.07992094033642819
+      },
+      {
+        "start": 3.4,
+        "end": 6.04,
+        "text": " Trong bảng màu này, từ nào chỉ màu xanh dương?",
+        "avg_logprob": -0.07992094033642819
+      },
+      {
+        "start": 6.82,
+        "end": 9.200000000000001,
+        "text": " Trong bảng màu này, từ nào chỉ màu vàng?",
+        "avg_logprob": -0.07992094033642819
+      },
+      {
+        "start": 9.96,
+        "end": 12.66,
+        "text": " Trong bảng màu này, từ nào chỉ màu xanh lá cây?",
+        "avg_logprob": -0.07992094033642819
+      },
+      {
+        "start": 13.4,
+        "end": 15.74,
+        "text": " Trong bảng màu này, từ nào chỉ màu cam?",
+        "avg_logprob": -0.07992094033642819
+      }
+    ]
+  },
+  {
+    "video": 2,
+    "language": "vi",
+    "expected": "Trong bảng màu này, từ nào chỉ màu tím? Trong bảng màu này, từ nào chỉ màu hồng? Trong bảng màu này, từ nào chỉ màu nâu? Trong bảng màu này, từ nào chỉ màu đen? Trong bảng màu này, từ nào chỉ màu trắng?",
+    "recognized": "Trong bảng màu này, từ nào chỉ màu tím? Trong bảng màu này, từ nào chỉ màu hông? Trong bảng màu này, từ nào chỉ màu nâu? Trong bảng màu này, từ nào chỉ màu đen? Trong bảng màu này, từ nào chỉ màu trắng?",
+    "similarity": 0.9947916666666666,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.38,
+        "text": " Trong bảng màu này, từ nào chỉ màu tím?",
+        "avg_logprob": -0.08256291049522357
+      },
+      {
+        "start": 3.14,
+        "end": 5.46,
+        "text": " Trong bảng màu này, từ nào chỉ màu hông?",
+        "avg_logprob": -0.08256291049522357
+      },
+      {
+        "start": 6.28,
+        "end": 8.64,
+        "text": " Trong bảng màu này, từ nào chỉ màu nâu?",
+        "avg_logprob": -0.08256291049522357
+      },
+      {
+        "start": 9.44,
+        "end": 11.96,
+        "text": " Trong bảng màu này, từ nào chỉ màu đen?",
+        "avg_logprob": -0.08256291049522357
+      },
+      {
+        "start": 12.700000000000001,
+        "end": 15.16,
+        "text": " Trong bảng màu này, từ nào chỉ màu trắng?",
+        "avg_logprob": -0.08256291049522357
+      }
+    ]
+  },
+  {
+    "video": 3,
+    "language": "vi",
+    "expected": "Trong bảng màu này, từ nào chỉ màu xám? Trong bảng màu này, từ nào chỉ màu be? Trong bảng màu này, từ nào chỉ màu xanh hải quân? Trong bảng màu này, từ nào chỉ màu đỏ nâu sẫm? Trong bảng màu này, từ nào chỉ màu xanh ô liu?",
+    "recognized": "Trong bảng màu này, từ nào chỉ màu xám? Trong bảng màu này, từ nào chỉ màu be? Trong bảng màu này, từ nào chỉ màu xanh hải quân? Trong bảng màu này, từ nào chỉ màu đỏ nâu sấm? Trong bảng màu này, từ nào chỉ màu xanh ô liu?",
+    "similarity": 0.9952830188679245,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.62,
+        "text": " Trong bảng màu này, từ nào chỉ màu xám?",
+        "avg_logprob": -0.11534030443313074
+      },
+      {
+        "start": 3.44,
+        "end": 5.92,
+        "text": " Trong bảng màu này, từ nào chỉ màu be?",
+        "avg_logprob": -0.11534030443313074
+      },
+      {
+        "start": 6.74,
+        "end": 9.700000000000001,
+        "text": " Trong bảng màu này, từ nào chỉ màu xanh hải quân?",
+        "avg_logprob": -0.11534030443313074
+      },
+      {
+        "start": 10.5,
+        "end": 13.34,
+        "text": " Trong bảng màu này, từ nào chỉ màu đỏ nâu sấm?",
+        "avg_logprob": -0.11534030443313074
+      },
+      {
+        "start": 14.120000000000001,
+        "end": 16.94,
+        "text": " Trong bảng màu này, từ nào chỉ màu xanh ô liu?",
+        "avg_logprob": -0.11534030443313074
+      }
+    ]
+  },
+  {
+    "video": 4,
+    "language": "vi",
+    "expected": "Trong bảng màu này, từ nào chỉ màu xanh ngọc lam? Trong bảng màu này, từ nào chỉ màu xanh lơ? Trong bảng màu này, từ nào chỉ màu hồng cánh sen? Trong bảng màu này, từ nào chỉ màu vàng kim? Trong bảng màu này, từ nào chỉ màu bạc?",
+    "recognized": "Trong bảng màu này, từ nào chỉ màu xanh ngọc lám? Trong bảng màu này, từ nào chỉ màu xanh lơ? Trong bảng màu này, từ nào chỉ màu hồng cánh sen? Trong bảng màu này, từ nào chỉ màu vàng kim? Trong bảng màu này, từ nào chỉ màu bạc?",
+    "similarity": 0.9954128440366973,
+    "exact": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.94,
+        "text": " Trong bảng màu này, từ nào chỉ màu xanh ngọc lám?",
+        "avg_logprob": -0.10043188698083452
+      },
+      {
+        "start": 3.7600000000000002,
+        "end": 6.44,
+        "text": " Trong bảng màu này, từ nào chỉ màu xanh lơ?",
+        "avg_logprob": -0.10043188698083452
+      },
+      {
+        "start": 7.2,
+        "end": 10.34,
+        "text": " Trong bảng màu này, từ nào chỉ màu hồng cánh sen?",
+        "avg_logprob": -0.10043188698083452
+      },
+      {
+        "start": 11.18,
+        "end": 13.82,
+        "text": " Trong bảng màu này, từ nào chỉ màu vàng kim?",
+        "avg_logprob": -0.10043188698083452
+      },
+      {
+        "start": 14.68,
+        "end": 17.22,
+        "text": " Trong bảng màu này, từ nào chỉ màu bạc?",
+        "avg_logprob": -0.10043188698083452
+      }
+    ]
+  }
+]

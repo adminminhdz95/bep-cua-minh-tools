@@ -1,0 +1,90 @@
+[
+  {
+    "video": 1,
+    "language": "en",
+    "expected": "red blue yellow green orange",
+    "recognized": "red, blue, yellow, green, orange.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "text": " red, blue, yellow, green, orange.",
+        "avg_logprob": -0.31044308038858265
+      }
+    ]
+  },
+  {
+    "video": 2,
+    "language": "en",
+    "expected": "purple pink brown black white",
+    "recognized": "purple, pink, brown, black, white.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.5600000000000005,
+        "text": " purple, pink, brown, black, white.",
+        "avg_logprob": -0.3488511030490582
+      }
+    ]
+  },
+  {
+    "video": 3,
+    "language": "en",
+    "expected": "gray beige navy maroon olive",
+    "recognized": "Gray. Beige. Navy. Maroon. Olive.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.8,
+        "text": " Gray.",
+        "avg_logprob": -0.41820858872455097
+      },
+      {
+        "start": 1.8,
+        "end": 3.48,
+        "text": " Beige.",
+        "avg_logprob": -0.41820858872455097
+      },
+      {
+        "start": 3.48,
+        "end": 5.12,
+        "text": " Navy.",
+        "avg_logprob": -0.41820858872455097
+      },
+      {
+        "start": 5.12,
+        "end": 7.0,
+        "text": " Maroon.",
+        "avg_logprob": -0.41820858872455097
+      },
+      {
+        "start": 7.0,
+        "end": 8.84,
+        "text": " Olive.",
+        "avg_logprob": -0.41820858872455097
+      }
+    ]
+  },
+  {
+    "video": 4,
+    "language": "en",
+    "expected": "turquoise cyan magenta gold silver",
+    "recognized": "turquoise, cyan, magenta, gold, silver.",
+    "similarity": 1.0,
+    "exact": true,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.6,
+        "text": " turquoise, cyan, magenta, gold, silver.",
+        "avg_logprob": -0.315090911462903
+      }
+    ]
+  }
+]

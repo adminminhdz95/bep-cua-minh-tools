@@ -1,0 +1,74 @@
+{
+  "status": "preview_verified_voice_blocked",
+  "videos": 4,
+  "questions": 20,
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "total_seconds": 120,
+  "audio": "Reference countdown and answer cues only. No narration.",
+  "voice_blocker": "ElevenLabs HTTP 401 invalid_api_key",
+  "tests": 24,
+  "visual_review": "Contact sheet and full-size decoded frame inspected for every final video. Checkmark drawn as geometry.",
+  "color_checks": "Option fill compared against specified RGB in actual decoded frames before and after reveal; exactly one answer marker after reveal.",
+  "reports": [
+    {
+      "video": "01-mau-sac-phan-1-khong-loi.mp4",
+      "status": "passed",
+      "duration_seconds": 30,
+      "audio_peak": 0.27588,
+      "answer_positions": [
+        "D",
+        "A",
+        "C",
+        "B",
+        "D"
+      ],
+      "questions": 5
+    },
+    {
+      "video": "02-mau-sac-phan-2-khong-loi.mp4",
+      "status": "passed",
+      "duration_seconds": 30,
+      "audio_peak": 0.27588,
+      "answer_positions": [
+        "B",
+        "C",
+        "D",
+        "A",
+        "D"
+      ],
+      "questions": 5
+    },
+    {
+      "video": "03-mau-sac-phan-3-khong-loi.mp4",
+      "status": "passed",
+      "duration_seconds": 30,
+      "audio_peak": 0.27588,
+      "answer_positions": [
+        "D",
+        "A",
+        "C",
+        "B",
+        "A"
+      ],
+      "questions": 5
+    },
+    {
+      "video": "04-mau-sac-phan-4-khong-loi.mp4",
+      "status": "passed",
+      "duration_seconds": 30,
+      "audio_peak": 0.27588,
+      "answer_positions": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
+      "questions": 5
+    }
+  ]
+}
